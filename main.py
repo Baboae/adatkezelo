@@ -1,8 +1,9 @@
 import datetime
-import random
+from typing import List
+from data.basic.model_classes import *
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
-from generators.race_lap_generator import generate_race_laps
+
 
 def LTF(ms: int) -> str: #LAP TIME FORMATTER
     """Convert lap time in milliseconds to M:SS.mmm format."""
@@ -15,18 +16,16 @@ def DTF(dt: datetime) -> str: #DATE TIME FORMATTER
     return dt.strftime("%Y-%m-%d %H:%M:%S")
 
 def main():
-    print("\n")
-    players = generate_players(3)
-    rds = generate_race_data(3)
-    rls = generate_race_laps(players, rds[0], 3)
-    for p in players:
-        print(p)
-    print("\n")
-    for r in rds:
+    PLAYERS = generate_players(32)
+    players: List[Player] = []
+    for p in PLAYERS:
+        players.append(p)
+
+    RDS = generate_race_data(24)
+    race_metas: List[Race_Data] = []
+    for r in RDS:
+        race_metas.append(r)
+    for r in race_metas:
         print(r)
-    print("\n")
-    for rl in rls:
-        print(f"R{rl.RACE_ID}"
-              f"\nUser #{rl.user_id} went: {LTF(rl.laptime)}")
 if __name__ == '__main__':
     main()
