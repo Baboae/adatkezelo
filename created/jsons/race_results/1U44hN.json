@@ -1,0 +1,131 @@
+[
+    {
+        "race_id": "1U44hN",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "participants": [
+            {
+                "user_id": 63755379,
+                "username": "Orellana_9",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 360370,
+                "results": {
+                    "rating_before": 1484.0,
+                    "reputation_before": 80.864,
+                    "rating_change": 17.103,
+                    "reputation_change": 0.46199999999999986
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130415,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114597,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115358,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1501.103,
+                "new_rep": 81.326
+            },
+            {
+                "user_id": 85850696,
+                "username": "Manullang_41",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 360958,
+                "results": {
+                    "rating_before": 1500.0,
+                    "reputation_before": 72.995,
+                    "rating_change": 0.0,
+                    "reputation_change": 6.623
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133023,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112457,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115478,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 79.618
+            },
+            {
+                "user_id": 32739449,
+                "username": "Pułka_18",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 361456,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 79.36,
+                    "rating_change": -17.103,
+                    "reputation_change": 5.243
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128965,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112705,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119786,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1498.897,
+                "new_rep": 84.603
+            }
+        ]
+    }
+]

@@ -5,44 +5,92 @@ from data.basic.model_classes import Player, Race_Data, RaceResult
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
 from generators.race_result_generator import generate_laps
-from functions.save_to_json import save_to_json
-from functions.load_from_json import load_from_json
-from functions.lap_time_formatter import format_lap_time
+from functions.json_io import save_to_json, load_from_json
+from functions.csv_io import save_csv, load_csv
+from functions.xlsx_io import save_xlsx, load_xlsx
+from functions.unix_to_ts import unix_to_timestamp
+from functions.clear_results import clear_results
 
 def main():
     # --- race_results mappa ürítése ---
-    results_dir = Path("created/race_results")
-    results_dir.mkdir(parents=True, exist_ok=True)
-    for file in results_dir.iterdir():
-        if file.is_file():
-            file.unlink()
-
+    clear_results()
     # játékosok és versenyek generálása
-    PLAYERS: List[Player] = generate_players(50)
-    RACES: List[Race_Data] = generate_race_data(100)
+    PLAYERS: List[Player] = generate_players(3)
+    RACES: List[Race_Data] = generate_race_data(3)
 
     race_results: List[RaceResult] = []
 
     for rd in RACES:
-        num_participants = random.randint(3, 22)
+        num_participants = random.randint(3, 3)
         participants = random.sample(PLAYERS, num_participants)
 
-        race_result: RaceResult = generate_laps(rd, participants, min_laps=8, max_laps=10)
+        race_result: RaceResult = generate_laps(rd, participants, min_laps=3, max_laps=3)
         race_results.append(race_result)
 
-        # mentés JSON-ba, dataclass → dict konverzió automatikusan megy
+        # JSON + CSV mentés
         save_to_json([race_result], f"race_results/{race_result.race_id}.json")
+        save_csv([race_result], f"race_results/{race_result.race_id}.csv")
 
-    # frissített játékosok mentése
+        # --- XLSX mentés: külön lapokon RaceResult, Participants, Laps ---
+        # RaceResult metaadatok
+        race_meta = [{
+            "race_id": race_result.race_id,
+            "track": race_result.track,
+            "layout": race_result.layout,
+            "car_class": race_result.car_class
+        }]
+
+        # Participants táblázat
+        participants_rows = []
+        for p in race_result.participants:
+            participants_rows.append({
+                "race_id": race_result.race_id,
+                "user_id": p.user_id,
+                "username": p.username,
+                "start_position": p.start_position,
+                "finish_position": p.finish_position,
+                "incident_points": p.incident_points,
+                "total_time": p.total_time,
+                "rating_before": p.results["rating_before"],
+                "rating_change": p.results["rating_change"],
+                "reputation_before": p.results["reputation_before"],
+                "reputation_change": p.results["reputation_change"],
+                "new_rating": p.new_rating,
+                "new_rep": p.new_rep
+            })
+
+        # Laps táblázat
+        laps_rows = []
+        for p in race_result.participants:
+            for l in p.laps:
+                laps_rows.append({
+                    "race_id": race_result.race_id,
+                    "user_id": p.user_id,
+                    "lap": l.lap,
+                    "time": l.time,
+                    "position": l.position,
+                    "valid": l.valid,
+                    "incidents": ", ".join(l.incidents) if l.incidents else ""
+                })
+
+        save_xlsx({
+            "RaceResult": race_meta,
+            "Participants": participants_rows,
+            "Laps": laps_rows
+        }, f"race_results/{race_result.race_id}.xlsx")
+
     save_to_json(PLAYERS, "players.json")
-
-    # verseny metaadatok mentése
     save_to_json(RACES, "race_meta.json")
 
+    save_csv(PLAYERS,  "players.csv")
+    save_csv(RACES, "race_meta.csv")
 
-    # Példa visszaolvasásra:
+    save_xlsx({"Players": PLAYERS}, "players.xlsx")
+    save_xlsx({"Races": RACES}, "race_meta.xlsx")
+
     players_loaded = load_from_json("players.json", Player)
     races_loaded = load_from_json("race_meta.json", Race_Data)
+
 
     print(f"Betöltött játékosok száma: {len(players_loaded)}")
     print(f"Betöltött versenyek száma: {len(races_loaded)}\n")
@@ -58,10 +106,10 @@ def main():
                 print(f"{p["username"]}"
                       f"\nStarted P{p["start_position"]}"
                       f"\nFinished P{p["finish_position"]}"
-                      f"\nTime: {format_lap_time(p["total_time"])}"
+                      f"\nTime: {unix_to_timestamp(p["total_time"])}"
                       f"\nLaps:\n")
                 for l in p["laps"]:
                     print(f"L{l["lap"]}, P{l["position"]}"
-                          f"\nTime: {format_lap_time(l['time'])}\n")
+                          f"\nTime: {unix_to_timestamp(l['time'])}\n")
 if __name__ == "__main__":
     main()
