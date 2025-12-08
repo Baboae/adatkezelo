@@ -37,8 +37,5 @@ def main():
     # verseny metaadatok mentése
     save_list_to_json(RACES, "race_meta.json")
 
-    # összes futam egyben
-    save_list_to_json(race_jsons, "all_races.json")
-
 if __name__ == "__main__":
     main()
