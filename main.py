@@ -5,7 +5,7 @@ from typing import List
 from data.basic.model_classes import Player, Race_Data
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
-from generators.race_lap_generator import generate_laps
+from generators.race_result_generator import generate_laps
 from functions.save_to_json import save_list_to_json
 
 def main():
