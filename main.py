@@ -15,16 +15,16 @@ def main():
     # --- race_results mappa ürítése ---
     clear_results()
     # játékosok és versenyek generálása
-    PLAYERS: List[Player] = generate_players(3)
-    RACES: List[Race_Data] = generate_race_data(3)
+    PLAYERS: List[Player] = generate_players(32)
+    RACES: List[Race_Data] = generate_race_data(100)
 
     race_results: List[RaceResult] = []
 
     for rd in RACES:
-        num_participants = random.randint(3, 3)
+        num_participants = random.randint(3, 22)
         participants = random.sample(PLAYERS, num_participants)
 
-        race_result: RaceResult = generate_laps(rd, participants, min_laps=3, max_laps=3)
+        race_result: RaceResult = generate_laps(rd, participants, min_laps=3, max_laps=10)
         race_results.append(race_result)
 
         # JSON + CSV mentés
