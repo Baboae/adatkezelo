@@ -1,0 +1,568 @@
+[
+    {
+        "race_id": "I9fsAu",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "participants": [
+            {
+                "user_id": 14549608,
+                "username": "Escolano_97",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 12,
+                "total_time": 3623962,
+                "results": {
+                    "rating_before": 1684.463,
+                    "reputation_before": 0.0,
+                    "rating_change": 4.363,
+                    "reputation_change": -4.4
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 475548,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 449968,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 441747,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 444921,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 442497,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 460139,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 464617,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 444525,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1688.826,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 83197967,
+                "username": "Chema_72",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 3688053,
+                "results": {
+                    "rating_before": 1568.669,
+                    "reputation_before": 0.0,
+                    "rating_change": 2.365,
+                    "reputation_change": -1.3
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 491999,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 439947,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 456648,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 463710,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 452382,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 434614,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 470484,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 478269,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1571.034,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 29969256,
+                "username": "Jorge_the_goat",
+                "start_position": 6,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 3714725,
+                "results": {
+                    "rating_before": 1540.509,
+                    "reputation_before": 0.0,
+                    "rating_change": -2.082,
+                    "reputation_change": -0.6000000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 515733,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 456038,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 457569,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 445862,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 465711,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 440886,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 470545,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 462381,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1538.427,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 14466261,
+                "username": "Novais_31",
+                "start_position": 7,
+                "finish_position": 4,
+                "incident_points": 8,
+                "total_time": 3803000,
+                "results": {
+                    "rating_before": 1170.83,
+                    "reputation_before": 0.0,
+                    "rating_change": 5.244,
+                    "reputation_change": -2.8
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 516798,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 484744,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 490073,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 467897,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 468885,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 464962,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 452066,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 457575,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1176.074,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 21582922,
+                "username": "Edwards_KedvesPalacsinta",
+                "start_position": 5,
+                "finish_position": 5,
+                "incident_points": 8,
+                "total_time": 3832577,
+                "results": {
+                    "rating_before": 1264.239,
+                    "reputation_before": 1.8,
+                    "rating_change": -3.356,
+                    "reputation_change": -2.8
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 501703,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 492613,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 461992,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 463526,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 465388,
+                        "valid": false,
+                        "position": 5,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 483407,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 478611,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 485337,
+                        "valid": false,
+                        "position": 5,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1260.883,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 86194461,
+                "username": "Baker_15",
+                "start_position": 2,
+                "finish_position": 6,
+                "incident_points": 5,
+                "total_time": 3872377,
+                "results": {
+                    "rating_before": 1045.893,
+                    "reputation_before": 0.0,
+                    "rating_change": -1.287,
+                    "reputation_change": -1.3
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 502056,
+                        "valid": false,
+                        "position": 6,
+                        "incidents": [
+                            "False Start",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 461032,
+                        "valid": false,
+                        "position": 6,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 469847,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 478454,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 474251,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 500054,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 484572,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 502111,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1044.606,
+                "new_rep": 0.0
+            },
+            {
+                "user_id": 90503582,
+                "username": "Lopes_44",
+                "start_position": 4,
+                "finish_position": 7,
+                "incident_points": 3,
+                "total_time": 3914979,
+                "results": {
+                    "rating_before": 1000,
+                    "reputation_before": 0.0,
+                    "rating_change": -5.248,
+                    "reputation_change": -0.30000000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 515787,
+                        "valid": false,
+                        "position": 7,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 480444,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 485871,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 488319,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 489258,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 464165,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 489370,
+                        "valid": false,
+                        "position": 7,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 501765,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1000,
+                "new_rep": 0.0
+            }
+        ]
+    }
+]

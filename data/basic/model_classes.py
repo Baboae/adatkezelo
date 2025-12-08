@@ -21,9 +21,4 @@ class Race_Data:
     layout: str
     car_class: str
 
-@dataclass
-class Lap:
-    position: int
-    incidents: List[str]
-    valid: bool
-    time: int  # összesített köridő ms-ben
+

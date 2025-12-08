@@ -17,13 +17,13 @@ def main():
             file.unlink()
 
     # játékosok és versenyek
-    PLAYERS: List[Player] = generate_players(32)
-    RACES: List[Race_Data] = generate_race_data(53)
+    PLAYERS: List[Player] = generate_players(100)
+    RACES: List[Race_Data] = generate_race_data(1500)
 
     race_jsons = []
 
     for rd in RACES:
-        num_participants = random.randint(5, 12)
+        num_participants = random.randint(3, 22)
         participants = random.sample(PLAYERS, num_participants)
 
         race_dict = generate_laps(rd, participants, min_laps=8, max_laps=18)
