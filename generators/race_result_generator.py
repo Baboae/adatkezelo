@@ -86,18 +86,31 @@ def _update_reputation(participants: List[Dict[str, Any]]):
         rep_before = p["results"]["reputation_before"]
         rep_change = 0.0
 
+        # incidensek büntetése (enyhébb, mint eddig)
         if p["incident_points"] > 0:
-            rep_change += round(-0.5 * p["incident_points"], 3)
+            rep_change += round(-0.2 * p["incident_points"], 3)
 
+        # tiszta körök jutalmazása (erősebb, mint eddig)
         clean_laps = sum(1 for lap in p["laps"] if lap["valid"])
-        rep_change += round(clean_laps * 0.2, 3)
+        rep_change += round(clean_laps * 0.05, 3)
 
+        # teljesen tiszta verseny extra jutalom
         if p["incident_points"] == 0:
-            rep_change += 2.0
+            rep_change += 5.0
+
+        # kis random faktor, hogy ne legyen túl steril
+        rep_change += round(random.uniform(-1.0, 2.0), 3)
 
         p["results"]["reputation_change"] = rep_change
         new_rep = rep_before + rep_change
+
+        # biztosítsuk, hogy a reputáció 50–100 között mozogjon a legtöbbször
+        if new_rep < 50:
+            # húzzuk fel egy kicsit
+            new_rep = 50 + random.uniform(0, 10)
+
         p["new_rep"] = max(0.0, min(100.0, round(new_rep, 3)))
+
 
 def generate_laps(
     rd: Race_Data,

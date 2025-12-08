@@ -18,7 +18,7 @@ def main():
 
     # játékosok és versenyek
     PLAYERS: List[Player] = generate_players(100)
-    RACES: List[Race_Data] = generate_race_data(1500)
+    RACES: List[Race_Data] = generate_race_data(150)
 
     race_jsons = []
 

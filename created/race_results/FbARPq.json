@@ -1,0 +1,1721 @@
+[
+    {
+        "race_id": "FbARPq",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "participants": [
+            {
+                "user_id": 79202988,
+                "username": "Pallarès_professor",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 12,
+                "total_time": 7926005,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 15.927,
+                    "reputation_change": -0.3989999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 500195,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 435896,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 438490,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 432367,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 422111,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 437983,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 424555,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 440341,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 425730,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 10,
+                        "time": 425631,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 11,
+                        "time": 425741,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 12,
+                        "time": 464940,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 450891,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 427938,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 15,
+                        "time": 432130,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 444250,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 17,
+                        "time": 437624,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 459192,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1515.927,
+                "new_rep": 74.601
+            },
+            {
+                "user_id": 62797796,
+                "username": "Shaw_max",
+                "start_position": 10,
+                "finish_position": 2,
+                "incident_points": 12,
+                "total_time": 7960327,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 12.727,
+                    "reputation_change": -0.45499999999999985
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 478063,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 441391,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 443840,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 431376,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 456286,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 419321,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 450739,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 457829,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 425919,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 437816,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 11,
+                        "time": 459441,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 12,
+                        "time": 425746,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 458978,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 444677,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 436461,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 428834,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 429026,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 18,
+                        "time": 434584,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1512.727,
+                "new_rep": 74.545
+            },
+            {
+                "user_id": 18218814,
+                "username": "Miguel_35",
+                "start_position": 5,
+                "finish_position": 3,
+                "incident_points": 10,
+                "total_time": 7974921,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 9.527,
+                    "reputation_change": 0.5950000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 468412,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 445874,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 431781,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 462310,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 424777,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 419907,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 416232,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 442532,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 446630,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 435330,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 448763,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 449666,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 453576,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 439592,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 453852,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 443771,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 17,
+                        "time": 455296,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 436620,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1509.527,
+                "new_rep": 75.595
+            },
+            {
+                "user_id": 20917505,
+                "username": "Møller_79",
+                "start_position": 1,
+                "finish_position": 4,
+                "incident_points": 24,
+                "total_time": 7992905,
+                "results": {
+                    "rating_before": 1495.237,
+                    "reputation_before": 74.227,
+                    "rating_change": 6.568,
+                    "reputation_change": -3.644
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 497080,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 443349,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 423335,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 429862,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 460390,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 458629,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 453944,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 438753,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 9,
+                        "time": 435428,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 460086,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 423814,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 425866,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 13,
+                        "time": 430533,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 14,
+                        "time": 435038,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 15,
+                        "time": 461551,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 446813,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 444268,
+                        "valid": true,
+                        "position": 4,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 424166,
+                        "valid": false,
+                        "position": 4,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1501.805,
+                "new_rep": 70.583
+            },
+            {
+                "user_id": 77983990,
+                "username": "Adrian_77",
+                "start_position": 2,
+                "finish_position": 5,
+                "incident_points": 6,
+                "total_time": 7994041,
+                "results": {
+                    "rating_before": 1504.837,
+                    "reputation_before": 76.236,
+                    "rating_change": 2.882,
+                    "reputation_change": 0.1050000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 485451,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 444147,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 435520,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 428956,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 463671,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 458032,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 419745,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 439870,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 427025,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 423715,
+                        "valid": false,
+                        "position": 5,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 450343,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 12,
+                        "time": 461019,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 433720,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 449551,
+                        "valid": false,
+                        "position": 5,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 15,
+                        "time": 460605,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 452186,
+                        "valid": false,
+                        "position": 5,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 436001,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 424484,
+                        "valid": true,
+                        "position": 5,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1507.719,
+                "new_rep": 76.341
+            },
+            {
+                "user_id": 49926086,
+                "username": "Sophie_the_goat",
+                "start_position": 7,
+                "finish_position": 6,
+                "incident_points": 14,
+                "total_time": 8036082,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -0.073,
+                    "reputation_change": -2.9499999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 482409,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 455602,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 439271,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 424969,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 424084,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 446832,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 443849,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 454823,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 433112,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 10,
+                        "time": 455668,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 416742,
+                        "valid": false,
+                        "position": 6,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 444023,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 428077,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 452506,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 450831,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 16,
+                        "time": 455232,
+                        "valid": false,
+                        "position": 6,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 460257,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 467795,
+                        "valid": true,
+                        "position": 6,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.927,
+                "new_rep": 72.05
+            },
+            {
+                "user_id": 31139829,
+                "username": "Schottin_69",
+                "start_position": 11,
+                "finish_position": 7,
+                "incident_points": 13,
+                "total_time": 8038134,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -3.273,
+                    "reputation_change": -2.435
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 488649,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 426992,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 432805,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 431535,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 418079,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 444212,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 460837,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 432766,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 466567,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 429174,
+                        "valid": false,
+                        "position": 7,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 465442,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 12,
+                        "time": 448671,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 437622,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 14,
+                        "time": 459615,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 15,
+                        "time": 459692,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 457201,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 450091,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 428184,
+                        "valid": true,
+                        "position": 7,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1496.727,
+                "new_rep": 72.565
+            },
+            {
+                "user_id": 45026560,
+                "username": "Damien_4",
+                "start_position": 4,
+                "finish_position": 8,
+                "incident_points": 9,
+                "total_time": 8050011,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -6.473,
+                    "reputation_change": -0.41400000000000003
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 490388,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 444307,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 441780,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 452202,
+                        "valid": false,
+                        "position": 8,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 424897,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 436615,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 439947,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 466476,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 439421,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 10,
+                        "time": 429915,
+                        "valid": false,
+                        "position": 8,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 11,
+                        "time": 456334,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 12,
+                        "time": 431749,
+                        "valid": false,
+                        "position": 8,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 13,
+                        "time": 450728,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 434291,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 460452,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 465534,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 17,
+                        "time": 438885,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 446090,
+                        "valid": true,
+                        "position": 8,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1493.527,
+                "new_rep": 74.586
+            },
+            {
+                "user_id": 47943440,
+                "username": "Pallarès_professor",
+                "start_position": 6,
+                "finish_position": 9,
+                "incident_points": 16,
+                "total_time": 8086974,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -9.673,
+                    "reputation_change": -1.6360000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 489517,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 447826,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 456153,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 452757,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 455540,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 432494,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 467067,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 451781,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 436453,
+                        "valid": false,
+                        "position": 9,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 10,
+                        "time": 451755,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 11,
+                        "time": 438276,
+                        "valid": false,
+                        "position": 9,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 443097,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 450653,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 14,
+                        "time": 452759,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 420996,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 451279,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 454886,
+                        "valid": true,
+                        "position": 9,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 18,
+                        "time": 433685,
+                        "valid": false,
+                        "position": 9,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1490.327,
+                "new_rep": 73.364
+            },
+            {
+                "user_id": 27103513,
+                "username": "Claus-Peter_4",
+                "start_position": 8,
+                "finish_position": 10,
+                "incident_points": 10,
+                "total_time": 8151654,
+                "results": {
+                    "rating_before": 1484.037,
+                    "reputation_before": 71.99,
+                    "rating_change": -12.065,
+                    "reputation_change": -0.028999999999999915
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 478335,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453703,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 443109,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 458001,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 457718,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 456408,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 456919,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 458739,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 457787,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 467658,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 11,
+                        "time": 458613,
+                        "valid": false,
+                        "position": 10,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 428172,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 13,
+                        "time": 451532,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 448468,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 424981,
+                        "valid": false,
+                        "position": 10,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 16,
+                        "time": 429951,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 17,
+                        "time": 461251,
+                        "valid": false,
+                        "position": 10,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 18,
+                        "time": 460309,
+                        "valid": true,
+                        "position": 10,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1471.972,
+                "new_rep": 71.961
+            },
+            {
+                "user_id": 58301548,
+                "username": "Bradley_33",
+                "start_position": 9,
+                "finish_position": 11,
+                "incident_points": 10,
+                "total_time": 8169922,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -16.073,
+                    "reputation_change": -0.666
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 501594,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 445873,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 451778,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 456789,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 462802,
+                        "valid": false,
+                        "position": 11,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 436429,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 462014,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 460319,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 9,
+                        "time": 450166,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 10,
+                        "time": 428565,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 11,
+                        "time": 465632,
+                        "valid": false,
+                        "position": 11,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 12,
+                        "time": 460405,
+                        "valid": false,
+                        "position": 11,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 13,
+                        "time": 461495,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 14,
+                        "time": 431235,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 15,
+                        "time": 446068,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 16,
+                        "time": 443947,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 17,
+                        "time": 452853,
+                        "valid": false,
+                        "position": 11,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 18,
+                        "time": 451958,
+                        "valid": true,
+                        "position": 11,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.927,
+                "new_rep": 74.334
+            }
+        ]
+    }
+]
