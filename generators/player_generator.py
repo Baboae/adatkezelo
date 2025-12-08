@@ -23,7 +23,7 @@ def generate_players(n: int) -> List[Player]:
 
         username_suffix = [str(random.randint(0, 99)) for _ in range(90)] \
                           + ["33","44"]*2 \
-                          + ["the_goat", "max", "professor", "PR0F3SS0R", "PR0F"]*8
+                          + ["the_goat", "max", "professor", "PR0F3SS0R", "PR0F", "KedvesPalacsinta"]*8
         username = f"{random.choice([fn, ln])}_{random.choice(username_suffix)}"
 
         team_suffix = random.choice(["SIM RACING", "ESPORT", "RACING"])

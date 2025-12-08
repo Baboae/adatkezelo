@@ -1,31 +1,44 @@
-import datetime
+import random
+import os
+from pathlib import Path
 from typing import List
-from data.basic.model_classes import *
+from data.basic.model_classes import Player, Race_Data
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
-
-
-def LTF(ms: int) -> str: #LAP TIME FORMATTER
-    """Convert lap time in milliseconds to M:SS.mmm format."""
-    minutes = ms // 60000
-    seconds = (ms % 60000) // 1000
-    millis = ms % 1000
-    return f"{minutes}:{seconds:02d}.{millis:03d}"
-def DTF(dt: datetime) -> str: #DATE TIME FORMATTER
-    """Convert datetime object to YYYY-MM-DD HH:MM:SS format."""
-    return dt.strftime("%Y-%m-%d %H:%M:%S")
+from generators.race_lap_generator import generate_laps
+from functions.save_to_json import save_list_to_json
 
 def main():
-    PLAYERS = generate_players(32)
-    players: List[Player] = []
-    for p in PLAYERS:
-        players.append(p)
+    # --- race_results mappa ürítése ---
+    results_dir = Path("created/race_results")
+    results_dir.mkdir(parents=True, exist_ok=True)
+    for file in results_dir.iterdir():
+        if file.is_file():
+            file.unlink()
 
-    RDS = generate_race_data(24)
-    race_metas: List[Race_Data] = []
-    for r in RDS:
-        race_metas.append(r)
-    for r in race_metas:
-        print(r)
-if __name__ == '__main__':
+    # játékosok és versenyek
+    PLAYERS: List[Player] = generate_players(32)
+    RACES: List[Race_Data] = generate_race_data(53)
+
+    race_jsons = []
+
+    for rd in RACES:
+        num_participants = random.randint(5, 12)
+        participants = random.sample(PLAYERS, num_participants)
+
+        race_dict = generate_laps(rd, participants, min_laps=8, max_laps=18)
+        race_jsons.append(race_dict)
+
+        save_list_to_json([race_dict], f"race_results/{race_dict['race_id']}.json")
+
+    # frissített játékosok mentése
+    save_list_to_json(PLAYERS, "players.json")
+
+    # verseny metaadatok mentése
+    save_list_to_json(RACES, "race_meta.json")
+
+    # összes futam egyben
+    save_list_to_json(race_jsons, "all_races.json")
+
+if __name__ == "__main__":
     main()

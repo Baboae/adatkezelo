@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from typing import List
 
 @dataclass
 class Player:
@@ -21,7 +22,8 @@ class Race_Data:
     car_class: str
 
 @dataclass
-class Race_Laps:
-    RACE_ID: str
-    user_id: int
-    laptime: int
+class Lap:
+    position: int
+    incidents: List[str]
+    valid: bool
+    time: int  # összesített köridő ms-ben
