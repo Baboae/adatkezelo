@@ -55,7 +55,7 @@ def _generate_player_laps(
             "lap": lap_index + 1,
             "time": laptime,
             "valid": valid,
-            "position": None,
+            "position": None,  # majd később frissítjük
             "incidents": lap_incidents
         })
 
@@ -90,25 +90,20 @@ def _update_reputation(participants: List[ParticipantResult]):
         rep_before = p.results["reputation_before"]
         rep_change = 0.0
 
-        # incidensek büntetése (enyhébb)
         if p.incident_points > 0:
             rep_change += round(-0.2 * p.incident_points, 3)
 
-        # tiszta körök jutalmazása (erősebb)
         clean_laps = sum(1 for lap in p.laps if lap.valid)
         rep_change += round(clean_laps * 0.05, 3)
 
-        # teljesen tiszta verseny extra jutalom
         if p.incident_points == 0:
             rep_change += 5.0
 
-        # kis random faktor
         rep_change += round(random.uniform(-1.0, 2.0), 3)
 
         p.results["reputation_change"] = rep_change
         new_rep = rep_before + rep_change
 
-        # biztosítsuk, hogy a reputáció 50–100 között mozogjon a legtöbbször
         if new_rep < 50:
             new_rep = 50 + random.uniform(0, 10)
 
@@ -158,17 +153,20 @@ def generate_laps(
             )
         )
 
-    # rendezés idő szerint
+    # --- dinamikus pozíció frissítés körönként ---
+    for lap_index in range(n_laps):
+        participants.sort(key=lambda x: sum(l.time for l in x.laps[:lap_index+1]))
+        for pos, part in enumerate(participants, start=1):
+            part.laps[lap_index].position = pos
+
+    # végső sorrend a teljes idő alapján
     participants.sort(key=lambda x: x.total_time)
     for final_pos, part in enumerate(participants, start=1):
         part.finish_position = final_pos
-        for lap in part.laps:
-            lap.position = final_pos
 
     _update_ratings(participants)
     _update_reputation(participants)
 
-    # játékosok frissítése
     for part in participants:
         player = next(p for p in players_selected if p.USER_ID == part.user_id)
         player.elo_rating = part.new_rating

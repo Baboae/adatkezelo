@@ -7,6 +7,7 @@ from generators.race_data_generator import generate_race_data
 from generators.race_result_generator import generate_laps
 from functions.save_to_json import save_to_json
 from functions.load_from_json import load_from_json
+from functions.lap_time_formatter import format_lap_time
 
 def main():
     # --- race_results mappa ürítése ---
@@ -17,16 +18,16 @@ def main():
             file.unlink()
 
     # játékosok és versenyek generálása
-    PLAYERS: List[Player] = generate_players(100)
-    RACES: List[Race_Data] = generate_race_data(3)
+    PLAYERS: List[Player] = generate_players(50)
+    RACES: List[Race_Data] = generate_race_data(100)
 
     race_results: List[RaceResult] = []
 
     for rd in RACES:
-        num_participants = random.randint(3, 3)
+        num_participants = random.randint(3, 22)
         participants = random.sample(PLAYERS, num_participants)
 
-        race_result: RaceResult = generate_laps(rd, participants, min_laps=8, max_laps=18)
+        race_result: RaceResult = generate_laps(rd, participants, min_laps=8, max_laps=10)
         race_results.append(race_result)
 
         # mentés JSON-ba, dataclass → dict konverzió automatikusan megy
@@ -57,7 +58,10 @@ def main():
                 print(f"{p["username"]}"
                       f"\nStarted P{p["start_position"]}"
                       f"\nFinished P{p["finish_position"]}"
-                      f"\nTime: {p["total_time"]}"
-                      f"\n")
+                      f"\nTime: {format_lap_time(p["total_time"])}"
+                      f"\nLaps:\n")
+                for l in p["laps"]:
+                    print(f"L{l["lap"]}, P{l["position"]}"
+                          f"\nTime: {format_lap_time(l['time'])}\n")
 if __name__ == "__main__":
     main()
