@@ -18,22 +18,40 @@ def generate_players(n: int) -> List[Player]:
         country = random.choice(list(countries.keys()))
         fake = fakers[country]
 
-        fn, ln = fake.first_name(), fake.last_name()
+        fn, ln = fake.first_name_male(), fake.last_name_male()
         full_name = f"{fn} {ln}"
 
-        username_suffix = [str(random.randint(0, 99)) for _ in range(90)] \
-                          + ["33","44"]*2 \
-                          + ["the_goat", "max", "professor", "PR0F3SS0R", "PR0F", "KedvesPalacsinta"]*8
-        username = f"{random.choice([fn, ln])}_{random.choice(username_suffix)}"
-
-        team_suffix = random.choice(["SIM RACING", "ESPORT", "RACING"])
-        team_name = random.choice([fn, ln, country])
-        team = random.choice(
-            ["PRIVATEER"]*50 +
-            [f"{team_name.upper()} {team_suffix}"]*30 +
-            [f"TEAM {team_name.upper()}"]*20
+        # alap suffixek
+        base_suffixes = (
+            [str(random.randint(0, 99)) for _ in range(50)]
+            + ["33", "44"] * 2
+            + ["the_goat", "max", "PR0F", "the_ApexHunter", "ChicaneKing", "Slipstreamer", "on_twitch", "twitch", "yt", "Cr1t1c4l", "HS", "b00st3d"]
         )
 
+        # magyar specifikus nickek
+        hungarian_suffixes = ["KedvesPalacsinta", "GamerHU", "HU", "hu", "Hu", "_a_kuposzto", "vaci_ut_kiralya", "PEC"]
+
+        if country == "Hungary":
+            username_suffixes = base_suffixes + hungarian_suffixes * 5
+        else:
+            username_suffixes = base_suffixes
+
+        username = f"{random.choice([fn, ln])}_{random.choice(username_suffixes)}"
+
+        # team generálás
+        team_suffixes = ["SIM RACING", "ESPORT", "RACING", "Motorsport", "Racing Team"]
+        teamnames = ["TEAM REDLINE", "APEX HUNTERS", "Low Fuel Motorsport", "PetrolHead Simracing"]
+        hungarian_teams = ["PEC", "GPSE", "SMC", "GTR-Masters"]
+        team_name = random.choice([ln, fn, country])
+        if country == "Hungary":
+            team = random.choice(["PRIVATEER"]*40+[hungarian_teams]*45+[teamnames]*10+[f"TEAM {random.choice([fn, ln, country]).upper()}"])
+        team = random.choice(
+            ["PRIVATEER"] * 40
+            + [random.choice(teamnames)] * 40
+            + [f"TEAM {team_name.upper()}", f"{team_name.upper()} {random.choice(team_suffixes)}"] * 20
+        )
+
+        # egyedi user_id
         user_id = random.randint(10000000, 99999999)
         while user_id in used_ids:
             user_id = random.randint(10000000, 99999999)

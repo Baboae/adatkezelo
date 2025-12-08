@@ -1,12 +1,12 @@
 import random
-import os
 from pathlib import Path
 from typing import List
-from data.basic.model_classes import Player, Race_Data
+from data.basic.model_classes import Player, Race_Data, RaceResult
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
 from generators.race_result_generator import generate_laps
-from functions.save_to_json import save_list_to_json
+from functions.save_to_json import save_to_json
+from functions.load_from_json import load_from_json
 
 def main():
     # --- race_results mappa ürítése ---
@@ -16,26 +16,36 @@ def main():
         if file.is_file():
             file.unlink()
 
-    # játékosok és versenyek
+    # játékosok és versenyek generálása
     PLAYERS: List[Player] = generate_players(100)
-    RACES: List[Race_Data] = generate_race_data(150)
+    RACES: List[Race_Data] = generate_race_data(3)
 
-    race_jsons = []
+    race_results: List[RaceResult] = []
 
     for rd in RACES:
-        num_participants = random.randint(3, 22)
+        num_participants = random.randint(3, 3)
         participants = random.sample(PLAYERS, num_participants)
 
-        race_dict = generate_laps(rd, participants, min_laps=8, max_laps=18)
-        race_jsons.append(race_dict)
+        race_result: RaceResult = generate_laps(rd, participants, min_laps=8, max_laps=18)
+        race_results.append(race_result)
 
-        save_list_to_json([race_dict], f"race_results/{race_dict['race_id']}.json")
+        # mentés JSON-ba, dataclass → dict konverzió automatikusan megy
+        save_to_json([race_result], f"race_results/{race_result.race_id}.json")
 
     # frissített játékosok mentése
-    save_list_to_json(PLAYERS, "players.json")
+    save_to_json(PLAYERS, "players.json")
 
     # verseny metaadatok mentése
-    save_list_to_json(RACES, "race_meta.json")
+    save_to_json(RACES, "race_meta.json")
+
+
+    # Példa visszaolvasásra:
+    players_loaded = load_from_json("players.json", Player)
+    races_loaded = load_from_json("race_meta.json", Race_Data)
+
+    print(f"Betöltött játékosok száma: {len(players_loaded)}")
+    print(f"Betöltött versenyek száma: {len(races_loaded)}")
+
 
 if __name__ == "__main__":
     main()

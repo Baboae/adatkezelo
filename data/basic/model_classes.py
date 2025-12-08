@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 
 @dataclass
 class Player:
@@ -20,3 +20,32 @@ class Race_Data:
     track: str
     layout: str
     car_class: str
+
+@dataclass
+class Lap:
+    lap: int
+    time: int
+    valid: bool
+    position: int
+    incidents: List[str]
+
+@dataclass
+class ParticipantResult:
+    user_id: int
+    username: str
+    start_position: int
+    finish_position: int
+    incident_points: int
+    total_time: int
+    results: Dict[str, float]   # rating_before, reputation_before, rating_change, reputation_change
+    laps: List[Lap]
+    new_rating: float = 0.0
+    new_rep: float = 0.0
+
+@dataclass
+class RaceResult:
+    race_id: str
+    track: str
+    layout: str
+    car_class: str
+    participants: List[ParticipantResult]

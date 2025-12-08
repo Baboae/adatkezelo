@@ -2,13 +2,7 @@ import json
 import random
 import string
 from typing import List
-from pathlib import Path
 from data.basic.model_classes import Race_Data
-
-def generate_race_id(length: int = 6) -> str:
-    """Generate a random race ID with letters (upper/lower) and digits."""
-    chars = string.ascii_letters + string.digits  # a-z, A-Z, 0-9
-    return ''.join(random.choice(chars) for _ in range(length))
 
 def generate_race_data(n: int) -> List[Race_Data]:
     RDS: List[Race_Data] = []
@@ -16,12 +10,15 @@ def generate_race_data(n: int) -> List[Race_Data]:
         cars = json.load(f)
     with open("data/raw/tracks.json", "r", encoding="utf-8") as f:
         tracks = json.load(f)
+
     used_ids = set()
 
     for _ in range(n):
-        race_id = generate_race_id()
+        # --- race_id generálás közvetlenül itt ---
+        chars = string.ascii_letters + string.digits  # a-z, A-Z, 0-9
+        race_id = ''.join(random.choice(chars) for _ in range(6))
         while race_id in used_ids:
-            race_id = generate_race_id()
+            race_id = ''.join(random.choice(chars) for _ in range(6))
         used_ids.add(race_id)
 
         car_class = random.choice(list(cars.keys()))

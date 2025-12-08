@@ -1,12 +1,9 @@
-import datetime
 import json
 from typing import List, Any
 from dataclasses import asdict, is_dataclass
 from data.basic.model_classes import *
-from generators.player_generator import generate_players
-from generators.race_data_generator import generate_race_data
 
-def save_list_to_json(items: List[Any], filename: str) -> None:
+def save_to_json(items: List[Any], filename: str) -> None:
     """
     Save any list of objects into a JSON file.
     Handles dataclasses, dicts, and primitive types.
