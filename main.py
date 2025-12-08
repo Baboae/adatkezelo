@@ -44,8 +44,20 @@ def main():
     races_loaded = load_from_json("race_meta.json", Race_Data)
 
     print(f"Betöltött játékosok száma: {len(players_loaded)}")
-    print(f"Betöltött versenyek száma: {len(races_loaded)}")
+    print(f"Betöltött versenyek száma: {len(races_loaded)}\n")
 
-
+    for race in races_loaded:
+        print(race.RACE_ID)
+        results_loaded = load_from_json(f"race_results/{race.RACE_ID}.json", RaceResult)
+        for result in results_loaded:
+            print(f"{result.track}"
+                  f"\n{result.layout}"
+                  f"\n{result.car_class}\n")
+            for p in result.participants:
+                print(f"{p["username"]}"
+                      f"\nStarted P{p["start_position"]}"
+                      f"\nFinished P{p["finish_position"]}"
+                      f"\nTime: {p["total_time"]}"
+                      f"\n")
 if __name__ == "__main__":
     main()
