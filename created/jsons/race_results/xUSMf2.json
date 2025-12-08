@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "xUSMf2",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "GTR 3",
+        "participants": [
+            {
+                "user_id": 43597300,
+                "username": "Pasich_35",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 2002187,
+                "results": {
+                    "rating_before": 1491.207,
+                    "reputation_before": 73.049,
+                    "rating_change": 16.544,
+                    "reputation_change": 5.421
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 437687,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 385963,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 381111,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 413597,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 383829,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1507.751,
+                "new_rep": 78.47
+            },
+            {
+                "user_id": 25085812,
+                "username": "Campos_b00st3d",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 2002810,
+                "results": {
+                    "rating_before": 1522.209,
+                    "reputation_before": 74.308,
+                    "rating_change": -1.59,
+                    "reputation_change": -0.8420000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 443206,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 387867,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 383580,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 380740,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 407417,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1520.619,
+                "new_rep": 73.466
+            },
+            {
+                "user_id": 30998265,
+                "username": "Tropea_2",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 2038015,
+                "results": {
+                    "rating_before": 1483.915,
+                    "reputation_before": 91.835,
+                    "rating_change": -14.954,
+                    "reputation_change": -0.8
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 429220,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 400721,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 391090,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 415055,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 401929,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1468.961,
+                "new_rep": 91.035
+            }
+        ]
+    }
+]

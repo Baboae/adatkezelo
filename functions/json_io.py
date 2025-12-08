@@ -6,7 +6,7 @@ from typing import List, Any, Type, TypeVar
 
 T = TypeVar("T")
 
-def save_to_json(items: List[Any], filename: str) -> None:
+def save_json(items: List[Any], filename: str) -> None:
     """
     Save any list of objects into a JSON file.
     Handles dataclasses, dicts, and primitive types.

@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "v2cKDG",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "participants": [
+            {
+                "user_id": 25085812,
+                "username": "Campos_b00st3d",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 204613,
+                "results": {
+                    "rating_before": 1499.457,
+                    "reputation_before": 89.521,
+                    "rating_change": 16.94,
+                    "reputation_change": 4.824000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 70521,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64601,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 69491,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1516.397,
+                "new_rep": 94.345
+            },
+            {
+                "user_id": 16626456,
+                "username": "Brandon_on_twitch",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 9,
+                "total_time": 206450,
+                "results": {
+                    "rating_before": 1570.017,
+                    "reputation_before": 89.738,
+                    "rating_change": -3.831,
+                    "reputation_change": -0.9040000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75055,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 63805,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67590,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1566.186,
+                "new_rep": 88.834
+            },
+            {
+                "user_id": 82634632,
+                "username": "Valerio_yt",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 208962,
+                "results": {
+                    "rating_before": 1470.624,
+                    "reputation_before": 98.677,
+                    "rating_change": -13.109,
+                    "reputation_change": 1.5279999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76740,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65589,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66633,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1457.515,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]
