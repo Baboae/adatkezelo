@@ -4,7 +4,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
 ##Főbb Funkciók ✨
 
-- **Faker alapú adategenerálás**: Játékosok (32 fő), versenyek (230+), köradatok ELO rating és reputáció rendszerrel
+- **Faker alapú adategenerálás**: Játékosok (32 fő), versenyek (231), köradatok (versenyenként 3 - 15) ELO rating és reputáció rendszerrel
 - **Több formátum támogatása**: CSV, JSON, XLSX (külön munkalapokkal, színezéssel)
 - **Oracle SQL integráció**: Teljes séma létrehozás, PK/FK kapcsolatok
 - **Interaktív dashboard**: Ranglista, játékos karrier, köradatok elemzése
