@@ -36,32 +36,50 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
 ## Projekt Struktúra 📂
 
-        adatkezelo/
-        ├── main.py
-        ├── .env.pelda
-        ├── requirements.txt
-        ├── data/
-        │ └── raw/
-        │ ├── cars.json
-        │ ├── tracks.json
-        │ └── reference_laps.json
-        ├── generators/
-        │ ├── player_generator.py
-        │ ├── race_data_generator.py
-        │ └── race_result_generator.py
-        ├── functions/
-        │ ├── json_io.py
-        │ ├── csv_io.py
-        │ ├── xlsx_io.py
-        │ ├── sql_handler.py
-        │ ├── clear_results.py
-        │ ├── unix_to_timestamp.py
-        │ └── unix_to_datetime.py
-        ├── data/
-        │ └── basic/
-        │ └── model_classes.py
-        └── dashboard/
-        └── app.py
+            adatkezelo/
+    ├── created/
+    |     └── csvs/
+    |         └── race_results/
+    |                race_id.csv
+    |         ├── players.csv
+    |         └── race_meta.csv
+    |     └── jsons/
+    |         └── race_results/
+    |                race_id.json
+    |         ├── players.json
+    |         └── race_meta.json
+    |     └── xlsxs/
+    |         └── race_results/
+    |                race_id.xlsx
+    |         ├── players.xlsx
+    |         └── race_meta.xlsx
+    ├── dashboard/
+    |     └── app.py
+    ├── data/
+    │ └── basic/
+    |     └── handler/
+    │         ├── json_handler.py
+    │         ├── csv_handler.py
+    │         ├── xlsx_handler.py
+    │         └── sql_handler.py
+    │ ├── model_classes.py
+    │ └── raw/
+    │     ├── cars.json
+    │     ├── tracks.json
+    │     └── reference_laps.json
+    ├── functions/
+    │     ├── clear_results.py
+    │     ├── unix_to_timestamp.py
+    │     └── unix_to_datetime.py
+    ├── generators/
+    │     ├── player_generator.py
+    │     ├── race_data_generator.py
+    │     └── race_result_generator.py
+    ├── .env
+    ├── .env.pelda
+    ├── main.py
+    ├── README.MD
+    └── requirements.txt
 
 ## Dashboard Funkciók 🏆
 
