@@ -29,7 +29,7 @@ def generate_players(n: int) -> List[Player]:
         )
 
         # magyar specifikus nickek
-        hungarian_suffixes = ["KedvesPalacsinta", "GamerHU", "HU", "hu", "Hu", "_a_kuposzto", "vaci_ut_kiralya", "PEC"]
+        hungarian_suffixes = ["KedvesPalacsinta", "GamerHU", "HU", "hu", "Hu", "a_kuposzto", "a_vaci_ut_kiralya", "PEC"]
 
         if country == "Hungary":
             username_suffixes = base_suffixes + hungarian_suffixes * 5
@@ -46,9 +46,9 @@ def generate_players(n: int) -> List[Player]:
         if country == "Hungary":
             team = random.choice(["PRIVATEER"]*40+[hungarian_teams]*45+[teamnames]*10+[f"TEAM {random.choice([fn, ln, country]).upper()}"])
         team = random.choice(
-            ["PRIVATEER"] * 40
-            + [random.choice(teamnames)] * 40
-            + [f"TEAM {team_name.upper()}", f"{team_name.upper()} {random.choice(team_suffixes)}"] * 20
+            ["PRIVATEER"] * 50
+            + [random.choice(teamnames)] * 45
+            + [f"TEAM {team_name.upper()}", f"{team_name.upper()} {random.choice(team_suffixes)}"] * 5
         )
 
         # egyedi user_id

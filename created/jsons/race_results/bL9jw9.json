@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "bL9jw9",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764512939000,
+        "participants": [
+            {
+                "user_id": 38999699,
+                "username": "Colas_34",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 332534,
+                "results": {
+                    "rating_before": 1630.829,
+                    "reputation_before": 95.547,
+                    "rating_change": 10.025,
+                    "reputation_change": -0.9219999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119188,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109375,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103971,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1640.854,
+                "new_rep": 94.625
+            },
+            {
+                "user_id": 80714395,
+                "username": "Zachary_HS",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 343846,
+                "results": {
+                    "rating_before": 1525.228,
+                    "reputation_before": 82.09,
+                    "rating_change": 0.91,
+                    "reputation_change": -0.99
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121925,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111260,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110661,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1526.138,
+                "new_rep": 81.1
+            },
+            {
+                "user_id": 80908810,
+                "username": "Satya_44",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 346011,
+                "results": {
+                    "rating_before": 1461.586,
+                    "reputation_before": 91.341,
+                    "rating_change": -10.935,
+                    "reputation_change": 4.8870000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123203,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114130,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 108678,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1450.651,
+                "new_rep": 96.228
+            }
+        ]
+    }
+]

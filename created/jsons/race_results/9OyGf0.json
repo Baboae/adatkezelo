@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "9OyGf0",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764460759000,
+        "participants": [
+            {
+                "user_id": 22615348,
+                "username": "Gerrit_yt",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 1636659,
+                "results": {
+                    "rating_before": 1491.602,
+                    "reputation_before": 75.645,
+                    "rating_change": 15.905,
+                    "reputation_change": 0.5960000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 566702,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 548819,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 521138,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1507.507,
+                "new_rep": 76.241
+            },
+            {
+                "user_id": 20486010,
+                "username": "Donatello_9",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1653334,
+                "results": {
+                    "rating_before": 1446.567,
+                    "reputation_before": 74.803,
+                    "rating_change": 2.97,
+                    "reputation_change": 5.621
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 568955,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 544690,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 539689,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1449.537,
+                "new_rep": 80.424
+            },
+            {
+                "user_id": 68640987,
+                "username": "Nissen_57",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 1657966,
+                "results": {
+                    "rating_before": 1532.461,
+                    "reputation_before": 79.753,
+                    "rating_change": -18.875,
+                    "reputation_change": 1.5230000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 611523,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 526745,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 519698,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1513.586,
+                "new_rep": 81.276
+            }
+        ]
+    }
+]

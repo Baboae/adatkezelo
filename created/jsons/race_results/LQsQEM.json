@@ -1,0 +1,208 @@
+[
+    {
+        "race_id": "LQsQEM",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764539955000,
+        "participants": [
+            {
+                "user_id": 28298387,
+                "username": "Evangelos_HS",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 707518,
+                "results": {
+                    "rating_before": 1483.446,
+                    "reputation_before": 77.574,
+                    "rating_change": 16.981,
+                    "reputation_change": 0.006000000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128001,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119529,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120442,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 111402,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 111591,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 116553,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.427,
+                "new_rep": 77.58
+            },
+            {
+                "user_id": 25226805,
+                "username": "Rybus_79",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 715975,
+                "results": {
+                    "rating_before": 1477.15,
+                    "reputation_before": 86.923,
+                    "rating_change": 1.412,
+                    "reputation_change": -1.69
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 134639,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116630,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114051,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118958,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 111731,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 119966,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1478.562,
+                "new_rep": 85.233
+            },
+            {
+                "user_id": 81972006,
+                "username": "Gergely_HS",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 718504,
+                "results": {
+                    "rating_before": 1532.651,
+                    "reputation_before": 83.861,
+                    "rating_change": -18.393,
+                    "reputation_change": 0.02099999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125346,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120336,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121255,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120841,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 118497,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 112229,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1514.258,
+                "new_rep": 83.882
+            }
+        ]
+    }
+]

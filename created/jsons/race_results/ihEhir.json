@@ -1,0 +1,178 @@
+[
+    {
+        "race_id": "ihEhir",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764026204000,
+        "participants": [
+            {
+                "user_id": 81972006,
+                "username": "Gergely_HS",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 553538,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 74.589,
+                    "rating_change": 16.346,
+                    "reputation_change": 5.866
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118101,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103906,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107272,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114482,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109777,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.346,
+                "new_rep": 80.455
+            },
+            {
+                "user_id": 92574816,
+                "username": "Nathan_15",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 553973,
+                "results": {
+                    "rating_before": 1545.694,
+                    "reputation_before": 78.706,
+                    "rating_change": -1.697,
+                    "reputation_change": 0.9990000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121248,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109682,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110499,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103925,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108619,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1543.997,
+                "new_rep": 79.705
+            },
+            {
+                "user_id": 65600643,
+                "username": "Rosario_max",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 565135,
+                "results": {
+                    "rating_before": 1501.381,
+                    "reputation_before": 74.173,
+                    "rating_change": -14.649,
+                    "reputation_change": 1.031
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 122398,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 106261,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113656,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 112966,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109854,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1486.732,
+                "new_rep": 75.204
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "2drW4H",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764019972000,
+        "participants": [
+            {
+                "user_id": 92574816,
+                "username": "Nathan_15",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 340734,
+                "results": {
+                    "rating_before": 1517.062,
+                    "reputation_before": 74.577,
+                    "rating_change": 14.832,
+                    "reputation_change": -0.9139999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124327,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105567,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110840,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1531.894,
+                "new_rep": 73.663
+            },
+            {
+                "user_id": 69359861,
+                "username": "Nancy_90",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 341303,
+                "results": {
+                    "rating_before": 1483.632,
+                    "reputation_before": 78.654,
+                    "rating_change": 1.136,
+                    "reputation_change": 7.08
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116731,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112813,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111759,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.768,
+                "new_rep": 85.734
+            },
+            {
+                "user_id": 32497188,
+                "username": "Balijan_twitch",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 341425,
+                "results": {
+                    "rating_before": 1499.632,
+                    "reputation_before": 82.339,
+                    "rating_change": -15.967,
+                    "reputation_change": -1.745
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123881,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112871,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 104673,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.665,
+                "new_rep": 80.594
+            }
+        ]
+    }
+]

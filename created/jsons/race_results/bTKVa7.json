@@ -1,0 +1,225 @@
+[
+    {
+        "race_id": "bTKVa7",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764432055000,
+        "participants": [
+            {
+                "user_id": 90610611,
+                "username": "Winters_9",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 823290,
+                "results": {
+                    "rating_before": 1551.696,
+                    "reputation_before": 95.723,
+                    "rating_change": 9.94,
+                    "reputation_change": 0.30799999999999994
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131731,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119186,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119625,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113831,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112732,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 114579,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 111606,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1561.636,
+                "new_rep": 96.031
+            },
+            {
+                "user_id": 40910039,
+                "username": "Brandon_60",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 828894,
+                "results": {
+                    "rating_before": 1438.725,
+                    "reputation_before": 66.596,
+                    "rating_change": 1.313,
+                    "reputation_change": -0.5350000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124763,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118244,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118465,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119702,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 115234,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 116430,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 116056,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1440.038,
+                "new_rep": 66.061
+            },
+            {
+                "user_id": 19356117,
+                "username": "Powers_ChicaneKing",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 844172,
+                "results": {
+                    "rating_before": 1386.201,
+                    "reputation_before": 63.701,
+                    "rating_change": -11.253,
+                    "reputation_change": -0.04000000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 129260,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118070,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118630,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115482,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 117128,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 120570,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 125032,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1374.948,
+                "new_rep": 63.661
+            }
+        ]
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "LrCcSl",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764024259000,
+        "participants": [
+            {
+                "user_id": 65600643,
+                "username": "Rosario_max",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 383309,
+                "results": {
+                    "rating_before": 1484.334,
+                    "reputation_before": 73.216,
+                    "rating_change": 17.047,
+                    "reputation_change": 0.9569999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103122,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91804,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92874,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 95509,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.381,
+                "new_rep": 74.173
+            },
+            {
+                "user_id": 31238098,
+                "username": "Jáuregui_76",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 394772,
+                "results": {
+                    "rating_before": 1513.493,
+                    "reputation_before": 81.283,
+                    "rating_change": -0.964,
+                    "reputation_change": -0.028000000000000018
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107079,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93354,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 99659,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94680,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1512.529,
+                "new_rep": 81.255
+            },
+            {
+                "user_id": 88238664,
+                "username": "Philip_78",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 394827,
+                "results": {
+                    "rating_before": 1500.71,
+                    "reputation_before": 81.022,
+                    "rating_change": -16.083,
+                    "reputation_change": -0.003000000000000058
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108788,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98333,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91988,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 95718,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.627,
+                "new_rep": 81.019
+            }
+        ]
+    }
+]

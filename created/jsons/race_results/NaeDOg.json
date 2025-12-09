@@ -1,0 +1,220 @@
+[
+    {
+        "race_id": "NaeDOg",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764438187000,
+        "participants": [
+            {
+                "user_id": 38999699,
+                "username": "Colas_34",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 904100,
+                "results": {
+                    "rating_before": 1622.409,
+                    "reputation_before": 96.346,
+                    "rating_change": 8.42,
+                    "reputation_change": -0.799
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142682,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 131982,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120473,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123384,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 130859,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 125695,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 129025,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1630.829,
+                "new_rep": 95.547
+            },
+            {
+                "user_id": 45690279,
+                "username": "Peralta_17",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 930944,
+                "results": {
+                    "rating_before": 1501.191,
+                    "reputation_before": 69.508,
+                    "rating_change": -0.102,
+                    "reputation_change": 5.22
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143950,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134101,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 132667,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 128664,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 134770,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 130458,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 126334,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.089,
+                "new_rep": 74.728
+            },
+            {
+                "user_id": 19356117,
+                "username": "Powers_ChicaneKing",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 932109,
+                "results": {
+                    "rating_before": 1374.948,
+                    "reputation_before": 63.661,
+                    "rating_change": -8.318,
+                    "reputation_change": -1.079
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139136,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134300,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131510,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 129056,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 135126,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 136037,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 126944,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1366.63,
+                "new_rep": 62.582
+            }
+        ]
+    }
+]

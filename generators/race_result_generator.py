@@ -178,5 +178,6 @@ def generate_laps(
         track=rd.track,
         layout=rd.layout,
         car_class=rd.car_class,
+        timestamp=rd.timestamp,   # fontos: UNIX epoch ms
         participants=participants
     )

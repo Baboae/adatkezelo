@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "ZADHAP",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764089902000,
+        "participants": [
+            {
+                "user_id": 65600643,
+                "username": "Rosario_max",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 602194,
+                "results": {
+                    "rating_before": 1486.732,
+                    "reputation_before": 75.204,
+                    "rating_change": 15.517,
+                    "reputation_change": 6.715
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126842,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118183,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122128,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118559,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116482,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1502.249,
+                "new_rep": 81.919
+            },
+            {
+                "user_id": 40445742,
+                "username": "Horváth_5",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 606754,
+                "results": {
+                    "rating_before": 1484.391,
+                    "reputation_before": 80.035,
+                    "rating_change": -0.322,
+                    "reputation_change": -0.423
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130992,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114797,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120294,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124885,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 115786,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.069,
+                "new_rep": 79.612
+            },
+            {
+                "user_id": 80908810,
+                "username": "Satya_44",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 620862,
+                "results": {
+                    "rating_before": 1468.057,
+                    "reputation_before": 73.715,
+                    "rating_change": -15.195,
+                    "reputation_change": 0.581
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138157,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118329,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 125483,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124871,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114022,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1452.862,
+                "new_rep": 74.296
+            }
+        ]
+    }
+]

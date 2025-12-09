@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "9hXXqa",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "DTM 1992",
+        "timestamp": 1764435617000,
+        "participants": [
+            {
+                "user_id": 40445742,
+                "username": "Horváth_5",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 1283826,
+                "results": {
+                    "rating_before": 1489.852,
+                    "reputation_before": 82.189,
+                    "rating_change": 16.439,
+                    "reputation_change": -0.472
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 448983,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 412995,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 421848,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1506.291,
+                "new_rep": 81.717
+            },
+            {
+                "user_id": 65600643,
+                "username": "Rosario_max",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1322653,
+                "results": {
+                    "rating_before": 1500.711,
+                    "reputation_before": 88.775,
+                    "rating_change": -0.311,
+                    "reputation_change": 6.649000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 473449,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 419327,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 429877,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.4,
+                "new_rep": 95.424
+            },
+            {
+                "user_id": 78750211,
+                "username": "Fonseca_86",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 1335169,
+                "results": {
+                    "rating_before": 1498.049,
+                    "reputation_before": 79.823,
+                    "rating_change": -16.127,
+                    "reputation_change": -1.9860000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 474528,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 434573,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 426068,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1481.922,
+                "new_rep": 77.837
+            }
+        ]
+    }
+]

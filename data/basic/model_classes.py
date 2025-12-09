@@ -1,25 +1,24 @@
 from dataclasses import dataclass
-from typing import List, Optional, Dict, Any
+from typing import List, Dict
 
 @dataclass
 class Player:
-    """Contains basic and ranked information about the player."""
     USER_ID: int
     username: str
     full_name: str
     nationality: str
     team: str
-    elo_rating: float = 1500  # starts at 1500
-    reputation: float = 75  # starts at 75, max 100
-    race_count: int = 0 #num of races they took part in
+    elo_rating: float = 1500
+    reputation: float = 75
+    race_count: int = 0
 
 @dataclass
 class Race_Data:
-    """Contains essential details about a race."""
     RACE_ID: str
     track: str
     layout: str
     car_class: str
+    timestamp: int   # új mező: UNIX epoch ms
 
 @dataclass
 class Lap:
@@ -37,7 +36,7 @@ class ParticipantResult:
     finish_position: int
     incident_points: int
     total_time: int
-    results: Dict[str, float]   # rating_before, reputation_before, rating_change, reputation_change
+    results: Dict[str, float]
     laps: List[Lap]
     new_rating: float = 0.0
     new_rep: float = 0.0
@@ -48,4 +47,5 @@ class RaceResult:
     track: str
     layout: str
     car_class: str
+    timestamp: int   # új mező: UNIX epoch ms
     participants: List[ParticipantResult]

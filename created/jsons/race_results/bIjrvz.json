@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "bIjrvz",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "GTR 3",
+        "timestamp": 1764517506000,
+        "participants": [
+            {
+                "user_id": 47081613,
+                "username": "James_80",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 1245040,
+                "results": {
+                    "rating_before": 1508.467,
+                    "reputation_before": 86.092,
+                    "rating_change": 13.894,
+                    "reputation_change": -1.141
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 452997,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 404290,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 387753,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1522.361,
+                "new_rep": 84.951
+            },
+            {
+                "user_id": 19356117,
+                "username": "Powers_ChicaneKing",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1272801,
+                "results": {
+                    "rating_before": 1366.63,
+                    "reputation_before": 62.582,
+                    "rating_change": 6.995,
+                    "reputation_change": 4.561
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 463554,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 404547,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 404700,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1373.625,
+                "new_rep": 67.143
+            },
+            {
+                "user_id": 81972006,
+                "username": "Gergely_HS",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1278271,
+                "results": {
+                    "rating_before": 1551.672,
+                    "reputation_before": 80.931,
+                    "rating_change": -20.889,
+                    "reputation_change": 4.2860000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 456031,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 411485,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 410755,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1530.783,
+                "new_rep": 85.217
+            }
+        ]
+    }
+]

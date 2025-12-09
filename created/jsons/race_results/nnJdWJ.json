@@ -1,0 +1,235 @@
+[
+    {
+        "race_id": "nnJdWJ",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764199012000,
+        "participants": [
+            {
+                "user_id": 20408101,
+                "username": "Warji_1",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 12,
+                "total_time": 411316,
+                "results": {
+                    "rating_before": 1525.836,
+                    "reputation_before": 73.212,
+                    "rating_change": 14.402,
+                    "reputation_change": -1.1679999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62937,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 59659,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57774,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 58555,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 60914,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 55813,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 55664,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1540.238,
+                "new_rep": 72.044
+            },
+            {
+                "user_id": 98214127,
+                "username": "Sebastiaan_24",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 10,
+                "total_time": 415050,
+                "results": {
+                    "rating_before": 1482.756,
+                    "reputation_before": 72.606,
+                    "rating_change": 1.366,
+                    "reputation_change": -0.671
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62865,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 56993,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60740,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 58888,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 60664,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 55994,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 58906,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.122,
+                "new_rep": 71.935
+            },
+            {
+                "user_id": 40445742,
+                "username": "Horváth_5",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 8,
+                "total_time": 419035,
+                "results": {
+                    "rating_before": 1499.244,
+                    "reputation_before": 77.48,
+                    "rating_change": -15.768,
+                    "reputation_change": -1.114
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 63148,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 59778,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60028,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 60060,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 57900,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 61091,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 57030,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.476,
+                "new_rep": 76.366
+            }
+        ]
+    }
+]

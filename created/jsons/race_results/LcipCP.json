@@ -1,0 +1,208 @@
+[
+    {
+        "race_id": "LcipCP",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764350092000,
+        "participants": [
+            {
+                "user_id": 38859157,
+                "username": "Cezary_51",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 775265,
+                "results": {
+                    "rating_before": 1470.286,
+                    "reputation_before": 77.576,
+                    "rating_change": 15.767,
+                    "reputation_change": 0.21300000000000008
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139057,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127939,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127596,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125515,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 128814,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 126344,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1486.053,
+                "new_rep": 77.789
+            },
+            {
+                "user_id": 28298387,
+                "username": "Evangelos_HS",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 794181,
+                "results": {
+                    "rating_before": 1479.544,
+                    "reputation_before": 80.667,
+                    "rating_change": -0.872,
+                    "reputation_change": -0.3719999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138081,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 132264,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 136202,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125200,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 130727,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 131707,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1478.672,
+                "new_rep": 80.295
+            },
+            {
+                "user_id": 40910039,
+                "username": "Brandon_60",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 797205,
+                "results": {
+                    "rating_before": 1450.871,
+                    "reputation_before": 66.384,
+                    "rating_change": -14.895,
+                    "reputation_change": 0.391
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 141826,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 136711,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131282,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125934,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127142,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 134310,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1435.976,
+                "new_rep": 66.775
+            }
+        ]
+    }
+]

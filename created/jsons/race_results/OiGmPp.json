@@ -1,0 +1,136 @@
+[
+    {
+        "race_id": "OiGmPp",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764165627000,
+        "participants": [
+            {
+                "user_id": 90610611,
+                "username": "Winters_9",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 1631247,
+                "results": {
+                    "rating_before": 1528.874,
+                    "reputation_before": 93.157,
+                    "rating_change": 12.944,
+                    "reputation_change": 1.7209999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 592292,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 517887,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 521068,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1541.818,
+                "new_rep": 94.878
+            },
+            {
+                "user_id": 32497188,
+                "username": "Balijan_twitch",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 1637927,
+                "results": {
+                    "rating_before": 1453.892,
+                    "reputation_before": 78.666,
+                    "rating_change": 2.057,
+                    "reputation_change": -0.735
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 584676,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 516037,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 537214,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1455.949,
+                "new_rep": 77.931
+            },
+            {
+                "user_id": 77719686,
+                "username": "Vásquez_51",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 1665633,
+                "results": {
+                    "rating_before": 1469.401,
+                    "reputation_before": 84.396,
+                    "rating_change": -15.001,
+                    "reputation_change": -0.09900000000000009
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 590033,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 546018,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 529582,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1454.4,
+                "new_rep": 84.297
+            }
+        ]
+    }
+]

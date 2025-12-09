@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "AApFdF",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764529301000,
+        "participants": [
+            {
+                "user_id": 20408101,
+                "username": "Warji_1",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 353801,
+                "results": {
+                    "rating_before": 1453.867,
+                    "reputation_before": 70.991,
+                    "rating_change": 16.044,
+                    "reputation_change": -0.13500000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124519,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116025,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113257,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1469.911,
+                "new_rep": 70.856
+            },
+            {
+                "user_id": 78750211,
+                "username": "Fonseca_86",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 357805,
+                "results": {
+                    "rating_before": 1481.922,
+                    "reputation_before": 77.837,
+                    "rating_change": -1.883,
+                    "reputation_change": -0.939
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 134267,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111831,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111707,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1480.039,
+                "new_rep": 76.898
+            },
+            {
+                "user_id": 40910039,
+                "username": "Brandon_60",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 363574,
+                "results": {
+                    "rating_before": 1427.724,
+                    "reputation_before": 65.334,
+                    "rating_change": -14.161,
+                    "reputation_change": 6.336
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 136022,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112917,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114635,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1413.563,
+                "new_rep": 71.67
+            }
+        ]
+    }
+]
