@@ -1,0 +1,202 @@
+[
+    {
+        "race_id": "TeUYGS",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "timestamp": 1764532019000,
+        "participants": [
+            {
+                "user_id": 70126837,
+                "username": "Carlos_73",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 2565720,
+                "results": {
+                    "rating_before": 1838.33,
+                    "reputation_before": 99.29,
+                    "rating_change": 8.206,
+                    "reputation_change": -0.15
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 463472,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 402117,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 412514,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 434994,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 422907,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 429716,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1846.536,
+                "new_rep": 99.14
+            },
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 2567080,
+                "results": {
+                    "rating_before": 1757.58,
+                    "reputation_before": 98.293,
+                    "rating_change": -3.165,
+                    "reputation_change": -0.8380000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 465985,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 428578,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 412700,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 409188,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 443934,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 406695,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1754.415,
+                "new_rep": 97.455
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 2711550,
+                "results": {
+                    "rating_before": 1503.465,
+                    "reputation_before": 95.654,
+                    "rating_change": -5.041,
+                    "reputation_change": -0.9830000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 497601,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 430718,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 450515,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 427220,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 451705,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 453791,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1498.424,
+                "new_rep": 94.671
+            }
+        ]
+    }
+]

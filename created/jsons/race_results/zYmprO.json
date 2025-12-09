@@ -1,0 +1,183 @@
+[
+    {
+        "race_id": "zYmprO",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764289830000,
+        "participants": [
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 289544,
+                "results": {
+                    "rating_before": 1570.453,
+                    "reputation_before": 100.0,
+                    "rating_change": 4.946,
+                    "reputation_change": 0.5249999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 61189,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57044,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58895,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 57076,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 55340,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1575.399,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 302849,
+                "results": {
+                    "rating_before": 1221.197,
+                    "reputation_before": 87.712,
+                    "rating_change": 8.319,
+                    "reputation_change": -1.4489999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 68933,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57256,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 59207,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 57506,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 59947,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1229.516,
+                "new_rep": 86.263
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 310091,
+                "results": {
+                    "rating_before": 1319.693,
+                    "reputation_before": 90.253,
+                    "rating_change": -13.265,
+                    "reputation_change": 0.389
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66683,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61844,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57950,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 61958,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 61656,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1306.428,
+                "new_rep": 90.642
+            }
+        ]
+    }
+]

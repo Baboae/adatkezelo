@@ -1,0 +1,139 @@
+[
+    {
+        "race_id": "0cjz7W",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764347484000,
+        "participants": [
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 283137,
+                "results": {
+                    "rating_before": 1642.788,
+                    "reputation_before": 100.0,
+                    "rating_change": 3.541,
+                    "reputation_change": 1.496
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 99710,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93699,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 89728,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1646.329,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 293319,
+                "results": {
+                    "rating_before": 1332.194,
+                    "reputation_before": 97.442,
+                    "rating_change": 3.08,
+                    "reputation_change": 0.884
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 101355,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97564,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 94400,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1335.274,
+                "new_rep": 98.326
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 303821,
+                "results": {
+                    "rating_before": 1213.729,
+                    "reputation_before": 61.395,
+                    "rating_change": -6.621,
+                    "reputation_change": 0.266
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111515,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 94226,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98080,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1207.108,
+                "new_rep": 61.661
+            }
+        ]
+    }
+]

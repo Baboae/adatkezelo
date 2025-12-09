@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "nsH1YB",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "GTR 3",
+        "timestamp": 1764451794000,
+        "participants": [
+            {
+                "user_id": 70126837,
+                "username": "Carlos_73",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 188022,
+                "results": {
+                    "rating_before": 1833.161,
+                    "reputation_before": 97.888,
+                    "rating_change": 1.344,
+                    "reputation_change": -0.115
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 68049,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58479,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 61494,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1834.505,
+                "new_rep": 97.773
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 199041,
+                "results": {
+                    "rating_before": 1343.427,
+                    "reputation_before": 88.102,
+                    "rating_change": 4.274,
+                    "reputation_change": 1.437
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 72150,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 63941,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 62950,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1347.701,
+                "new_rep": 89.539
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 203378,
+                "results": {
+                    "rating_before": 1215.231,
+                    "reputation_before": 92.359,
+                    "rating_change": -5.619,
+                    "reputation_change": 1.2939999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 69668,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67761,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65949,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1209.612,
+                "new_rep": 93.653
+            }
+        ]
+    }
+]

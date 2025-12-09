@@ -1,0 +1,178 @@
+[
+    {
+        "race_id": "GiFheG",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764183660000,
+        "participants": [
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 468397,
+                "results": {
+                    "rating_before": 1523.485,
+                    "reputation_before": 96.115,
+                    "rating_change": 13.633,
+                    "reputation_change": -0.402
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 99325,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 95146,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92569,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 90887,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 90470,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1537.118,
+                "new_rep": 95.713
+            },
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 476491,
+                "results": {
+                    "rating_before": 1626.058,
+                    "reputation_before": 96.888,
+                    "rating_change": -8.257,
+                    "reputation_change": 0.3729999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 106997,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97562,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 90253,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 90133,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 91546,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1617.801,
+                "new_rep": 97.261
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 496182,
+                "results": {
+                    "rating_before": 1291.85,
+                    "reputation_before": 63.664,
+                    "rating_change": -5.376,
+                    "reputation_change": -0.101
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103776,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101170,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 99285,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98485,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 93466,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1286.474,
+                "new_rep": 63.563
+            }
+        ]
+    }
+]

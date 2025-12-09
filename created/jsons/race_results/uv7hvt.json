@@ -1,0 +1,229 @@
+[
+    {
+        "race_id": "uv7hvt",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764081828000,
+        "participants": [
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 8,
+                "total_time": 673178,
+                "results": {
+                    "rating_before": 1544.713,
+                    "reputation_before": 81.058,
+                    "rating_change": 12.295,
+                    "reputation_change": -0.28300000000000014
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 106689,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91792,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 93922,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94383,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 95629,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 92582,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 98181,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1557.008,
+                "new_rep": 80.775
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 10,
+                "total_time": 688537,
+                "results": {
+                    "rating_before": 1443.046,
+                    "reputation_before": 67.601,
+                    "rating_change": 3.17,
+                    "reputation_change": -0.747
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111186,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97214,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95709,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100029,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94871,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 94187,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 95341,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1446.216,
+                "new_rep": 66.854
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 689692,
+                "results": {
+                    "rating_before": 1482.011,
+                    "reputation_before": 72.111,
+                    "rating_change": -15.465,
+                    "reputation_change": -0.319
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 110365,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 94250,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97359,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94531,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98117,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 98984,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 96086,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1466.546,
+                "new_rep": 71.792
+            }
+        ]
+    }
+]

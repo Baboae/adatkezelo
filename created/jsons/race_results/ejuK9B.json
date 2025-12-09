@@ -1,0 +1,203 @@
+[
+    {
+        "race_id": "ejuK9B",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764091734000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 733850,
+                "results": {
+                    "rating_before": 1746.059,
+                    "reputation_before": 100.0,
+                    "rating_change": 6.104,
+                    "reputation_change": -1.419
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130877,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118427,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121483,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121282,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122501,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 119280,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1752.163,
+                "new_rep": 98.581
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 768680,
+                "results": {
+                    "rating_before": 1488.398,
+                    "reputation_before": 98.621,
+                    "rating_change": 5.343,
+                    "reputation_change": 0.919
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139408,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124335,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124112,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123776,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 129544,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 127505,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1493.741,
+                "new_rep": 99.54
+            },
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 774969,
+                "results": {
+                    "rating_before": 1501.507,
+                    "reputation_before": 88.727,
+                    "rating_change": -11.447,
+                    "reputation_change": 0.26399999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 145013,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120833,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 130629,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 131923,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126552,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 120019,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1490.06,
+                "new_rep": 88.991
+            }
+        ]
+    }
+]

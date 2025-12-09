@@ -1,0 +1,179 @@
+[
+    {
+        "race_id": "flqFSm",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764012507000,
+        "participants": [
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 605351,
+                "results": {
+                    "rating_before": 1562.395,
+                    "reputation_before": 84.459,
+                    "rating_change": 13.348,
+                    "reputation_change": 0.2610000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124291,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118772,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123887,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123885,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114516,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1575.743,
+                "new_rep": 84.72
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 606102,
+                "results": {
+                    "rating_before": 1539.203,
+                    "reputation_before": 73.958,
+                    "rating_change": -1.081,
+                    "reputation_change": 0.21699999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 129910,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114629,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120795,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118432,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122336,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1538.122,
+                "new_rep": 74.175
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 609309,
+                "results": {
+                    "rating_before": 1468.112,
+                    "reputation_before": 80.618,
+                    "rating_change": -12.266,
+                    "reputation_change": 0.14
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131092,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116582,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117166,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122014,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122455,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1455.846,
+                "new_rep": 80.758
+            }
+        ]
+    }
+]

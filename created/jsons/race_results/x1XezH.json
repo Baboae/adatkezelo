@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "x1XezH",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764192744000,
+        "participants": [
+            {
+                "user_id": 13349342,
+                "username": "Sihotang_23",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 479127,
+                "results": {
+                    "rating_before": 1500.404,
+                    "reputation_before": 86.459,
+                    "rating_change": 17.883,
+                    "reputation_change": -1.313
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 101843,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93163,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 90380,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 95117,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98624,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1518.287,
+                "new_rep": 85.146
+            },
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 479476,
+                "results": {
+                    "rating_before": 1659.926,
+                    "reputation_before": 83.923,
+                    "rating_change": -8.039,
+                    "reputation_change": 6.804
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 105403,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91469,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97033,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 90112,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 95459,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1651.887,
+                "new_rep": 90.727
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 489977,
+                "results": {
+                    "rating_before": 1432.112,
+                    "reputation_before": 79.198,
+                    "rating_change": -9.843,
+                    "reputation_change": 0.778
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 110438,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 92302,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92142,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98830,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 96265,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1422.269,
+                "new_rep": 79.976
+            }
+        ]
+    }
+]

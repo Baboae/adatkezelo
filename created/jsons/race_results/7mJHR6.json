@@ -1,0 +1,241 @@
+[
+    {
+        "race_id": "7mJHR6",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764342070000,
+        "participants": [
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 994919,
+                "results": {
+                    "rating_before": 1624.809,
+                    "reputation_before": 96.442,
+                    "rating_change": 10.904,
+                    "reputation_change": -0.06300000000000003
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 132106,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127493,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119785,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119636,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122416,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 118592,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 127983,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 126908,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1635.713,
+                "new_rep": 96.379
+            },
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 999984,
+                "results": {
+                    "rating_before": 1636.182,
+                    "reputation_before": 100.0,
+                    "rating_change": -5.761,
+                    "reputation_change": 0.40200000000000014
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131497,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 117988,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126002,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127945,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 120187,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 127569,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 125219,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 123577,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1630.421,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1035774,
+                "results": {
+                    "rating_before": 1343.293,
+                    "reputation_before": 100.0,
+                    "rating_change": -5.143,
+                    "reputation_change": 4.98
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144193,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121730,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131440,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130541,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 130719,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 125521,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 128588,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 123042,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1338.15,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

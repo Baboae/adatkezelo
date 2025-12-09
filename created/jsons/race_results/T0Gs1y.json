@@ -1,0 +1,230 @@
+[
+    {
+        "race_id": "T0Gs1y",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764456207000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 792511,
+                "results": {
+                    "rating_before": 1889.508,
+                    "reputation_before": 99.892,
+                    "rating_change": 3.938,
+                    "reputation_change": -1.539
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118904,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114301,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112696,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109556,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108338,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 110453,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 118263,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1893.446,
+                "new_rep": 98.353
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 831476,
+                "results": {
+                    "rating_before": 1449.311,
+                    "reputation_before": 100.0,
+                    "rating_change": 10.416,
+                    "reputation_change": -0.8330000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131310,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114321,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113901,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118861,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 115227,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 122418,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 115438,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1459.727,
+                "new_rep": 99.167
+            },
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 832019,
+                "results": {
+                    "rating_before": 1617.272,
+                    "reputation_before": 84.881,
+                    "rating_change": -14.354,
+                    "reputation_change": -1.224
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124359,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120875,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121517,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114103,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 113952,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 119320,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 117893,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1602.918,
+                "new_rep": 83.657
+            }
+        ]
+    }
+]

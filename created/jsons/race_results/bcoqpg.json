@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "bcoqpg",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "GTR 3",
+        "timestamp": 1764078199000,
+        "participants": [
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 2478621,
+                "results": {
+                    "rating_before": 1562.404,
+                    "reputation_before": 88.497,
+                    "rating_change": 13.791,
+                    "reputation_change": -0.797
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 527916,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 485512,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 514730,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 471800,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 478663,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1576.195,
+                "new_rep": 87.7
+            },
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 2503826,
+                "results": {
+                    "rating_before": 1510.476,
+                    "reputation_before": 99.572,
+                    "rating_change": 1.354,
+                    "reputation_change": -0.029000000000000137
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 550536,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 488858,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 492562,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 472472,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 499398,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1511.83,
+                "new_rep": 99.543
+            },
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 2559519,
+                "results": {
+                    "rating_before": 1517.749,
+                    "reputation_before": 77.466,
+                    "rating_change": -15.145,
+                    "reputation_change": 6.655
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 532744,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 522481,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 510036,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 482147,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 512111,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1502.604,
+                "new_rep": 84.121
+            }
+        ]
+    }
+]

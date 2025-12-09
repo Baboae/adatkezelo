@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "Di6YML",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764519362000,
+        "participants": [
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 1636870,
+                "results": {
+                    "rating_before": 1630.996,
+                    "reputation_before": 81.247,
+                    "rating_change": 8.739,
+                    "reputation_change": -0.964
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 605520,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 500449,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 530901,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1639.735,
+                "new_rep": 80.283
+            },
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 1646656,
+                "results": {
+                    "rating_before": 1607.308,
+                    "reputation_before": 81.696,
+                    "rating_change": -6.001,
+                    "reputation_change": 0.024999999999999994
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 604726,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 509048,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 532882,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1601.307,
+                "new_rep": 81.721
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1671815,
+                "results": {
+                    "rating_before": 1207.254,
+                    "reputation_before": 100.0,
+                    "rating_change": -2.738,
+                    "reputation_change": 5.675000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 588445,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 532879,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 550491,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1204.516,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

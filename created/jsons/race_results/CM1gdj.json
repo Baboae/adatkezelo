@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "CM1gdj",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1763999131000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 2176844,
+                "results": {
+                    "rating_before": 1557.058,
+                    "reputation_before": 89.257,
+                    "rating_change": 14.062,
+                    "reputation_change": 4.466
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 562184,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 555570,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 551190,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 507900,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1571.12,
+                "new_rep": 93.723
+            },
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 2199006,
+                "results": {
+                    "rating_before": 1530.164,
+                    "reputation_before": 84.946,
+                    "rating_change": -0.093,
+                    "reputation_change": -1.057
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 596272,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 540910,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 526020,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 535804,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1530.071,
+                "new_rep": 83.889
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 2205182,
+                "results": {
+                    "rating_before": 1499.224,
+                    "reputation_before": 72.692,
+                    "rating_change": -13.97,
+                    "reputation_change": 0.4129999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 596073,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 529360,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 567102,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 512647,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1485.254,
+                "new_rep": 73.105
+            }
+        ]
+    }
+]

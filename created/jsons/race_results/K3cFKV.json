@@ -1,0 +1,136 @@
+[
+    {
+        "race_id": "K3cFKV",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764341237000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 1307582,
+                "results": {
+                    "rating_before": 1697.01,
+                    "reputation_before": 98.04,
+                    "rating_change": 7.028,
+                    "reputation_change": 1.314
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 453094,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 414316,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 440172,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1704.038,
+                "new_rep": 99.354
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 1314558,
+                "results": {
+                    "rating_before": 1564.341,
+                    "reputation_before": 100.0,
+                    "rating_change": -1.425,
+                    "reputation_change": -0.618
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 465491,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 423822,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 425245,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1562.916,
+                "new_rep": 99.382
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 1394928,
+                "results": {
+                    "rating_before": 1353.228,
+                    "reputation_before": 94.992,
+                    "rating_change": -5.603,
+                    "reputation_change": -0.7370000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 503618,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 438241,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 453069,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1347.625,
+                "new_rep": 94.255
+            }
+        ]
+    }
+]

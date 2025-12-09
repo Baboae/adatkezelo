@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "Xas7ck",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764180117000,
+        "participants": [
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 297548,
+                "results": {
+                    "rating_before": 1598.692,
+                    "reputation_before": 92.853,
+                    "rating_change": 5.376,
+                    "reputation_change": -0.752
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107467,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 94505,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95576,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1604.068,
+                "new_rep": 92.101
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 305268,
+                "results": {
+                    "rating_before": 1284.558,
+                    "reputation_before": 57.092,
+                    "rating_change": 7.292,
+                    "reputation_change": 6.572
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 109289,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97720,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98259,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1291.85,
+                "new_rep": 63.664
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 306370,
+                "results": {
+                    "rating_before": 1352.55,
+                    "reputation_before": 63.434,
+                    "rating_change": -12.668,
+                    "reputation_change": 6.033
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103530,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 102351,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100489,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1339.882,
+                "new_rep": 69.467
+            }
+        ]
+    }
+]

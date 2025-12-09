@@ -1,0 +1,159 @@
+[
+    {
+        "race_id": "mDHeIz",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764194440000,
+        "participants": [
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 382616,
+                "results": {
+                    "rating_before": 1603.18,
+                    "reputation_before": 100.0,
+                    "rating_change": 13.337,
+                    "reputation_change": -1.184
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102986,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91144,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97004,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 91482,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1616.517,
+                "new_rep": 98.816
+            },
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 384962,
+                "results": {
+                    "rating_before": 1618.37,
+                    "reputation_before": 99.174,
+                    "rating_change": -3.657,
+                    "reputation_change": -0.714
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 106408,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 89881,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91241,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 97432,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1614.713,
+                "new_rep": 98.46
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 388124,
+                "results": {
+                    "rating_before": 1465.582,
+                    "reputation_before": 86.027,
+                    "rating_change": -9.68,
+                    "reputation_change": -0.491
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 100351,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93481,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95052,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 99240,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1455.902,
+                "new_rep": 85.536
+            }
+        ]
+    }
+]

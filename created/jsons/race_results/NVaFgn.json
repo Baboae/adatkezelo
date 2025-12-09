@@ -1,0 +1,205 @@
+[
+    {
+        "race_id": "NVaFgn",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764543517000,
+        "participants": [
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 714967,
+                "results": {
+                    "rating_before": 1598.751,
+                    "reputation_before": 82.977,
+                    "rating_change": 4.165,
+                    "reputation_change": 0.5800000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127912,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120754,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116629,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118697,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112102,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 118873,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1602.916,
+                "new_rep": 83.557
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 716410,
+                "results": {
+                    "rating_before": 1307.029,
+                    "reputation_before": 96.367,
+                    "rating_change": 3.588,
+                    "reputation_change": -0.817
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127401,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122025,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116536,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113929,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123407,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113112,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1310.617,
+                "new_rep": 95.55
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 732587,
+                "results": {
+                    "rating_before": 1223.035,
+                    "reputation_before": 97.506,
+                    "rating_change": -7.753,
+                    "reputation_change": 0.6259999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 132113,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122305,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122754,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118599,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123114,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113702,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1215.282,
+                "new_rep": 98.132
+            }
+        ]
+    }
+]

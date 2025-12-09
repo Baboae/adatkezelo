@@ -1,0 +1,223 @@
+[
+    {
+        "race_id": "dGSl7Q",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764448153000,
+        "participants": [
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 470861,
+                "results": {
+                    "rating_before": 1416.732,
+                    "reputation_before": 96.209,
+                    "rating_change": 14.603,
+                    "reputation_change": -0.174
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 74250,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65385,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64730,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 64227,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 67245,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 70318,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 64706,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1431.335,
+                "new_rep": 96.035
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 479183,
+                "results": {
+                    "rating_before": 1493.925,
+                    "reputation_before": 99.358,
+                    "rating_change": -6.255,
+                    "reputation_change": 1.108
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76414,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 68346,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 69950,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 66022,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 67231,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 63935,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 67285,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.67,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 502844,
+                "results": {
+                    "rating_before": 1272.36,
+                    "reputation_before": 89.379,
+                    "rating_change": -8.348,
+                    "reputation_change": 0.519
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75562,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 70991,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 71797,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 69859,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 71531,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 71896,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 71208,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1264.012,
+                "new_rep": 89.898
+            }
+        ]
+    }
+]

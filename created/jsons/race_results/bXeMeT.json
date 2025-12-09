@@ -1,0 +1,208 @@
+[
+    {
+        "race_id": "bXeMeT",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764421244000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 772346,
+                "results": {
+                    "rating_before": 1547.098,
+                    "reputation_before": 97.805,
+                    "rating_change": 14.295,
+                    "reputation_change": -0.6990000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138233,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "False Start",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 129374,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127412,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 126406,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127883,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 123038,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1561.393,
+                "new_rep": 97.106
+            },
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 775916,
+                "results": {
+                    "rating_before": 1698.097,
+                    "reputation_before": 97.414,
+                    "rating_change": -9.85,
+                    "reputation_change": 0.16399999999999992
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143490,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120967,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131669,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122255,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 131478,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 126057,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1688.247,
+                "new_rep": 97.578
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 796191,
+                "results": {
+                    "rating_before": 1293.932,
+                    "reputation_before": 95.824,
+                    "rating_change": -4.445,
+                    "reputation_change": 0.546
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 137833,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127200,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 134306,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 126099,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 135238,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 135515,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1289.487,
+                "new_rep": 96.37
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "race_id": "aqWEUd",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764511189000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 8,
+                "total_time": 2580305,
+                "results": {
+                    "rating_before": 1892.443,
+                    "reputation_before": 93.511,
+                    "rating_change": 4.216,
+                    "reputation_change": -1.6480000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 546479,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 506598,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 489676,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 513104,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 524448,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1896.659,
+                "new_rep": 91.863
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 2673813,
+                "results": {
+                    "rating_before": 1612.806,
+                    "reputation_before": 97.684,
+                    "rating_change": 2.92,
+                    "reputation_change": 0.9790000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 601768,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 504421,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 515838,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 532722,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 519064,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1615.726,
+                "new_rep": 98.663
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 2725129,
+                "results": {
+                    "rating_before": 1504.602,
+                    "reputation_before": 100.0,
+                    "rating_change": -7.136,
+                    "reputation_change": -0.661
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 599608,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 519597,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 520873,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 538740,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 546311,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1497.466,
+                "new_rep": 99.339
+            }
+        ]
+    }
+]

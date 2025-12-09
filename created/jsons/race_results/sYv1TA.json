@@ -1,0 +1,221 @@
+[
+    {
+        "race_id": "sYv1TA",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1764165687000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 3736942,
+                "results": {
+                    "rating_before": 1543.017,
+                    "reputation_before": 100.0,
+                    "rating_change": 12.205,
+                    "reputation_change": 0.8520000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 591559,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 507067,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 536766,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 520115,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 524987,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 525278,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 531170,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1555.222,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 3800049,
+                "results": {
+                    "rating_before": 1421.643,
+                    "reputation_before": 90.523,
+                    "rating_change": 4.341,
+                    "reputation_change": 6.2299999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 574958,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 560360,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 520535,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 552228,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 551223,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 523376,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 517369,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1425.984,
+                "new_rep": 96.753
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 3847524,
+                "results": {
+                    "rating_before": 1494.542,
+                    "reputation_before": 82.636,
+                    "rating_change": -16.545,
+                    "reputation_change": 0.8820000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 600830,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 554202,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 514309,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 514645,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 543976,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 555621,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 563941,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1477.997,
+                "new_rep": 83.518
+            }
+        ]
+    }
+]

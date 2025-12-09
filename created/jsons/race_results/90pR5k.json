@@ -1,0 +1,181 @@
+[
+    {
+        "race_id": "90pR5k",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "GTR 3",
+        "timestamp": 1764519232000,
+        "participants": [
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 12,
+                "total_time": 2005049,
+                "results": {
+                    "rating_before": 1598.206,
+                    "reputation_before": 78.526,
+                    "rating_change": 4.649,
+                    "reputation_change": -2.5469999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 416426,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 410785,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 392115,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 388267,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 397456,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1602.855,
+                "new_rep": 75.979
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 2031570,
+                "results": {
+                    "rating_before": 1338.946,
+                    "reputation_before": 100.0,
+                    "rating_change": 2.625,
+                    "reputation_change": 0.5710000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 428702,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 386468,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 401085,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 398246,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 417069,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1341.571,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 2053547,
+                "results": {
+                    "rating_before": 1229.575,
+                    "reputation_before": 100.0,
+                    "rating_change": -7.273,
+                    "reputation_change": 0.46799999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 456914,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 403500,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 387783,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 395204,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 410146,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1222.302,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

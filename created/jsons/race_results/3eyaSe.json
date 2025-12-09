@@ -1,0 +1,220 @@
+[
+    {
+        "race_id": "3eyaSe",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764269988000,
+        "participants": [
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 457342,
+                "results": {
+                    "rating_before": 1602.993,
+                    "reputation_before": 93.833,
+                    "rating_change": 6.515,
+                    "reputation_change": 0.15299999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73212,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64187,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64196,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 63271,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 64474,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 64432,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 63570,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1609.508,
+                "new_rep": 93.986
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 481822,
+                "results": {
+                    "rating_before": 1329.731,
+                    "reputation_before": 85.155,
+                    "rating_change": 6.811,
+                    "reputation_change": 7.2829999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 72339,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67212,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68060,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65504,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 66357,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 71651,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 70699,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1336.542,
+                "new_rep": 92.438
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 482533,
+                "results": {
+                    "rating_before": 1398.35,
+                    "reputation_before": 87.955,
+                    "rating_change": -13.326,
+                    "reputation_change": 0.5569999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 74975,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65827,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67029,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 70440,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 67733,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 66052,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 70477,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1385.024,
+                "new_rep": 88.512
+            }
+        ]
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "race_id": "fgllZF",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764081125000,
+        "participants": [
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 206502,
+                "results": {
+                    "rating_before": 1502.41,
+                    "reputation_before": 76.382,
+                    "rating_change": 19.404,
+                    "reputation_change": -0.33000000000000007
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73580,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66089,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66833,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1521.814,
+                "new_rep": 76.052
+            },
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 208585,
+                "results": {
+                    "rating_before": 1544.12,
+                    "reputation_before": 74.624,
+                    "rating_change": 0.593,
+                    "reputation_change": 6.434
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75965,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64703,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67917,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1544.713,
+                "new_rep": 81.058
+            },
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 209468,
+                "results": {
+                    "rating_before": 1612.265,
+                    "reputation_before": 92.616,
+                    "rating_change": -19.998,
+                    "reputation_change": -0.44000000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73983,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67164,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68321,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1592.267,
+                "new_rep": 92.176
+            }
+        ]
+    }
+]

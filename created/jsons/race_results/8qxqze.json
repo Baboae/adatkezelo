@@ -1,0 +1,154 @@
+[
+    {
+        "race_id": "8qxqze",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "WTCR",
+        "timestamp": 1764532908000,
+        "participants": [
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 269551,
+                "results": {
+                    "rating_before": 1705.729,
+                    "reputation_before": 93.144,
+                    "rating_change": 6.691,
+                    "reputation_change": -0.931
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 69696,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66783,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66002,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 67070,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1712.42,
+                "new_rep": 92.213
+            },
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 274506,
+                "results": {
+                    "rating_before": 1608.426,
+                    "reputation_before": 94.079,
+                    "rating_change": -4.346,
+                    "reputation_change": -0.198
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71040,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 69460,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64938,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 69068,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1604.08,
+                "new_rep": 93.881
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 280305,
+                "results": {
+                    "rating_before": 1210.526,
+                    "reputation_before": 97.557,
+                    "rating_change": -2.345,
+                    "reputation_change": 6.886
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75733,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 71350,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66714,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 66508,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1208.181,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

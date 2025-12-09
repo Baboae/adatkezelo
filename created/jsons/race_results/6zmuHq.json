@@ -1,0 +1,208 @@
+[
+    {
+        "race_id": "6zmuHq",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764526669000,
+        "participants": [
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 9,
+                "total_time": 624111,
+                "results": {
+                    "rating_before": 1709.835,
+                    "reputation_before": 99.787,
+                    "rating_change": 6.909,
+                    "reputation_change": -0.6440000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108371,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107864,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100109,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100842,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 105907,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 101018,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1716.744,
+                "new_rep": 99.143
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 628929,
+                "results": {
+                    "rating_before": 1598.804,
+                    "reputation_before": 96.254,
+                    "rating_change": -3.096,
+                    "reputation_change": -1.295
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 113387,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105503,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100797,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 105414,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 99457,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 104371,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1595.708,
+                "new_rep": 94.959
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 647621,
+                "results": {
+                    "rating_before": 1300.12,
+                    "reputation_before": 98.506,
+                    "rating_change": -3.814,
+                    "reputation_change": 1.2930000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119766,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105423,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107505,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109211,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 102929,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 102787,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1296.306,
+                "new_rep": 99.799
+            }
+        ]
+    }
+]

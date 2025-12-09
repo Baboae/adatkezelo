@@ -1,0 +1,187 @@
+[
+    {
+        "race_id": "TrrCie",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764349318000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 5,
+                "total_time": 539952,
+                "results": {
+                    "rating_before": 1707.313,
+                    "reputation_before": 98.698,
+                    "rating_change": 2.694,
+                    "reputation_change": 0.027000000000000024
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 112910,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108390,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100888,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109201,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108563,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1710.007,
+                "new_rep": 98.725
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 563859,
+                "results": {
+                    "rating_before": 1243.049,
+                    "reputation_before": 86.478,
+                    "rating_change": 8.986,
+                    "reputation_change": -0.9180000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124588,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111433,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110883,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 108696,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108259,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1252.035,
+                "new_rep": 85.56
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 10,
+                "total_time": 564355,
+                "results": {
+                    "rating_before": 1332.708,
+                    "reputation_before": 96.635,
+                    "rating_change": -11.68,
+                    "reputation_change": -1.716
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121235,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115248,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107235,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115182,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 105455,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1321.028,
+                "new_rep": 94.919
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "race_id": "3ao2nJ",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "WTCR",
+        "timestamp": 1764197058000,
+        "participants": [
+            {
+                "user_id": 47503824,
+                "username": "Poul_0",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 11,
+                "total_time": 413277,
+                "results": {
+                    "rating_before": 1618.082,
+                    "reputation_before": 91.055,
+                    "rating_change": 7.8,
+                    "reputation_change": -2.2300000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71646,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 68090,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67098,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 68337,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 69452,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 68654,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1625.882,
+                "new_rep": 88.825
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 414156,
+                "results": {
+                    "rating_before": 1467.984,
+                    "reputation_before": 81.165,
+                    "rating_change": 1.001,
+                    "reputation_change": 4.534
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 74856,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64912,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66967,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 68392,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 70489,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 68540,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1468.985,
+                "new_rep": 85.699
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 414975,
+                "results": {
+                    "rating_before": 1367.301,
+                    "reputation_before": 83.839,
+                    "rating_change": -8.8,
+                    "reputation_change": 0.302
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75052,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66892,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 70428,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 69606,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 65342,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 67655,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1358.501,
+                "new_rep": 84.141
+            }
+        ]
+    }
+]

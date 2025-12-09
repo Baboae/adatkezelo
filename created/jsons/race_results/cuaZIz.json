@@ -1,0 +1,231 @@
+[
+    {
+        "race_id": "cuaZIz",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764075619000,
+        "participants": [
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 825248,
+                "results": {
+                    "rating_before": 1606.049,
+                    "reputation_before": 92.181,
+                    "rating_change": 9.318,
+                    "reputation_change": 1.0550000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130974,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112768,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118678,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114764,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 119010,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 115210,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 113844,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1615.367,
+                "new_rep": 93.236
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 831885,
+                "results": {
+                    "rating_before": 1448.799,
+                    "reputation_before": 100.0,
+                    "rating_change": 3.517,
+                    "reputation_change": -0.846
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133611,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112098,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116824,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121614,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114007,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 121527,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 112204,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1452.316,
+                "new_rep": 99.154
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 13,
+                "total_time": 839800,
+                "results": {
+                    "rating_before": 1454.201,
+                    "reputation_before": 85.519,
+                    "rating_change": -12.835,
+                    "reputation_change": -1.5890000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128371,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121274,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116755,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121676,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114711,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 117657,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 119356,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1441.366,
+                "new_rep": 83.93
+            }
+        ]
+    }
+]

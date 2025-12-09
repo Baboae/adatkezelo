@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "Z1DkfP",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764513028000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 200617,
+                "results": {
+                    "rating_before": 1747.615,
+                    "reputation_before": 95.005,
+                    "rating_change": 1.13,
+                    "reputation_change": 7.0840000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 69974,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65552,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65091,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1748.745,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 210308,
+                "results": {
+                    "rating_before": 1231.086,
+                    "reputation_before": 100.0,
+                    "rating_change": 4.105,
+                    "reputation_change": 5.426
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76423,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66089,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67796,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1235.191,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 224771,
+                "results": {
+                    "rating_before": 1088.189,
+                    "reputation_before": 77.533,
+                    "rating_change": -5.235,
+                    "reputation_change": 0.7610000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 80571,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 71632,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 72568,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1082.954,
+                "new_rep": 78.294
+            }
+        ]
+    }
+]

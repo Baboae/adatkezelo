@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "JVsI9N",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764429329000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 348513,
+                "results": {
+                    "rating_before": 1568.652,
+                    "reputation_before": 98.092,
+                    "rating_change": 10.003,
+                    "reputation_change": 5.035
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 122096,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112477,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113940,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1578.655,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 353530,
+                "results": {
+                    "rating_before": 1600.626,
+                    "reputation_before": 97.647,
+                    "rating_change": -7.665,
+                    "reputation_change": 1.8659999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123686,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110030,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119814,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1592.961,
+                "new_rep": 99.513
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 376487,
+                "results": {
+                    "rating_before": 1142.654,
+                    "reputation_before": 73.073,
+                    "rating_change": -2.338,
+                    "reputation_change": 6.611000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127803,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125549,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123135,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1140.316,
+                "new_rep": 79.684
+            }
+        ]
+    }
+]

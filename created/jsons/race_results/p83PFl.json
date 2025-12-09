@@ -1,0 +1,208 @@
+[
+    {
+        "race_id": "p83PFl",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764265382000,
+        "participants": [
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 640537,
+                "results": {
+                    "rating_before": 1600.427,
+                    "reputation_before": 92.539,
+                    "rating_change": 6.795,
+                    "reputation_change": 0.7130000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116986,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104778,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 109489,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100759,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 100418,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 108107,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1607.222,
+                "new_rep": 93.252
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 640725,
+                "results": {
+                    "rating_before": 1463.836,
+                    "reputation_before": 89.133,
+                    "rating_change": -1.545,
+                    "reputation_change": 0.18100000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114642,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105851,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 101560,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 102075,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 107623,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 108974,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1462.291,
+                "new_rep": 89.314
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 8,
+                "total_time": 678121,
+                "results": {
+                    "rating_before": 1240.306,
+                    "reputation_before": 57.686,
+                    "rating_change": -5.25,
+                    "reputation_change": -0.28900000000000015
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 120627,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109689,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110154,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113057,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 110671,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113923,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1235.056,
+                "new_rep": 57.397
+            }
+        ]
+    }
+]

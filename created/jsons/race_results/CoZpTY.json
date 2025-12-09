@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "CoZpTY",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764422138000,
+        "participants": [
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 331244,
+                "results": {
+                    "rating_before": 1661.168,
+                    "reputation_before": 98.207,
+                    "rating_change": 12.226,
+                    "reputation_change": -0.296
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71260,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67303,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64174,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 62931,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 65576,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1673.394,
+                "new_rep": 97.911
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 335311,
+                "results": {
+                    "rating_before": 1351.139,
+                    "reputation_before": 97.941,
+                    "rating_change": 12.21,
+                    "reputation_change": -0.08099999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73031,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64854,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65397,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65468,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 66561,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1363.349,
+                "new_rep": 97.86
+            },
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 338412,
+                "results": {
+                    "rating_before": 1746.483,
+                    "reputation_before": 94.681,
+                    "rating_change": -24.436,
+                    "reputation_change": 0.554
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 69276,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66927,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68434,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 66252,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 67523,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1722.047,
+                "new_rep": 95.235
+            }
+        ]
+    }
+]

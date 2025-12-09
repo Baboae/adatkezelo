@@ -1,0 +1,181 @@
+[
+    {
+        "race_id": "xe0Ucz",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764274665000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 2173923,
+                "results": {
+                    "rating_before": 1658.381,
+                    "reputation_before": 100.0,
+                    "rating_change": 6.182,
+                    "reputation_change": 6.125
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 464017,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 441639,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 424108,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 412233,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 431926,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1664.563,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 2229928,
+                "results": {
+                    "rating_before": 1356.499,
+                    "reputation_before": 81.793,
+                    "rating_change": 7.817,
+                    "reputation_change": -1.101
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 478450,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 439220,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 443428,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 439219,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 429611,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1364.316,
+                "new_rep": 80.692
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 2238891,
+                "results": {
+                    "rating_before": 1455.051,
+                    "reputation_before": 89.064,
+                    "rating_change": -13.999,
+                    "reputation_change": -2.059
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 491179,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 418717,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 453938,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 439402,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 435655,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1441.052,
+                "new_rep": 87.005
+            }
+        ]
+    }
+]

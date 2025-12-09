@@ -1,0 +1,180 @@
+[
+    {
+        "race_id": "xpuHa5",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "WTCR",
+        "timestamp": 1764537296000,
+        "participants": [
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 328129,
+                "results": {
+                    "rating_before": 1810.774,
+                    "reputation_before": 99.615,
+                    "rating_change": 1.06,
+                    "reputation_change": 0.35
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 70533,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64843,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 62287,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 67009,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 63457,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1811.834,
+                "new_rep": 99.965
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 352970,
+                "results": {
+                    "rating_before": 1208.181,
+                    "reputation_before": 100.0,
+                    "rating_change": 8.241,
+                    "reputation_change": -0.303
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76691,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 70188,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66379,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 68814,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 70898,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1216.422,
+                "new_rep": 99.697
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 353427,
+                "results": {
+                    "rating_before": 1239.738,
+                    "reputation_before": 100.0,
+                    "rating_change": -9.301,
+                    "reputation_change": 0.8069999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73771,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 71901,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67203,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 70704,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 69848,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1230.437,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

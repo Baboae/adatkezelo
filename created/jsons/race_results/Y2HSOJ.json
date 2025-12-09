@@ -1,0 +1,227 @@
+[
+    {
+        "race_id": "Y2HSOJ",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764372639000,
+        "participants": [
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 906308,
+                "results": {
+                    "rating_before": 1637.569,
+                    "reputation_before": 84.834,
+                    "rating_change": 4.252,
+                    "reputation_change": 0.8270000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 141958,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133727,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124323,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127335,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123107,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 130386,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 125472,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1641.821,
+                "new_rep": 85.661
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 928768,
+                "results": {
+                    "rating_before": 1347.435,
+                    "reputation_before": 98.478,
+                    "rating_change": 3.704,
+                    "reputation_change": -0.5369999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 137185,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 129592,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 134175,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 135377,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 129690,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 135470,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 127279,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1351.139,
+                "new_rep": 97.941
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 937191,
+                "results": {
+                    "rating_before": 1269.665,
+                    "reputation_before": 96.447,
+                    "rating_change": -7.957,
+                    "reputation_change": -0.08700000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144113,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127013,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 128270,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130622,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 137455,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 132031,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 137687,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1261.708,
+                "new_rep": 96.36
+            }
+        ]
+    }
+]

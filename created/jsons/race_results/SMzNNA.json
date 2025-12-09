@@ -1,0 +1,151 @@
+[
+    {
+        "race_id": "SMzNNA",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "DTM 1992",
+        "timestamp": 1764514848000,
+        "participants": [
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 1698657,
+                "results": {
+                    "rating_before": 1696.837,
+                    "reputation_before": 93.748,
+                    "rating_change": 6.779,
+                    "reputation_change": 5.872
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 473187,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 394628,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 399796,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 431046,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1703.616,
+                "new_rep": 99.62
+            },
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1705758,
+                "results": {
+                    "rating_before": 1596.251,
+                    "reputation_before": 100.0,
+                    "rating_change": -3.993,
+                    "reputation_change": 4.545
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 459092,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 397125,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 431407,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 418134,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1592.258,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 1776189,
+                "results": {
+                    "rating_before": 1232.361,
+                    "reputation_before": 100.0,
+                    "rating_change": -2.786,
+                    "reputation_change": 1.746
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 455720,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 429129,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 437795,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 453545,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1229.575,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

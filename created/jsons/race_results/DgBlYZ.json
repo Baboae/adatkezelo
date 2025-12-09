@@ -1,0 +1,182 @@
+[
+    {
+        "race_id": "DgBlYZ",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764356318000,
+        "participants": [
+            {
+                "user_id": 47503824,
+                "username": "Poul_0",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 646938,
+                "results": {
+                    "rating_before": 1748.479,
+                    "reputation_before": 100.0,
+                    "rating_change": 6.597,
+                    "reputation_change": -1.99
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144923,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121708,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 125945,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127157,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127205,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1755.076,
+                "new_rep": 98.01
+            },
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 652015,
+                "results": {
+                    "rating_before": 1657.852,
+                    "reputation_before": 98.823,
+                    "rating_change": -4.913,
+                    "reputation_change": 0.133
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 140979,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121676,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126193,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 132874,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 130293,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1652.939,
+                "new_rep": 98.956
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 682086,
+                "results": {
+                    "rating_before": 1195.759,
+                    "reputation_before": 59.898,
+                    "rating_change": -1.684,
+                    "reputation_change": -1.214
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 147074,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134378,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 140263,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 128764,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 131607,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1194.075,
+                "new_rep": 58.684
+            }
+        ]
+    }
+]

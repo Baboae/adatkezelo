@@ -1,0 +1,161 @@
+[
+    {
+        "race_id": "kJUPFv",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764369800000,
+        "participants": [
+            {
+                "user_id": 70126837,
+                "username": "Carlos_73",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 228269,
+                "results": {
+                    "rating_before": 1774.02,
+                    "reputation_before": 100.0,
+                    "rating_change": 3.513,
+                    "reputation_change": -1.316
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 60427,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 55780,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58113,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 53949,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1777.533,
+                "new_rep": 98.684
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 232290,
+                "results": {
+                    "rating_before": 1504.221,
+                    "reputation_before": 94.945,
+                    "rating_change": 0.116,
+                    "reputation_change": -1.631
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62864,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58268,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 55407,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 55751,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1504.337,
+                "new_rep": 93.314
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 249907,
+                "results": {
+                    "rating_before": 1242.987,
+                    "reputation_before": 86.786,
+                    "rating_change": -3.629,
+                    "reputation_change": 0.31800000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 65557,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 62254,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60549,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 61547,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1239.358,
+                "new_rep": 87.104
+            }
+        ]
+    }
+]

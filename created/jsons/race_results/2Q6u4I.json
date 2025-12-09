@@ -1,0 +1,158 @@
+[
+    {
+        "race_id": "2Q6u4I",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764349258000,
+        "participants": [
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 5,
+                "total_time": 236368,
+                "results": {
+                    "rating_before": 1623.564,
+                    "reputation_before": 99.395,
+                    "rating_change": 5.357,
+                    "reputation_change": 0.719
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62799,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58920,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58920,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 55729,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1628.921,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 241868,
+                "results": {
+                    "rating_before": 1350.047,
+                    "reputation_before": 94.387,
+                    "rating_change": 5.015,
+                    "reputation_change": 0.637
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66256,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 56831,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 59480,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 59301,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1355.062,
+                "new_rep": 95.024
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 244628,
+                "results": {
+                    "rating_before": 1339.621,
+                    "reputation_before": 89.826,
+                    "rating_change": -10.371,
+                    "reputation_change": 0.003000000000000058
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66142,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 60959,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57655,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 59872,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1329.25,
+                "new_rep": 89.829
+            }
+        ]
+    }
+]

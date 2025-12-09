@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "nPmCZS",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "GTR 3",
+        "timestamp": 1764362609000,
+        "participants": [
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 258750,
+                "results": {
+                    "rating_before": 1631.819,
+                    "reputation_before": 87.391,
+                    "rating_change": 4.454,
+                    "reputation_change": -1.6760000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71417,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61189,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 61947,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 64197,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1636.273,
+                "new_rep": 85.715
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 266776,
+                "results": {
+                    "rating_before": 1293.566,
+                    "reputation_before": 89.769,
+                    "rating_change": 6.958,
+                    "reputation_change": 4.912
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73290,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 63843,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64322,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65321,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1300.524,
+                "new_rep": 94.681
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 268610,
+                "results": {
+                    "rating_before": 1335.26,
+                    "reputation_before": 95.562,
+                    "rating_change": -11.412,
+                    "reputation_change": 0.7769999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 70762,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64379,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66440,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 67029,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1323.848,
+                "new_rep": 96.339
+            }
+        ]
+    }
+]

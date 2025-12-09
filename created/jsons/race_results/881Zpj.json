@@ -1,0 +1,174 @@
+[
+    {
+        "race_id": "881Zpj",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764520090000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 561221,
+                "results": {
+                    "rating_before": 1900.261,
+                    "reputation_before": 97.301,
+                    "rating_change": 0.564,
+                    "reputation_change": 4.913
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123238,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108763,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115135,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 107457,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 106628,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1900.825,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 600630,
+                "results": {
+                    "rating_before": 1258.649,
+                    "reputation_before": 95.605,
+                    "rating_change": 4.549,
+                    "reputation_change": 4.642
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126581,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120912,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118387,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113513,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 121237,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1263.198,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 633717,
+                "results": {
+                    "rating_before": 1118.51,
+                    "reputation_before": 78.768,
+                    "rating_change": -5.113,
+                    "reputation_change": -0.6430000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138997,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120519,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119733,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127145,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127323,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1113.397,
+                "new_rep": 78.125
+            }
+        ]
+    }
+]

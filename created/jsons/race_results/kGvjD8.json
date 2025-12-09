@@ -1,0 +1,151 @@
+[
+    {
+        "race_id": "kGvjD8",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764284522000,
+        "participants": [
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 2075396,
+                "results": {
+                    "rating_before": 1669.985,
+                    "reputation_before": 99.049,
+                    "rating_change": 3.954,
+                    "reputation_change": -0.251
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 554175,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 520124,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 507542,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 493555,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1673.939,
+                "new_rep": 98.798
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 2195526,
+                "results": {
+                    "rating_before": 1329.643,
+                    "reputation_before": 92.275,
+                    "rating_change": 6.024,
+                    "reputation_change": 5.321
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 570435,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 525081,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 550455,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 549555,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1335.667,
+                "new_rep": 97.596
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 2277703,
+                "results": {
+                    "rating_before": 1329.671,
+                    "reputation_before": 84.57,
+                    "rating_change": -9.978,
+                    "reputation_change": 5.683
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 607432,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 556971,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 564473,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 548827,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1319.693,
+                "new_rep": 90.253
+            }
+        ]
+    }
+]

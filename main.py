@@ -37,8 +37,8 @@ def main():
     clear_results()
     Path("race_results").mkdir(parents=True, exist_ok=True)
 
-    PLAYERS: List[Player] = generate_players(50)
-    RACES: List[Race_Data] = generate_race_data(250)
+    PLAYERS: List[Player] = generate_players(32)
+    RACES: List[Race_Data] = generate_race_data(1000)
     race_results: List[RaceResult] = []
 
     # játékosok utolsó elérhetősége

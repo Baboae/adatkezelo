@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "jEIGLI",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764109027000,
+        "participants": [
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 478814,
+                "results": {
+                    "rating_before": 1551.946,
+                    "reputation_before": 98.614,
+                    "rating_change": 11.547,
+                    "reputation_change": 0.13000000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125461,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114518,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119230,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119605,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1563.493,
+                "new_rep": 98.744
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 489709,
+                "results": {
+                    "rating_before": 1462.722,
+                    "reputation_before": 79.367,
+                    "rating_change": 1.543,
+                    "reputation_change": -0.42900000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130240,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119018,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115770,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124681,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1464.265,
+                "new_rep": 78.938
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 491194,
+                "results": {
+                    "rating_before": 1442.382,
+                    "reputation_before": 70.998,
+                    "rating_change": -13.09,
+                    "reputation_change": 0.03999999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128993,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115375,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121476,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125350,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1429.292,
+                "new_rep": 71.038
+            }
+        ]
+    }
+]

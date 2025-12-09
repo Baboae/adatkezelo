@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "mUtZzR",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764201487000,
+        "participants": [
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 357118,
+                "results": {
+                    "rating_before": 1706.865,
+                    "reputation_before": 93.986,
+                    "rating_change": 5.938,
+                    "reputation_change": 5.487
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127894,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 117036,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112188,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1712.803,
+                "new_rep": 99.473
+            },
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 364671,
+                "results": {
+                    "rating_before": 1543.989,
+                    "reputation_before": 92.543,
+                    "rating_change": -1.283,
+                    "reputation_change": -1.1280000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127578,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119266,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117827,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1542.706,
+                "new_rep": 91.415
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 371171,
+                "results": {
+                    "rating_before": 1304.451,
+                    "reputation_before": 77.755,
+                    "rating_change": -4.655,
+                    "reputation_change": 4.9030000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126749,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124352,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120070,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1299.796,
+                "new_rep": 82.658
+            }
+        ]
+    }
+]

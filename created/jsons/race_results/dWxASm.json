@@ -1,0 +1,220 @@
+[
+    {
+        "race_id": "dWxASm",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764082770000,
+        "participants": [
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 924136,
+                "results": {
+                    "rating_before": 1497.125,
+                    "reputation_before": 75.027,
+                    "rating_change": 14.732,
+                    "reputation_change": 1.8490000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 150108,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134433,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124059,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130360,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127007,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 132894,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 125275,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1511.857,
+                "new_rep": 76.876
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 926995,
+                "results": {
+                    "rating_before": 1542.1,
+                    "reputation_before": 76.716,
+                    "rating_change": -4.239,
+                    "reputation_change": 5.9319999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142786,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 136376,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 130584,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123713,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 129509,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 128972,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 135055,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1537.861,
+                "new_rep": 82.648
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 938966,
+                "results": {
+                    "rating_before": 1394.444,
+                    "reputation_before": 70.49,
+                    "rating_change": -10.493,
+                    "reputation_change": 0.2400000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144262,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 126856,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131023,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 134440,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 138252,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 127855,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 136278,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1383.951,
+                "new_rep": 70.73
+            }
+        ]
+    }
+]

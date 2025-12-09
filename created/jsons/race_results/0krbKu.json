@@ -1,0 +1,200 @@
+[
+    {
+        "race_id": "0krbKu",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764027902000,
+        "participants": [
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 2622507,
+                "results": {
+                    "rating_before": 1534.62,
+                    "reputation_before": 77.907,
+                    "rating_change": 14.481,
+                    "reputation_change": -1.106
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 465058,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 414808,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 426393,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 432464,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 428415,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 455369,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1549.101,
+                "new_rep": 76.801
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 2630711,
+                "results": {
+                    "rating_before": 1499.218,
+                    "reputation_before": 91.754,
+                    "rating_change": 0.919,
+                    "reputation_change": 0.123
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 457088,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 424931,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 453237,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 454175,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 422216,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 419064,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.137,
+                "new_rep": 91.877
+            },
+            {
+                "user_id": 13349342,
+                "username": "Sihotang_23",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 2656864,
+                "results": {
+                    "rating_before": 1503.831,
+                    "reputation_before": 74.017,
+                    "rating_change": -15.399,
+                    "reputation_change": -0.08799999999999986
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 462076,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 441949,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 449199,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 422499,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 435725,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 445416,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1488.432,
+                "new_rep": 73.929
+            }
+        ]
+    }
+]

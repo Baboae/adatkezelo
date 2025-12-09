@@ -1,0 +1,172 @@
+[
+    {
+        "race_id": "rEpILx",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764253838000,
+        "participants": [
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 655933,
+                "results": {
+                    "rating_before": 1601.033,
+                    "reputation_before": 98.952,
+                    "rating_change": 8.828,
+                    "reputation_change": 5.443
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 141941,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 130259,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126874,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130651,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126208,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1609.861,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 660080,
+                "results": {
+                    "rating_before": 1438.121,
+                    "reputation_before": 85.594,
+                    "rating_change": 3.279,
+                    "reputation_change": 5.878
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 140236,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 135973,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 129662,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127991,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126218,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1441.4,
+                "new_rep": 91.472
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 674337,
+                "results": {
+                    "rating_before": 1428.594,
+                    "reputation_before": 87.355,
+                    "rating_change": -12.107,
+                    "reputation_change": 0.277
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 147673,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 136149,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 128490,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 131679,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 130346,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1416.487,
+                "new_rep": 87.632
+            }
+        ]
+    }
+]

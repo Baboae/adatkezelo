@@ -1,0 +1,204 @@
+[
+    {
+        "race_id": "xVO71m",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764368197000,
+        "participants": [
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 350763,
+                "results": {
+                    "rating_before": 1337.182,
+                    "reputation_before": 92.54,
+                    "rating_change": 14.301,
+                    "reputation_change": 0.274
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62937,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58202,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56369,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 56526,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 60231,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 56498,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1351.483,
+                "new_rep": 92.814
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 353963,
+                "results": {
+                    "rating_before": 1320.156,
+                    "reputation_before": 94.714,
+                    "rating_change": -0.531,
+                    "reputation_change": -0.198
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62735,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61042,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57302,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 56214,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 57040,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 59630,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1319.625,
+                "new_rep": 94.516
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 362217,
+                "results": {
+                    "rating_before": 1279.913,
+                    "reputation_before": 80.163,
+                    "rating_change": -13.771,
+                    "reputation_change": -1.363
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 63314,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58567,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56810,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 60153,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 62199,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 61174,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1266.142,
+                "new_rep": 78.8
+            }
+        ]
+    }
+]

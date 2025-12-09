@@ -1,0 +1,180 @@
+[
+    {
+        "race_id": "rrl8cr",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764090926000,
+        "participants": [
+            {
+                "user_id": 47503824,
+                "username": "Poul_0",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 546764,
+                "results": {
+                    "rating_before": 1528.097,
+                    "reputation_before": 89.875,
+                    "rating_change": 13.562,
+                    "reputation_change": 0.31000000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116928,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105651,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107878,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 104177,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112130,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1541.659,
+                "new_rep": 90.185
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 562596,
+                "results": {
+                    "rating_before": 1437.573,
+                    "reputation_before": 76.687,
+                    "rating_change": 3.699,
+                    "reputation_change": -0.992
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118326,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105186,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112928,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113429,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112727,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1441.272,
+                "new_rep": 75.695
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 563262,
+                "results": {
+                    "rating_before": 1510.749,
+                    "reputation_before": 70.743,
+                    "rating_change": -17.261,
+                    "reputation_change": 0.06600000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119468,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110462,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111294,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109060,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112978,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1493.488,
+                "new_rep": 70.809
+            }
+        ]
+    }
+]

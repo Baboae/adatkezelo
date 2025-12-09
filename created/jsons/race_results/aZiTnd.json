@@ -1,0 +1,181 @@
+[
+    {
+        "race_id": "aZiTnd",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1764272608000,
+        "participants": [
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 8,
+                "total_time": 2714345,
+                "results": {
+                    "rating_before": 1617.978,
+                    "reputation_before": 100.0,
+                    "rating_change": 3.93,
+                    "reputation_change": -0.20700000000000007
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 593979,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 514738,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 543216,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 525234,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 537178,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1621.908,
+                "new_rep": 99.793
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 2830977,
+                "results": {
+                    "rating_before": 1315.947,
+                    "reputation_before": 95.229,
+                    "rating_change": 3.639,
+                    "reputation_change": -0.9269999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 605425,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 557715,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 572611,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 561955,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 533271,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1319.586,
+                "new_rep": 94.302
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 2856916,
+                "results": {
+                    "rating_before": 1228.654,
+                    "reputation_before": 62.03,
+                    "rating_change": -7.569,
+                    "reputation_change": -1.249
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 608021,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 583050,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 551295,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 573202,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 541348,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1221.085,
+                "new_rep": 60.781
+            }
+        ]
+    }
+]

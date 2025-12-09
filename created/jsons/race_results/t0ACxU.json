@@ -1,0 +1,135 @@
+[
+    {
+        "race_id": "t0ACxU",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "GTR 3",
+        "timestamp": 1764513120000,
+        "participants": [
+            {
+                "user_id": 86752927,
+                "username": "Benjámin_6",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 5,
+                "total_time": 194232,
+                "results": {
+                    "rating_before": 1465.88,
+                    "reputation_before": 100.0,
+                    "rating_change": 6.411,
+                    "reputation_change": -0.848
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 72593,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61157,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60482,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1472.291,
+                "new_rep": 99.152
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 205810,
+                "results": {
+                    "rating_before": 1294.266,
+                    "reputation_before": 100.0,
+                    "rating_change": 0.223,
+                    "reputation_change": 5.103000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71973,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67187,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 66650,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1294.489,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 207371,
+                "results": {
+                    "rating_before": 1134.709,
+                    "reputation_before": 81.394,
+                    "rating_change": -6.634,
+                    "reputation_change": -0.5359999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 70294,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 68892,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68185,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1128.075,
+                "new_rep": 80.858
+            }
+        ]
+    }
+]

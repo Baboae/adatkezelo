@@ -1,0 +1,206 @@
+[
+    {
+        "race_id": "Xzyu9H",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764275361000,
+        "participants": [
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 723115,
+                "results": {
+                    "rating_before": 1331.178,
+                    "reputation_before": 94.038,
+                    "rating_change": 15.553,
+                    "reputation_change": -1.362
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131019,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118824,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114786,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118432,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 119186,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 120868,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1346.731,
+                "new_rep": 92.676
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 729486,
+                "results": {
+                    "rating_before": 1309.086,
+                    "reputation_before": 79.864,
+                    "rating_change": 1.077,
+                    "reputation_change": 6.715999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126835,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118011,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116278,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124939,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 125971,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 117452,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1310.163,
+                "new_rep": 86.58
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 13,
+                "total_time": 742801,
+                "results": {
+                    "rating_before": 1333.822,
+                    "reputation_before": 93.929,
+                    "rating_change": -16.629,
+                    "reputation_change": -1.0970000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 137690,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 126060,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117116,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121105,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 125149,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 115681,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1317.193,
+                "new_rep": 92.832
+            }
+        ]
+    }
+]

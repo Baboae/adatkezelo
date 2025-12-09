@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "0xhEhi",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764198147000,
+        "participants": [
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 512132,
+                "results": {
+                    "rating_before": 1542.514,
+                    "reputation_before": 93.341,
+                    "rating_change": 6.26,
+                    "reputation_change": -0.24900000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 136836,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122097,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124800,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 128399,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1548.774,
+                "new_rep": 93.092
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 534146,
+                "results": {
+                    "rating_before": 1267.475,
+                    "reputation_before": 64.218,
+                    "rating_change": 6.555,
+                    "reputation_change": 0.551
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 140205,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133021,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 136569,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124351,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1274.03,
+                "new_rep": 64.769
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 535774,
+                "results": {
+                    "rating_before": 1323.568,
+                    "reputation_before": 73.128,
+                    "rating_change": -12.815,
+                    "reputation_change": 5.386
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 146386,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 130294,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131862,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127232,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1310.753,
+                "new_rep": 78.514
+            }
+        ]
+    }
+]

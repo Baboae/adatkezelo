@@ -1,0 +1,142 @@
+[
+    {
+        "race_id": "xGdNW0",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764423094000,
+        "participants": [
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 345224,
+                "results": {
+                    "rating_before": 1664.503,
+                    "reputation_before": 93.278,
+                    "rating_change": 8.706,
+                    "reputation_change": 0.8980000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 120851,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110376,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113997,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1673.209,
+                "new_rep": 94.176
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 359392,
+                "results": {
+                    "rating_before": 1608.234,
+                    "reputation_before": 98.003,
+                    "rating_change": -4.089,
+                    "reputation_change": -1.77
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130631,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "False Start",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109559,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119202,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1604.145,
+                "new_rep": 96.233
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 363306,
+                "results": {
+                    "rating_before": 1325.506,
+                    "reputation_before": 98.44,
+                    "rating_change": -4.617,
+                    "reputation_change": 0.10099999999999987
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131951,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116580,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114775,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1320.889,
+                "new_rep": 98.541
+            }
+        ]
+    }
+]

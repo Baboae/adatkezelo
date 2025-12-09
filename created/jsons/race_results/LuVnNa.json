@@ -1,0 +1,205 @@
+[
+    {
+        "race_id": "LuVnNa",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764028916000,
+        "participants": [
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 9,
+                "total_time": 704220,
+                "results": {
+                    "rating_before": 1510.156,
+                    "reputation_before": 78.412,
+                    "rating_change": 11.329,
+                    "reputation_change": 0.41300000000000003
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127315,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120292,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110876,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119823,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112563,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113351,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1521.485,
+                "new_rep": 78.825
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 712793,
+                "results": {
+                    "rating_before": 1405.734,
+                    "reputation_before": 66.558,
+                    "rating_change": 2.333,
+                    "reputation_change": -1.1589999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126582,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115244,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117808,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 117946,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116576,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 118637,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1408.067,
+                "new_rep": 65.399
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 718942,
+                "results": {
+                    "rating_before": 1405.661,
+                    "reputation_before": 68.903,
+                    "rating_change": -13.662,
+                    "reputation_change": 1.498
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125276,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118104,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120349,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120859,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116915,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 117439,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1391.999,
+                "new_rep": 70.401
+            }
+        ]
+    }
+]

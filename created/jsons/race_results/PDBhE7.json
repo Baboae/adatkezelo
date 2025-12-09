@@ -1,0 +1,155 @@
+[
+    {
+        "race_id": "PDBhE7",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764183527000,
+        "participants": [
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 473733,
+                "results": {
+                    "rating_before": 1599.342,
+                    "reputation_before": 85.138,
+                    "rating_change": 11.255,
+                    "reputation_change": 6.888
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123070,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 117178,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118667,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114818,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1610.597,
+                "new_rep": 92.026
+            },
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 480386,
+                "results": {
+                    "rating_before": 1612.066,
+                    "reputation_before": 88.106,
+                    "rating_change": -5.503,
+                    "reputation_change": 1.137
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126901,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118020,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117204,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118261,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1606.563,
+                "new_rep": 89.243
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 481635,
+                "results": {
+                    "rating_before": 1341.9,
+                    "reputation_before": 74.267,
+                    "rating_change": -5.751,
+                    "reputation_change": -0.5840000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131725,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116538,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117754,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115618,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1336.149,
+                "new_rep": 73.683
+            }
+        ]
+    }
+]

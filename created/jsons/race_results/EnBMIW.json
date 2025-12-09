@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "EnBMIW",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764091694000,
+        "participants": [
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 355471,
+                "results": {
+                    "rating_before": 1627.187,
+                    "reputation_before": 86.983,
+                    "rating_change": 6.402,
+                    "reputation_change": 6.591
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124814,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120205,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110452,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1633.589,
+                "new_rep": 93.574
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 361757,
+                "results": {
+                    "rating_before": 1378.617,
+                    "reputation_before": 68.585,
+                    "rating_change": 5.267,
+                    "reputation_change": -0.13499999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125926,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122341,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113490,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1383.884,
+                "new_rep": 68.45
+            },
+            {
+                "user_id": 75984118,
+                "username": "Eriksen_93",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 370935,
+                "results": {
+                    "rating_before": 1394.031,
+                    "reputation_before": 75.235,
+                    "rating_change": -11.669,
+                    "reputation_change": 6.65
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125926,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121524,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123485,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1382.362,
+                "new_rep": 81.885
+            }
+        ]
+    }
+]

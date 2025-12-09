@@ -1,0 +1,155 @@
+[
+    {
+        "race_id": "BpGzKD",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764539203000,
+        "participants": [
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 432166,
+                "results": {
+                    "rating_before": 1293.541,
+                    "reputation_before": 98.589,
+                    "rating_change": 15.441,
+                    "reputation_change": 0.5279999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 113599,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 102529,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103623,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 112415,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1308.982,
+                "new_rep": 99.117
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 439552,
+                "results": {
+                    "rating_before": 1221.168,
+                    "reputation_before": 100.0,
+                    "rating_change": 4.295,
+                    "reputation_change": 1.503
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121665,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105764,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103861,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 108262,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1225.463,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 441280,
+                "results": {
+                    "rating_before": 1340.882,
+                    "reputation_before": 100.0,
+                    "rating_change": -19.736,
+                    "reputation_change": 5.601
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 120928,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111713,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105552,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103087,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1321.146,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

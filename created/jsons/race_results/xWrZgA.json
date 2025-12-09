@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "xWrZgA",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764289839000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 269232,
+                "results": {
+                    "rating_before": 1838.259,
+                    "reputation_before": 100.0,
+                    "rating_change": 1.839,
+                    "reputation_change": -1.603
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73573,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64618,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65972,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65069,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1840.098,
+                "new_rep": 98.397
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 275805,
+                "results": {
+                    "rating_before": 1348.097,
+                    "reputation_before": 80.173,
+                    "rating_change": 7.293,
+                    "reputation_change": 4.61
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73715,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 67464,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 69454,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65172,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1355.39,
+                "new_rep": 84.783
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 280333,
+                "results": {
+                    "rating_before": 1356.441,
+                    "reputation_before": 96.699,
+                    "rating_change": -9.132,
+                    "reputation_change": -1.08
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 77840,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 69217,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 67568,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 65708,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1347.309,
+                "new_rep": 95.619
+            }
+        ]
+    }
+]

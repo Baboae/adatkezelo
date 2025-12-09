@@ -1,0 +1,195 @@
+[
+    {
+        "race_id": "U5Zeft",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764537464000,
+        "participants": [
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 340184,
+                "results": {
+                    "rating_before": 1616.868,
+                    "reputation_before": 100.0,
+                    "rating_change": 12.369,
+                    "reputation_change": -0.788
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 61346,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58636,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 55244,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 55103,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 55051,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 54804,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1629.237,
+                "new_rep": 99.212
+            },
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 344532,
+                "results": {
+                    "rating_before": 1712.42,
+                    "reputation_before": 92.213,
+                    "rating_change": -8.784,
+                    "reputation_change": 0.07899999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 59729,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58746,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57208,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 56348,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 55238,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 57263,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1703.636,
+                "new_rep": 92.292
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 368673,
+                "results": {
+                    "rating_before": 1299.986,
+                    "reputation_before": 98.694,
+                    "rating_change": -3.586,
+                    "reputation_change": 6.683999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 67422,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61606,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58904,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 60663,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 58902,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 61176,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1296.4,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

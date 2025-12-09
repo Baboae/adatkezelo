@@ -1,0 +1,158 @@
+[
+    {
+        "race_id": "h7ZwSC",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "GTR 3",
+        "timestamp": 1764189989000,
+        "participants": [
+            {
+                "user_id": 47503824,
+                "username": "Poul_0",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 1960486,
+                "results": {
+                    "rating_before": 1606.238,
+                    "reputation_before": 90.589,
+                    "rating_change": 11.844,
+                    "reputation_change": 0.4660000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 522743,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 470256,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 488551,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 478936,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1618.082,
+                "new_rep": 91.055
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 2018119,
+                "results": {
+                    "rating_before": 1401.354,
+                    "reputation_before": 88.048,
+                    "rating_change": 8.534,
+                    "reputation_change": 1.2930000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 532586,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 493996,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 480471,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 511066,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1409.888,
+                "new_rep": 89.341
+            },
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 2031392,
+                "results": {
+                    "rating_before": 1609.797,
+                    "reputation_before": 76.905,
+                    "rating_change": -20.378,
+                    "reputation_change": -0.419
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 569663,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 482938,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 508786,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 470005,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1589.419,
+                "new_rep": 76.486
+            }
+        ]
+    }
+]

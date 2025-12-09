@@ -1,0 +1,139 @@
+[
+    {
+        "race_id": "HopQlI",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "GTR 3",
+        "timestamp": 1764448270000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 1164090,
+                "results": {
+                    "rating_before": 1874.172,
+                    "reputation_before": 100.0,
+                    "rating_change": 4.006,
+                    "reputation_change": -0.8
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 400848,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 385902,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 377340,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1878.178,
+                "new_rep": 99.2
+            },
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 10,
+                "total_time": 1171435,
+                "results": {
+                    "rating_before": 1658.959,
+                    "reputation_before": 98.421,
+                    "rating_change": -2.258,
+                    "reputation_change": -0.43599999999999994
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 408892,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 371062,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 391481,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1656.701,
+                "new_rep": 97.985
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1257379,
+                "results": {
+                    "rating_before": 1242.774,
+                    "reputation_before": 81.162,
+                    "rating_change": -1.747,
+                    "reputation_change": 6.166
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 465218,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 394746,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 397415,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1241.027,
+                "new_rep": 87.328
+            }
+        ]
+    }
+]

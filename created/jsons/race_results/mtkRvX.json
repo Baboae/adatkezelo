@@ -1,0 +1,226 @@
+[
+    {
+        "race_id": "mtkRvX",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "GTR 3",
+        "timestamp": 1764360818000,
+        "participants": [
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 3412705,
+                "results": {
+                    "rating_before": 1635.893,
+                    "reputation_before": 100.0,
+                    "rating_change": 8.304,
+                    "reputation_change": -0.927
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 534438,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 468239,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 485136,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 476781,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 479875,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 476037,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 492199,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1644.197,
+                "new_rep": 99.073
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 3439035,
+                "results": {
+                    "rating_before": 1567.073,
+                    "reputation_before": 98.426,
+                    "rating_change": -3.808,
+                    "reputation_change": 0.9239999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 521492,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 473085,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 483301,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 503359,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 482998,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 479056,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 495744,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1563.265,
+                "new_rep": 99.35
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 3615775,
+                "results": {
+                    "rating_before": 1284.409,
+                    "reputation_before": 80.639,
+                    "rating_change": -4.496,
+                    "reputation_change": -0.47600000000000003
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 585716,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 519029,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 484664,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 515061,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 508968,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 485525,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 516812,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1279.913,
+                "new_rep": 80.163
+            }
+        ]
+    }
+]

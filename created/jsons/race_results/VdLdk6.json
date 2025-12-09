@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "VdLdk6",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764167400000,
+        "participants": [
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 397664,
+                "results": {
+                    "rating_before": 1571.936,
+                    "reputation_before": 81.353,
+                    "rating_change": 11.599,
+                    "reputation_change": 0.844
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139782,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125010,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 132872,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1583.535,
+                "new_rep": 82.197
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 400997,
+                "results": {
+                    "rating_before": 1565.013,
+                    "reputation_before": 99.017,
+                    "rating_change": -3.967,
+                    "reputation_change": 6.288
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 145363,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127366,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 128268,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1561.046,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 410868,
+                "results": {
+                    "rating_before": 1366.779,
+                    "reputation_before": 67.052,
+                    "rating_change": -7.632,
+                    "reputation_change": 5.069
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 141291,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133689,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 135888,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1359.147,
+                "new_rep": 72.121
+            }
+        ]
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "race_id": "9Hr8tj",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764441889000,
+        "participants": [
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 523053,
+                "results": {
+                    "rating_before": 1791.843,
+                    "reputation_before": 96.394,
+                    "rating_change": 7.94,
+                    "reputation_change": 0.6629999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114678,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 102592,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 102637,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103002,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 100144,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1799.783,
+                "new_rep": 97.057
+            },
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 531812,
+                "results": {
+                    "rating_before": 1614.102,
+                    "reputation_before": 98.557,
+                    "rating_change": 3.072,
+                    "reputation_change": -1.3159999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116793,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101435,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107092,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 106625,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 99867,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1617.174,
+                "new_rep": 97.241
+            },
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 540455,
+                "results": {
+                    "rating_before": 1583.743,
+                    "reputation_before": 86.247,
+                    "rating_change": -11.012,
+                    "reputation_change": 0.22699999999999987
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111558,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108257,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103971,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110088,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 106581,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1572.731,
+                "new_rep": 86.474
+            }
+        ]
+    }
+]

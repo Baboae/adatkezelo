@@ -1,0 +1,155 @@
+[
+    {
+        "race_id": "uI8St3",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764264558000,
+        "participants": [
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 484695,
+                "results": {
+                    "rating_before": 1292.307,
+                    "reputation_before": 79.052,
+                    "rating_change": 19.77,
+                    "reputation_change": 4.268
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133033,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118648,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116241,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 116773,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1312.077,
+                "new_rep": 83.32
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 485602,
+                "results": {
+                    "rating_before": 1363.308,
+                    "reputation_before": 90.642,
+                    "rating_change": -1.036,
+                    "reputation_change": 1.068
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133678,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 123246,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116585,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 112093,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1362.272,
+                "new_rep": 91.71
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 489640,
+                "results": {
+                    "rating_before": 1388.406,
+                    "reputation_before": 80.569,
+                    "rating_change": -18.735,
+                    "reputation_change": -0.9510000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133291,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116972,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123638,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115739,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1369.671,
+                "new_rep": 79.618
+            }
+        ]
+    }
+]

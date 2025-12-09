@@ -1,0 +1,145 @@
+[
+    {
+        "race_id": "RLYuFv",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764105304000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 12,
+                "total_time": 316756,
+                "results": {
+                    "rating_before": 1513.632,
+                    "reputation_before": 99.475,
+                    "rating_change": 18.009,
+                    "reputation_change": -2.177
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 112794,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103341,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100621,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1531.641,
+                "new_rep": 97.298
+            },
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 316987,
+                "results": {
+                    "rating_before": 1641.89,
+                    "reputation_before": 99.149,
+                    "rating_change": -6.342,
+                    "reputation_change": -0.648
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111036,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 106470,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 99481,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1635.548,
+                "new_rep": 98.501
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 328067,
+                "results": {
+                    "rating_before": 1478.033,
+                    "reputation_before": 74.859,
+                    "rating_change": -11.667,
+                    "reputation_change": 0.32199999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 113343,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103632,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111092,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1466.366,
+                "new_rep": 75.181
+            }
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "race_id": "QmhKOY",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "timestamp": 1764345543000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 2663538,
+                "results": {
+                    "rating_before": 1562.916,
+                    "reputation_before": 99.382,
+                    "rating_change": 9.774,
+                    "reputation_change": -1.068
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 487523,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 442120,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 437450,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 433724,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 413528,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 449193,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1572.69,
+                "new_rep": 98.314
+            },
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 2664850,
+                "results": {
+                    "rating_before": 1474.384,
+                    "reputation_before": 98.176,
+                    "rating_change": -0.579,
+                    "reputation_change": -1.025
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 467449,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453965,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 422126,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 451094,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 447678,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 422538,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1473.805,
+                "new_rep": 97.151
+            },
+            {
+                "user_id": 87754186,
+                "username": "Danilo_69",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 2737252,
+                "results": {
+                    "rating_before": 1358.443,
+                    "reputation_before": 100.0,
+                    "rating_change": -9.195,
+                    "reputation_change": 0.42400000000000015
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 486604,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 460776,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 463974,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 455344,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 431985,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 438569,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1349.248,
+                "new_rep": 100.0
+            }
+        ]
+    }
+]

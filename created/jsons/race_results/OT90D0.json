@@ -1,0 +1,158 @@
+[
+    {
+        "race_id": "OT90D0",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "GTR 3",
+        "timestamp": 1764186337000,
+        "participants": [
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 250893,
+                "results": {
+                    "rating_before": 1560.502,
+                    "reputation_before": 95.874,
+                    "rating_change": 15.808,
+                    "reputation_change": -0.8590000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66559,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 60064,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 61837,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 62433,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1576.31,
+                "new_rep": 95.015
+            },
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 253707,
+                "results": {
+                    "rating_before": 1814.084,
+                    "reputation_before": 98.341,
+                    "rating_change": -12.225,
+                    "reputation_change": 1.469
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 69547,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 59539,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 62467,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 62154,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1801.859,
+                "new_rep": 99.81
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 270130,
+                "results": {
+                    "rating_before": 1292.975,
+                    "reputation_before": 62.851,
+                    "rating_change": -3.584,
+                    "reputation_change": -0.393
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75286,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65656,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64787,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 64401,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1289.391,
+                "new_rep": 62.458
+            }
+        ]
+    }
+]

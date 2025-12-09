@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "KsYBon",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764107111000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 519659,
+                "results": {
+                    "rating_before": 1531.641,
+                    "reputation_before": 97.298,
+                    "rating_change": 14.781,
+                    "reputation_change": -0.36100000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 134683,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 130513,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123092,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 131371,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1546.422,
+                "new_rep": 96.937
+            },
+            {
+                "user_id": 34673101,
+                "username": "Griffith_max",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 526056,
+                "results": {
+                    "rating_before": 1554.725,
+                    "reputation_before": 98.04,
+                    "rating_change": -2.779,
+                    "reputation_change": 0.574
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135425,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 132857,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127144,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130630,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1551.946,
+                "new_rep": 98.614
+            },
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 529276,
+                "results": {
+                    "rating_before": 1454.384,
+                    "reputation_before": 72.356,
+                    "rating_change": -12.002,
+                    "reputation_change": -1.3579999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 140471,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 130141,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 132076,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 126588,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1442.382,
+                "new_rep": 70.998
+            }
+        ]
+    }
+]

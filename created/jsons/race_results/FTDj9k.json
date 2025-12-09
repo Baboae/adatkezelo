@@ -1,0 +1,179 @@
+[
+    {
+        "race_id": "FTDj9k",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764003759000,
+        "participants": [
+            {
+                "user_id": 53467267,
+                "username": "Romolo_94",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 527735,
+                "results": {
+                    "rating_before": 1571.12,
+                    "reputation_before": 93.723,
+                    "rating_change": 14.475,
+                    "reputation_change": 5.855
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114939,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107102,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 102337,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103277,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 100080,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1585.595,
+                "new_rep": 99.578
+            },
+            {
+                "user_id": 66016320,
+                "username": "Matthew_80",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 527754,
+                "results": {
+                    "rating_before": 1547.872,
+                    "reputation_before": 80.097,
+                    "rating_change": 0.074,
+                    "reputation_change": -0.2870000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114472,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 100922,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103684,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 101609,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 107067,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1547.946,
+                "new_rep": 79.81
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 9,
+                "total_time": 533500,
+                "results": {
+                    "rating_before": 1527.868,
+                    "reputation_before": 81.746,
+                    "rating_change": -14.549,
+                    "reputation_change": -0.18900000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119845,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109275,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103956,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100112,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 100312,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1513.319,
+                "new_rep": 81.557
+            }
+        ]
+    }
+]

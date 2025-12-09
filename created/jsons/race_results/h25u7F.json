@@ -1,0 +1,178 @@
+[
+    {
+        "race_id": "h25u7F",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764194534000,
+        "participants": [
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 597335,
+                "results": {
+                    "rating_before": 1321.79,
+                    "reputation_before": 80.965,
+                    "rating_change": 22.264,
+                    "reputation_change": 1.732
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127785,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115201,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117445,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120655,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116249,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1344.054,
+                "new_rep": 82.697
+            },
+            {
+                "user_id": 70126837,
+                "username": "Carlos_73",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 599878,
+                "results": {
+                    "rating_before": 1671.978,
+                    "reputation_before": 98.813,
+                    "rating_change": -12.177,
+                    "reputation_change": 1.858
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125720,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119768,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116766,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120918,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116706,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1659.801,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 623105,
+                "results": {
+                    "rating_before": 1328.091,
+                    "reputation_before": 79.598,
+                    "rating_change": -10.087,
+                    "reputation_change": -1.3410000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138193,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116916,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126094,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 116448,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 125454,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1318.004,
+                "new_rep": 78.257
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "bmR27H",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764511983000,
+        "participants": [
+            {
+                "user_id": 70126837,
+                "username": "Carlos_73",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 311694,
+                "results": {
+                    "rating_before": 1844.471,
+                    "reputation_before": 99.462,
+                    "rating_change": 0.726,
+                    "reputation_change": 0.914
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108203,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101663,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 101828,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1845.197,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 330508,
+                "results": {
+                    "rating_before": 1254.164,
+                    "reputation_before": 92.102,
+                    "rating_change": 4.015,
+                    "reputation_change": 0.367
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119354,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108808,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 102346,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1258.179,
+                "new_rep": 92.469
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 334417,
+                "results": {
+                    "rating_before": 1092.931,
+                    "reputation_before": 70.445,
+                    "rating_change": -4.742,
+                    "reputation_change": 7.088
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118713,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109752,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105952,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1088.189,
+                "new_rep": 77.533
+            }
+        ]
+    }
+]

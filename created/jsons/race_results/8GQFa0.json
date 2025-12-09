@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "8GQFa0",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764528260000,
+        "participants": [
+            {
+                "user_id": 73536129,
+                "username": "Javier_16",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 356631,
+                "results": {
+                    "rating_before": 1533.099,
+                    "reputation_before": 98.559,
+                    "rating_change": 15.5,
+                    "reputation_change": 1.325
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124453,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114543,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117635,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1548.599,
+                "new_rep": 99.884
+            },
+            {
+                "user_id": 37248392,
+                "username": "Adrien_Slipstreamer",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 362015,
+                "results": {
+                    "rating_before": 1716.744,
+                    "reputation_before": 99.143,
+                    "rating_change": -10.396,
+                    "reputation_change": 0.33699999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126470,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118608,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116937,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1706.348,
+                "new_rep": 99.48
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 369952,
+                "results": {
+                    "rating_before": 1319.824,
+                    "reputation_before": 87.856,
+                    "rating_change": -5.103,
+                    "reputation_change": -0.21299999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133944,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113105,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122903,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1314.721,
+                "new_rep": 87.643
+            }
+        ]
+    }
+]

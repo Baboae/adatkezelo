@@ -1,0 +1,180 @@
+[
+    {
+        "race_id": "3fy1UG",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "GTR 3",
+        "timestamp": 1764005467000,
+        "participants": [
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 2031728,
+                "results": {
+                    "rating_before": 1470.035,
+                    "reputation_before": 67.228,
+                    "rating_change": 17.283,
+                    "reputation_change": 0.23099999999999987
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 426551,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 387506,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 420534,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 406444,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 390693,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.318,
+                "new_rep": 67.459
+            },
+            {
+                "user_id": 72132228,
+                "username": "Thomsen_92",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 2051445,
+                "results": {
+                    "rating_before": 1513.371,
+                    "reputation_before": 73.95,
+                    "rating_change": -1.698,
+                    "reputation_change": 0.16399999999999992
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 418578,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 408929,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 399797,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 412882,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 411259,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1511.673,
+                "new_rep": 74.114
+            },
+            {
+                "user_id": 34248434,
+                "username": "Prayitna_62",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 2072045,
+                "results": {
+                    "rating_before": 1482.646,
+                    "reputation_before": 70.229,
+                    "rating_change": -15.585,
+                    "reputation_change": 1.397
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 449822,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 414920,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 410369,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 410465,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 386469,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1467.061,
+                "new_rep": 71.626
+            }
+        ]
+    }
+]

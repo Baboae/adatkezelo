@@ -1,0 +1,141 @@
+[
+    {
+        "race_id": "OqRTLF",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764176383000,
+        "participants": [
+            {
+                "user_id": 81305357,
+                "username": "James_33",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 178677,
+                "results": {
+                    "rating_before": 1544.986,
+                    "reputation_before": 96.242,
+                    "rating_change": 13.537,
+                    "reputation_change": -0.5270000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 64212,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58099,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56366,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1558.523,
+                "new_rep": 95.715
+            },
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 179982,
+                "results": {
+                    "rating_before": 1528.255,
+                    "reputation_before": 100.0,
+                    "rating_change": -1.33,
+                    "reputation_change": -0.07699999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 65351,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58817,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 55814,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1526.925,
+                "new_rep": 99.923
+            },
+            {
+                "user_id": 64817767,
+                "username": "Hubbard_58",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 181661,
+                "results": {
+                    "rating_before": 1452.617,
+                    "reputation_before": 71.746,
+                    "rating_change": -12.207,
+                    "reputation_change": -0.706
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 63240,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57620,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60801,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1440.41,
+                "new_rep": 71.04
+            }
+        ]
+    }
+]

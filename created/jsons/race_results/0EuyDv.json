@@ -1,0 +1,184 @@
+[
+    {
+        "race_id": "0EuyDv",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764187371000,
+        "participants": [
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 645453,
+                "results": {
+                    "rating_before": 1597.432,
+                    "reputation_before": 76.717,
+                    "rating_change": 12.365,
+                    "reputation_change": 0.188
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139256,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133130,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124249,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121895,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126923,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1609.797,
+                "new_rep": 76.905
+            },
+            {
+                "user_id": 10841578,
+                "username": "Gonzalez_Slipstreamer",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 646619,
+                "results": {
+                    "rating_before": 1608.219,
+                    "reputation_before": 93.203,
+                    "rating_change": -4.319,
+                    "reputation_change": -0.8
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135461,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125566,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 132748,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125062,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127782,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1603.9,
+                "new_rep": 92.403
+            },
+            {
+                "user_id": 80618508,
+                "username": "Torres_73",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 11,
+                "total_time": 664192,
+                "results": {
+                    "rating_before": 1413.262,
+                    "reputation_before": 80.271,
+                    "rating_change": -8.046,
+                    "reputation_change": -1.5650000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 136844,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 136637,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123817,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 131803,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 135091,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1405.216,
+                "new_rep": 78.706
+            }
+        ]
+    }
+]

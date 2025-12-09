@@ -1,0 +1,182 @@
+[
+    {
+        "race_id": "qrmD9F",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "DTM 1992",
+        "timestamp": 1764441925000,
+        "participants": [
+            {
+                "user_id": 34562007,
+                "username": "Roger_44",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 2139895,
+                "results": {
+                    "rating_before": 1601.667,
+                    "reputation_before": 79.723,
+                    "rating_change": 9.349,
+                    "reputation_change": 0.222
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 447486,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 431172,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 403429,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 431859,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 425949,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1611.016,
+                "new_rep": 79.945
+            },
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 2166037,
+                "results": {
+                    "rating_before": 1580.537,
+                    "reputation_before": 94.401,
+                    "rating_change": -5.472,
+                    "reputation_change": 1.513
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 482999,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 400955,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 439166,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 420623,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 422294,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1575.065,
+                "new_rep": 95.914
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 2212154,
+                "results": {
+                    "rating_before": 1246.651,
+                    "reputation_before": 81.164,
+                    "rating_change": -3.877,
+                    "reputation_change": -0.0020000000000000018
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 480590,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 417534,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 450322,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 442890,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 420818,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1242.774,
+                "new_rep": 81.162
+            }
+        ]
+    }
+]

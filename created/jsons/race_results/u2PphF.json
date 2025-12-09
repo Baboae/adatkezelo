@@ -1,0 +1,155 @@
+[
+    {
+        "race_id": "u2PphF",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "timestamp": 1764177474000,
+        "participants": [
+            {
+                "user_id": 13349342,
+                "username": "Sihotang_23",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 1788752,
+                "results": {
+                    "rating_before": 1479.347,
+                    "reputation_before": 86.799,
+                    "rating_change": 11.991,
+                    "reputation_change": 4.583
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 462304,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 429950,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 436453,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 460045,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1491.338,
+                "new_rep": 91.382
+            },
+            {
+                "user_id": 42900141,
+                "username": "Xanana_2",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 1814921,
+                "results": {
+                    "rating_before": 1429.373,
+                    "reputation_before": 87.056,
+                    "rating_change": -0.674,
+                    "reputation_change": 1.411
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 479186,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 429419,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 451689,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 454627,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1428.699,
+                "new_rep": 88.467
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 1832189,
+                "results": {
+                    "rating_before": 1349.092,
+                    "reputation_before": 71.288,
+                    "rating_change": -11.317,
+                    "reputation_change": 0.008000000000000007
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 475242,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 442368,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 450922,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 463657,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1337.775,
+                "new_rep": 71.296
+            }
+        ]
+    }
+]

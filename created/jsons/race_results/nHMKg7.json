@@ -1,0 +1,135 @@
+[
+    {
+        "race_id": "nHMKg7",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764088097000,
+        "participants": [
+            {
+                "user_id": 14899390,
+                "username": "Oquendo_8",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 359046,
+                "results": {
+                    "rating_before": 1454.316,
+                    "reputation_before": 99.054,
+                    "rating_change": 16.417,
+                    "reputation_change": 4.723000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125043,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115274,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 118729,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1470.733,
+                "new_rep": 100.0
+            },
+            {
+                "user_id": 39646302,
+                "username": "Johannes_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 368847,
+                "results": {
+                    "rating_before": 1518.363,
+                    "reputation_before": 85.478,
+                    "rating_change": -3.9,
+                    "reputation_change": -1.451
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133224,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113826,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121797,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1514.463,
+                "new_rep": 84.027
+            },
+            {
+                "user_id": 54155943,
+                "username": "Christensen_53",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 372114,
+                "results": {
+                    "rating_before": 1408.844,
+                    "reputation_before": 62.949,
+                    "rating_change": -12.517,
+                    "reputation_change": 1.04
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133429,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114693,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123992,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1396.327,
+                "new_rep": 63.989
+            }
+        ]
+    }
+]

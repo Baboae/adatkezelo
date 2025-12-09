@@ -1,0 +1,174 @@
+[
+    {
+        "race_id": "jOYFVo",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1763998080000,
+        "participants": [
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 537504,
+                "results": {
+                    "rating_before": 1514.88,
+                    "reputation_before": 78.032,
+                    "rating_change": 15.284,
+                    "reputation_change": 6.914
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114964,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105992,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107637,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100808,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108103,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1530.164,
+                "new_rep": 84.946
+            },
+            {
+                "user_id": 11266126,
+                "username": "Parada_9",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 538700,
+                "results": {
+                    "rating_before": 1498.646,
+                    "reputation_before": 73.691,
+                    "rating_change": 0.405,
+                    "reputation_change": 1.31
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 112769,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101524,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110679,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103872,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109856,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.051,
+                "new_rep": 75.001
+            },
+            {
+                "user_id": 29580067,
+                "username": "Sara_27",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 541654,
+                "results": {
+                    "rating_before": 1500.0,
+                    "reputation_before": 75.072,
+                    "rating_change": -15.689,
+                    "reputation_change": 5.749
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111592,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104265,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107883,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110187,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 107727,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.311,
+                "new_rep": 80.821
+            }
+        ]
+    }
+]

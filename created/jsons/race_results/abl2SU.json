@@ -1,0 +1,153 @@
+[
+    {
+        "race_id": "abl2SU",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764252941000,
+        "participants": [
+            {
+                "user_id": 88138811,
+                "username": "Duarte_the_ApexHunter",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 497262,
+                "results": {
+                    "rating_before": 1356.898,
+                    "reputation_before": 81.328,
+                    "rating_change": 13.05,
+                    "reputation_change": 0.38400000000000006
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 137747,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116699,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120786,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122030,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1369.948,
+                "new_rep": 81.712
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 501166,
+                "results": {
+                    "rating_before": 1304.97,
+                    "reputation_before": 85.112,
+                    "rating_change": 0.591,
+                    "reputation_change": 0.29799999999999993
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 134174,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125844,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117297,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123851,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1305.561,
+                "new_rep": 85.41
+            },
+            {
+                "user_id": 78206708,
+                "username": "Grégoire_41",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 504707,
+                "results": {
+                    "rating_before": 1279.041,
+                    "reputation_before": 80.688,
+                    "rating_change": -13.641,
+                    "reputation_change": 4.819
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138334,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122233,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127707,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 116433,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1265.4,
+                "new_rep": 85.507
+            }
+        ]
+    }
+]

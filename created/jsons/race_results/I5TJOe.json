@@ -1,0 +1,136 @@
+[
+    {
+        "race_id": "I5TJOe",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764182623000,
+        "participants": [
+            {
+                "user_id": 74717117,
+                "username": "Pap_56",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 333367,
+                "results": {
+                    "rating_before": 1615.876,
+                    "reputation_before": 96.865,
+                    "rating_change": 10.182,
+                    "reputation_change": 0.02300000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 113994,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107193,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112180,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1626.058,
+                "new_rep": 96.888
+            },
+            {
+                "user_id": 42241966,
+                "username": "Rocío_the_ApexHunter",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 341580,
+                "results": {
+                    "rating_before": 1593.957,
+                    "reputation_before": 77.302,
+                    "rating_change": -4.516,
+                    "reputation_change": 0.8540000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 115998,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111970,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113612,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1589.441,
+                "new_rep": 78.156
+            },
+            {
+                "user_id": 55626657,
+                "username": "Seidel_33",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 349713,
+                "results": {
+                    "rating_before": 1337.775,
+                    "reputation_before": 71.296,
+                    "rating_change": -5.665,
+                    "reputation_change": -1.3170000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119712,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113998,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116003,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1332.11,
+                "new_rep": 69.979
+            }
+        ]
+    }
+]

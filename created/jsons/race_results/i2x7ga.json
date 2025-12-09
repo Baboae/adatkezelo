@@ -1,0 +1,163 @@
+[
+    {
+        "race_id": "i2x7ga",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764000913000,
+        "participants": [
+            {
+                "user_id": 25971646,
+                "username": "Barbosa_40",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 5,
+                "total_time": 378138,
+                "results": {
+                    "rating_before": 1530.93,
+                    "reputation_before": 86.889,
+                    "rating_change": 13.595,
+                    "reputation_change": -0.6920000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102055,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91953,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91563,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 92567,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1544.525,
+                "new_rep": 86.197
+            },
+            {
+                "user_id": 38248859,
+                "username": "van Hemert_78",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 389725,
+                "results": {
+                    "rating_before": 1455.459,
+                    "reputation_before": 74.901,
+                    "rating_change": 2.747,
+                    "reputation_change": -1.2149999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102173,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 92439,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97146,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 97967,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1458.206,
+                "new_rep": 73.686
+            },
+            {
+                "user_id": 87986088,
+                "username": "Szilágyi_96",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 390483,
+                "results": {
+                    "rating_before": 1500.72,
+                    "reputation_before": 68.815,
+                    "rating_change": -16.342,
+                    "reputation_change": -0.803
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 104277,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 96318,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 93732,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96156,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1484.378,
+                "new_rep": 68.012
+            }
+        ]
+    }
+]
