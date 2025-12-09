@@ -37,6 +37,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 ## 📂 Projekt Struktúra
 
 adatkezelo/
+
 ├── main.py # Fő futtató script
 
 ├── generators/ # Faker generátorok
