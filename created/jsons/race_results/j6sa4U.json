@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "j6sa4U",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764438332000,
+        "participants": [
+            {
+                "user_id": 44519399,
+                "username": "Nielsen_72",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 430680,
+                "results": {
+                    "rating_before": 1455.025,
+                    "reputation_before": 80.574,
+                    "rating_change": 16.157,
+                    "reputation_change": 1.234
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111307,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103184,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107772,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 108417,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1471.182,
+                "new_rep": 81.808
+            },
+            {
+                "user_id": 57182793,
+                "username": "Sitompul_65",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 432479,
+                "results": {
+                    "rating_before": 1441.35,
+                    "reputation_before": 76.912,
+                    "rating_change": 1.099,
+                    "reputation_change": -1.341
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118003,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101116,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105362,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 107998,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1442.449,
+                "new_rep": 75.571
+            },
+            {
+                "user_id": 85155740,
+                "username": "James_77",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 435185,
+                "results": {
+                    "rating_before": 1475.52,
+                    "reputation_before": 79.225,
+                    "rating_change": -17.256,
+                    "reputation_change": -1.378
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118152,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109732,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 106576,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100725,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1458.264,
+                "new_rep": 77.847
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "race_id": "4B9GaP",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "DTM 1992",
+        "timestamp": 1764269086000,
+        "participants": [
+            {
+                "user_id": 67640435,
+                "username": "Buk_on_twitch",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 2616946,
+                "results": {
+                    "rating_before": 1487.112,
+                    "reputation_before": 78.47,
+                    "rating_change": 13.893,
+                    "reputation_change": -0.459
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 493217,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 425663,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 419461,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 438668,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 406156,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 433781,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.005,
+                "new_rep": 78.011
+            },
+            {
+                "user_id": 11737213,
+                "username": "Harsanto_69",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 2619193,
+                "results": {
+                    "rating_before": 1421.431,
+                    "reputation_before": 78.641,
+                    "rating_change": 2.389,
+                    "reputation_change": -0.95
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 454146,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 440350,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 415963,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 449911,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 444185,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 414638,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1423.82,
+                "new_rep": 77.691
+            },
+            {
+                "user_id": 22606942,
+                "username": "Ryan_33",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 2656413,
+                "results": {
+                    "rating_before": 1460.455,
+                    "reputation_before": 81.874,
+                    "rating_change": -16.282,
+                    "reputation_change": 0.7359999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 467678,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 444254,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 447287,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 438726,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 411068,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 447400,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1444.173,
+                "new_rep": 82.61
+            }
+        ]
+    }
+]

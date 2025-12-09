@@ -1,0 +1,128 @@
+[
+    {
+        "race_id": "n5B64S",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764270833000,
+        "participants": [
+            {
+                "user_id": 27535161,
+                "username": "Totino_43",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 1371573,
+                "results": {
+                    "rating_before": 1535.14,
+                    "reputation_before": 79.985,
+                    "rating_change": 11.3,
+                    "reputation_change": 5.82
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 492336,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453310,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 425927,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1546.44,
+                "new_rep": 85.805
+            },
+            {
+                "user_id": 96876122,
+                "username": "Latier_3",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1375488,
+                "results": {
+                    "rating_before": 1430.467,
+                    "reputation_before": 73.545,
+                    "rating_change": 2.317,
+                    "reputation_change": 4.9830000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 460927,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 461158,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 453403,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1432.784,
+                "new_rep": 78.528
+            },
+            {
+                "user_id": 10812710,
+                "username": "Brandon_6",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1377152,
+                "results": {
+                    "rating_before": 1429.491,
+                    "reputation_before": 77.405,
+                    "rating_change": -13.617,
+                    "reputation_change": 4.152
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 494132,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 432232,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 450788,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1415.874,
+                "new_rep": 81.557
+            }
+        ]
+    }
+]

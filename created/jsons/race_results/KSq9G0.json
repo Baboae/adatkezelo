@@ -1,0 +1,233 @@
+[
+    {
+        "race_id": "KSq9G0",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764278960000,
+        "participants": [
+            {
+                "user_id": 74326104,
+                "username": "Zachary_26",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 825711,
+                "results": {
+                    "rating_before": 1549.502,
+                    "reputation_before": 85.184,
+                    "rating_change": 11.853,
+                    "reputation_change": -0.4949999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128061,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112534,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116903,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113689,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116260,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 121641,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 116623,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1561.355,
+                "new_rep": 84.689
+            },
+            {
+                "user_id": 92823071,
+                "username": "Mathias_22",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 12,
+                "total_time": 833689,
+                "results": {
+                    "rating_before": 1473.189,
+                    "reputation_before": 81.429,
+                    "rating_change": 0.994,
+                    "reputation_change": -2.347
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128758,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115714,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115504,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 117599,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122446,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 115533,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 118135,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1474.183,
+                "new_rep": 79.082
+            },
+            {
+                "user_id": 97938038,
+                "username": "Aleksander_78",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 10,
+                "total_time": 850173,
+                "results": {
+                    "rating_before": 1441.143,
+                    "reputation_before": 79.533,
+                    "rating_change": -12.847,
+                    "reputation_change": -2.199
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128601,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122897,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121654,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114078,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123619,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113848,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 125476,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1428.296,
+                "new_rep": 77.334
+            }
+        ]
+    }
+]

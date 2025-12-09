@@ -1,0 +1,135 @@
+[
+    {
+        "race_id": "04UtGl",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764286367000,
+        "participants": [
+            {
+                "user_id": 74504365,
+                "username": "Liam_16",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 344554,
+                "results": {
+                    "rating_before": 1587.901,
+                    "reputation_before": 69.347,
+                    "rating_change": 11.696,
+                    "reputation_change": 5.12
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 117143,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113484,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113927,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1599.597,
+                "new_rep": 74.467
+            },
+            {
+                "user_id": 96876122,
+                "username": "Latier_3",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 344727,
+                "results": {
+                    "rating_before": 1432.784,
+                    "reputation_before": 78.528,
+                    "rating_change": 5.878,
+                    "reputation_change": 1.193
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116384,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114005,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114338,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1438.662,
+                "new_rep": 79.721
+            },
+            {
+                "user_id": 89371139,
+                "username": "Lautaro_the_goat",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 346325,
+                "results": {
+                    "rating_before": 1546.349,
+                    "reputation_before": 69.361,
+                    "rating_change": -17.573,
+                    "reputation_change": -0.5680000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124037,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110919,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111369,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1528.776,
+                "new_rep": 68.793
+            }
+        ]
+    }
+]

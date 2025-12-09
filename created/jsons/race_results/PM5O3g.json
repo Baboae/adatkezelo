@@ -1,0 +1,202 @@
+[
+    {
+        "race_id": "PM5O3g",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764173837000,
+        "participants": [
+            {
+                "user_id": 71540565,
+                "username": "Cesare_15",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 665172,
+                "results": {
+                    "rating_before": 1557.33,
+                    "reputation_before": 81.756,
+                    "rating_change": 13.062,
+                    "reputation_change": -0.27399999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119671,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 106800,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111444,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103894,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 113189,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 110174,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1570.392,
+                "new_rep": 81.482
+            },
+            {
+                "user_id": 39423120,
+                "username": "De La Fuente_15",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 681276,
+                "results": {
+                    "rating_before": 1469.757,
+                    "reputation_before": 72.716,
+                    "rating_change": 3.017,
+                    "reputation_change": -1.151
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121464,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112263,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114995,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110662,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 111449,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 110443,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1472.774,
+                "new_rep": 71.565
+            },
+            {
+                "user_id": 84473507,
+                "username": "Jabal_12",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 681755,
+                "results": {
+                    "rating_before": 1515.281,
+                    "reputation_before": 74.043,
+                    "rating_change": -16.079,
+                    "reputation_change": -1.411
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116429,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112686,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110494,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115013,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 115121,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 112012,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.202,
+                "new_rep": 72.632
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "race_id": "CFJgyd",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764515877000,
+        "participants": [
+            {
+                "user_id": 39736367,
+                "username": "Thorsen_37",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 445884,
+                "results": {
+                    "rating_before": 1477.155,
+                    "reputation_before": 88.657,
+                    "rating_change": 12.456,
+                    "reputation_change": -0.05800000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 121999,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 106710,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113310,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 103865,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1489.611,
+                "new_rep": 88.599
+            },
+            {
+                "user_id": 22606942,
+                "username": "Ryan_33",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 446497,
+                "results": {
+                    "rating_before": 1391.916,
+                    "reputation_before": 85.917,
+                    "rating_change": 2.245,
+                    "reputation_change": 6.937
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 120503,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105198,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112782,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 108014,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1394.161,
+                "new_rep": 92.854
+            },
+            {
+                "user_id": 79415539,
+                "username": "Ramírez_83",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 451294,
+                "results": {
+                    "rating_before": 1405.847,
+                    "reputation_before": 84.516,
+                    "rating_change": -14.701,
+                    "reputation_change": -1.873
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118850,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108054,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 109928,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114462,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1391.146,
+                "new_rep": 82.643
+            }
+        ]
+    }
+]

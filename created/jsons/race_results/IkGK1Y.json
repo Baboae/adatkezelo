@@ -1,0 +1,253 @@
+[
+    {
+        "race_id": "IkGK1Y",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764549022000,
+        "participants": [
+            {
+                "user_id": 39423120,
+                "username": "De La Fuente_15",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 5,
+                "total_time": 3498072,
+                "results": {
+                    "rating_before": 1487.269,
+                    "reputation_before": 69.879,
+                    "rating_change": 18.998,
+                    "reputation_change": -0.1509999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 494763,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 423077,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 429818,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 447235,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 418768,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 423099,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 416284,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 445028,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1506.267,
+                "new_rep": 69.728
+            },
+            {
+                "user_id": 58039499,
+                "username": "Rodríguez_PR0F",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 3502102,
+                "results": {
+                    "rating_before": 1532.342,
+                    "reputation_before": 84.681,
+                    "rating_change": -0.068,
+                    "reputation_change": 1.108
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 477503,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 423547,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 454764,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 447984,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 429174,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 421899,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 435999,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 411232,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.274,
+                "new_rep": 85.789
+            },
+            {
+                "user_id": 14895103,
+                "username": "Camilo_7",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 9,
+                "total_time": 3503117,
+                "results": {
+                    "rating_before": 1574.414,
+                    "reputation_before": 82.091,
+                    "rating_change": -18.93,
+                    "reputation_change": 0.23499999999999988
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 468416,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 448194,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 420362,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 422592,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 435819,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 438174,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 452229,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 417331,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1555.484,
+                "new_rep": 82.326
+            }
+        ]
+    }
+]

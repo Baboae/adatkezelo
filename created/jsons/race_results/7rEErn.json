@@ -1,0 +1,202 @@
+[
+    {
+        "race_id": "7rEErn",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764101766000,
+        "participants": [
+            {
+                "user_id": 74358012,
+                "username": "Débora_Cr1t1c4l",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 573913,
+                "results": {
+                    "rating_before": 1507.309,
+                    "reputation_before": 80.397,
+                    "rating_change": 14.267,
+                    "reputation_change": 0.15300000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103315,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91365,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 94289,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 93302,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94898,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 96744,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1521.576,
+                "new_rep": 80.55
+            },
+            {
+                "user_id": 96876122,
+                "username": "Latier_3",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 9,
+                "total_time": 591188,
+                "results": {
+                    "rating_before": 1453.088,
+                    "reputation_before": 74.797,
+                    "rating_change": 1.989,
+                    "reputation_change": -1.83
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108178,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 100663,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97369,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94775,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98089,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 92114,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1455.077,
+                "new_rep": 72.967
+            },
+            {
+                "user_id": 35635784,
+                "username": "José Miguel_57",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 595229,
+                "results": {
+                    "rating_before": 1485.793,
+                    "reputation_before": 71.645,
+                    "rating_change": -16.256,
+                    "reputation_change": -0.52
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 109753,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 99060,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 96131,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96052,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 99331,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 94902,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1469.537,
+                "new_rep": 71.125
+            }
+        ]
+    }
+]

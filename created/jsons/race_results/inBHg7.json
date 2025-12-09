@@ -1,0 +1,205 @@
+[
+    {
+        "race_id": "inBHg7",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764544506000,
+        "participants": [
+            {
+                "user_id": 10812710,
+                "username": "Brandon_6",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 591097,
+                "results": {
+                    "rating_before": 1375.401,
+                    "reputation_before": 84.976,
+                    "rating_change": 16.245,
+                    "reputation_change": -0.02100000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107436,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98065,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 96256,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94914,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98513,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 95913,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1391.646,
+                "new_rep": 84.955
+            },
+            {
+                "user_id": 97938038,
+                "username": "Aleksander_78",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 595226,
+                "results": {
+                    "rating_before": 1366.723,
+                    "reputation_before": 81.358,
+                    "rating_change": 0.844,
+                    "reputation_change": -1.4009999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 104977,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 95867,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95478,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 100392,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 97595,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 100917,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1367.567,
+                "new_rep": 79.957
+            },
+            {
+                "user_id": 54437763,
+                "username": "Gaspare_37",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 597696,
+                "results": {
+                    "rating_before": 1394.745,
+                    "reputation_before": 77.408,
+                    "rating_change": -17.089,
+                    "reputation_change": -1.513
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 110326,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101109,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92872,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 92327,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 101069,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 99993,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1377.656,
+                "new_rep": 75.895
+            }
+        ]
+    }
+]

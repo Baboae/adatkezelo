@@ -1,0 +1,198 @@
+[
+    {
+        "race_id": "mGvQ0Z",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764535581000,
+        "participants": [
+            {
+                "user_id": 58039499,
+                "username": "Rodríguez_PR0F",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 769560,
+                "results": {
+                    "rating_before": 1516.519,
+                    "reputation_before": 83.457,
+                    "rating_change": 15.823,
+                    "reputation_change": 1.224
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 138509,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124487,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124991,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 129673,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122605,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 129295,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.342,
+                "new_rep": 84.681
+            },
+            {
+                "user_id": 96876122,
+                "username": "Latier_3",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 789326,
+                "results": {
+                    "rating_before": 1430.83,
+                    "reputation_before": 85.306,
+                    "rating_change": 5.439,
+                    "reputation_change": 6.05
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 146004,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 135593,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 134442,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123620,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123717,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 125950,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1436.269,
+                "new_rep": 91.356
+            },
+            {
+                "user_id": 74504365,
+                "username": "Liam_16",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 792089,
+                "results": {
+                    "rating_before": 1594.105,
+                    "reputation_before": 74.929,
+                    "rating_change": -21.263,
+                    "reputation_change": 0.4930000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143318,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 129902,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127003,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 128616,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 129084,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 134166,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1572.842,
+                "new_rep": 75.422
+            }
+        ]
+    }
+]

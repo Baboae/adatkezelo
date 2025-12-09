@@ -1,0 +1,137 @@
+[
+    {
+        "race_id": "iN4au4",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764258448000,
+        "participants": [
+            {
+                "user_id": 50819530,
+                "username": "Toft_80",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 287151,
+                "results": {
+                    "rating_before": 1503.511,
+                    "reputation_before": 76.315,
+                    "rating_change": 14.06,
+                    "reputation_change": -0.353
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103577,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91911,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91663,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1517.571,
+                "new_rep": 75.962
+            },
+            {
+                "user_id": 11737213,
+                "username": "Harsanto_69",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 293638,
+                "results": {
+                    "rating_before": 1430.21,
+                    "reputation_before": 79.928,
+                    "rating_change": 3.06,
+                    "reputation_change": 0.18899999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103812,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 92111,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97715,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1433.27,
+                "new_rep": 80.117
+            },
+            {
+                "user_id": 75498741,
+                "username": "Sirait_70",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 298755,
+                "results": {
+                    "rating_before": 1491.487,
+                    "reputation_before": 70.583,
+                    "rating_change": -17.12,
+                    "reputation_change": -0.997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 104357,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 96667,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97731,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1474.367,
+                "new_rep": 69.586
+            }
+        ]
+    }
+]

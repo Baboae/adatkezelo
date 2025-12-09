@@ -1,0 +1,158 @@
+[
+    {
+        "race_id": "9Uxdb2",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764546377000,
+        "participants": [
+            {
+                "user_id": 15581901,
+                "username": "Villanueva_75",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 419836,
+                "results": {
+                    "rating_before": 1571.024,
+                    "reputation_before": 99.995,
+                    "rating_change": 11.999,
+                    "reputation_change": -1.439
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 112010,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 102564,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100358,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 104904,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1583.023,
+                "new_rep": 98.556
+            },
+            {
+                "user_id": 35957367,
+                "username": "Sil_33",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 434200,
+                "results": {
+                    "rating_before": 1541.091,
+                    "reputation_before": 98.09,
+                    "rating_change": -2.035,
+                    "reputation_change": -0.048000000000000015
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119557,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108585,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103137,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 102921,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1539.056,
+                "new_rep": 98.042
+            },
+            {
+                "user_id": 40292260,
+                "username": "Vargas_44",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 447277,
+                "results": {
+                    "rating_before": 1417.931,
+                    "reputation_before": 81.692,
+                    "rating_change": -9.964,
+                    "reputation_change": 0.918
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118012,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112125,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105279,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 111861,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1407.967,
+                "new_rep": 82.61
+            }
+        ]
+    }
+]

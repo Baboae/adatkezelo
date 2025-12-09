@@ -1,0 +1,179 @@
+[
+    {
+        "race_id": "Nlm8lK",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764109925000,
+        "participants": [
+            {
+                "user_id": 78893591,
+                "username": "Gilbert_80",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 481773,
+                "results": {
+                    "rating_before": 1560.024,
+                    "reputation_before": 79.94,
+                    "rating_change": 13.006,
+                    "reputation_change": 1.4289999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 106644,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 96744,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 90377,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 92480,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 95528,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1573.03,
+                "new_rep": 81.369
+            },
+            {
+                "user_id": 50819530,
+                "username": "Toft_80",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 488842,
+                "results": {
+                    "rating_before": 1501.225,
+                    "reputation_before": 74.183,
+                    "rating_change": 1.019,
+                    "reputation_change": 1.3199999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 106931,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 95074,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92280,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96491,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98066,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1502.244,
+                "new_rep": 75.503
+            },
+            {
+                "user_id": 92823071,
+                "username": "Mathias_22",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 496490,
+                "results": {
+                    "rating_before": 1487.214,
+                    "reputation_before": 80.937,
+                    "rating_change": -14.025,
+                    "reputation_change": 0.492
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108720,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 96404,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100188,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96697,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94481,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1473.189,
+                "new_rep": 81.429
+            }
+        ]
+    }
+]

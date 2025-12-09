@@ -1,0 +1,199 @@
+[
+    {
+        "race_id": "485eWQ",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764257377000,
+        "participants": [
+            {
+                "user_id": 13472768,
+                "username": "Orozco_57",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 701685,
+                "results": {
+                    "rating_before": 1568.753,
+                    "reputation_before": 76.6,
+                    "rating_change": 12.804,
+                    "reputation_change": 5.0809999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127570,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114485,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111259,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 112522,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 118682,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 117167,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1581.557,
+                "new_rep": 81.681
+            },
+            {
+                "user_id": 15581901,
+                "username": "Villanueva_75",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 713211,
+                "results": {
+                    "rating_before": 1541.949,
+                    "reputation_before": 86.751,
+                    "rating_change": -1.398,
+                    "reputation_change": 0.6759999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 122609,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118227,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119721,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118385,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 120597,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 113672,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1540.551,
+                "new_rep": 87.427
+            },
+            {
+                "user_id": 97938038,
+                "username": "Aleksander_78",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 724930,
+                "results": {
+                    "rating_before": 1452.549,
+                    "reputation_before": 80.435,
+                    "rating_change": -11.406,
+                    "reputation_change": -0.9019999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135085,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118168,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120405,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 117035,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112347,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 121890,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1441.143,
+                "new_rep": 79.533
+            }
+        ]
+    }
+]

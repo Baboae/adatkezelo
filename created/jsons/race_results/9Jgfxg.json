@@ -1,0 +1,182 @@
+[
+    {
+        "race_id": "9Jgfxg",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764186310000,
+        "participants": [
+            {
+                "user_id": 74504365,
+                "username": "Liam_16",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 649803,
+                "results": {
+                    "rating_before": 1519.362,
+                    "reputation_before": 71.017,
+                    "rating_change": 16.598,
+                    "reputation_change": 0.05699999999999994
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135106,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133593,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124271,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 132932,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 123901,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1535.96,
+                "new_rep": 71.074
+            },
+            {
+                "user_id": 24545979,
+                "username": "Sihotang_51",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 659610,
+                "results": {
+                    "rating_before": 1499.598,
+                    "reputation_before": 84.312,
+                    "rating_change": 1.951,
+                    "reputation_change": 0.14600000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143318,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 131021,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123975,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 134288,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127008,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1501.549,
+                "new_rep": 84.458
+            },
+            {
+                "user_id": 20562826,
+                "username": "Troy_20",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 666192,
+                "results": {
+                    "rating_before": 1565.355,
+                    "reputation_before": 81.576,
+                    "rating_change": -18.549,
+                    "reputation_change": -0.712
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144933,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134281,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126368,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 126172,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 134438,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1546.806,
+                "new_rep": 80.864
+            }
+        ]
+    }
+]

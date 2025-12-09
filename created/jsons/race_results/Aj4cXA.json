@@ -1,0 +1,181 @@
+[
+    {
+        "race_id": "Aj4cXA",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1763991017000,
+        "participants": [
+            {
+                "user_id": 57182793,
+                "username": "Sitompul_65",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 597365,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 16.0,
+                    "reputation_change": -1.332
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133722,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114545,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117408,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 116814,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114876,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1516.0,
+                "new_rep": 73.668
+            },
+            {
+                "user_id": 84232832,
+                "username": "Ramiro_44",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 602234,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 0.0,
+                    "reputation_change": 1.014
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128819,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116588,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117731,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118472,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 120624,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 76.014
+            },
+            {
+                "user_id": 92823071,
+                "username": "Mathias_22",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 610308,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -16.0,
+                    "reputation_change": 1.017
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 132820,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115839,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119019,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119735,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122895,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.0,
+                "new_rep": 76.017
+            }
+        ]
+    }
+]

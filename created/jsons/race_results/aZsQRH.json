@@ -1,0 +1,162 @@
+[
+    {
+        "race_id": "aZsQRH",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764104530000,
+        "participants": [
+            {
+                "user_id": 39736367,
+                "username": "Thorsen_37",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 483088,
+                "results": {
+                    "rating_before": 1485.058,
+                    "reputation_before": 80.447,
+                    "rating_change": 14.939,
+                    "reputation_change": 1.5810000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135993,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 114933,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116978,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115184,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.997,
+                "new_rep": 82.028
+            },
+            {
+                "user_id": 57182793,
+                "username": "Sitompul_65",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 489845,
+                "results": {
+                    "rating_before": 1467.474,
+                    "reputation_before": 76.262,
+                    "rating_change": 0.152,
+                    "reputation_change": 0.16399999999999992
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131411,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118715,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121796,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 117923,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1467.626,
+                "new_rep": 76.426
+            },
+            {
+                "user_id": 10812710,
+                "username": "Brandon_6",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 492139,
+                "results": {
+                    "rating_before": 1456.504,
+                    "reputation_before": 79.52,
+                    "rating_change": -15.091,
+                    "reputation_change": -1.927
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 129934,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116848,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120266,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 125091,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1441.413,
+                "new_rep": 77.593
+            }
+        ]
+    }
+]

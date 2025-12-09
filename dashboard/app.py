@@ -13,9 +13,6 @@ try:
 except Exception:
     use_plotly = False
 
-# AgGrid
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
-
 # --- Paths ---
 BASE_JSON = Path(__file__).resolve().parent.parent / "created" / "jsons"
 RESULTS_DIR = BASE_JSON / "race_results"
@@ -70,13 +67,6 @@ if "selected_username" not in st.session_state:
 if "selected_race_id" not in st.session_state:
     st.session_state.selected_race_id = None
 
-# --- Helper: normalize selected_rows ---
-def normalize_selected_rows(resp):
-    rows = resp.get("selected_rows", [])
-    if isinstance(rows, pd.DataFrame):
-        rows = rows.to_dict("records")
-    return rows if isinstance(rows, list) else []
-
 # --- Leaderboard view ---
 if st.session_state.view == "lb":
     st.header("Global leaderboard")
@@ -86,19 +76,13 @@ if st.session_state.view == "lb":
         by=["elo_rating", "reputation"], ascending=[False, False]
     ).reset_index(drop=True)
 
-    gb = GridOptionsBuilder.from_dataframe(lb_df)
-    gb.configure_selection("single", use_checkbox=False)
-    gb.configure_grid_options(rowSelection="single", suppressRowClickSelection=False)
-    grid_resp = AgGrid(lb_df, gridOptions=gb.build(),
-                       update_mode=GridUpdateMode.SELECTION_CHANGED,
-                       height=500, fit_columns_on_grid_load=True)
+    st.dataframe(lb_df)
 
-    selected_rows = normalize_selected_rows(grid_resp)
-    if selected_rows:
-        st.session_state.selected_username = selected_rows[0]["username"]
+    selected_username = st.selectbox("Select a player:", lb_df["username"])
+    if st.button("View career"):
+        st.session_state.selected_username = selected_username
         st.session_state.view = "player"
         st.session_state.selected_race_id = None
-        st.experimental_rerun()
 
 # --- Player career view ---
 else:
@@ -106,7 +90,6 @@ else:
         st.session_state.view = "lb"
         st.session_state.selected_username = None
         st.session_state.selected_race_id = None
-        st.experimental_rerun()
 
     selected_username = st.session_state.selected_username
     if not selected_username or participations_df.empty:
@@ -117,21 +100,23 @@ else:
             participations_df["username"] == selected_username
         ].sort_values(["race_order", "timestamp"]).reset_index(drop=True)
 
+        num_races = len(player_df)
+        if num_races < 20:
+            st.warning("Not enough data (<20 races). Trends may be misleading.")
+        elif num_races < 50:
+            st.info("Statistics are based on limited data (20–50 races). Interpret with caution.")
+        else:
+            st.success("Sufficient data (>50 races). Statistics are reliable.")
+
         st.markdown("#### Race history")
         rh_cols = ["race_order","Date","race_id","track","layout","car_class",
                    "start_position","finish_position","incident_points","total_time",
                    "new_rating","new_rep"]
-        gb_rh = GridOptionsBuilder.from_dataframe(player_df[rh_cols])
-        gb_rh.configure_selection("single", use_checkbox=False)
-        gb_rh.configure_grid_options(rowSelection="single", suppressRowClickSelection=False)
-        grid_rh = AgGrid(player_df[rh_cols], gridOptions=gb_rh.build(),
-                         update_mode=GridUpdateMode.SELECTION_CHANGED,
-                         height=500, fit_columns_on_grid_load=True,
-                         key=f"grid_rh_{selected_username}")
+        st.dataframe(player_df[rh_cols])
 
-        selected_rows = normalize_selected_rows(grid_rh)
-        if selected_rows:
-            st.session_state.selected_race_id = selected_rows[0]["race_id"]
+        selected_race_id = st.selectbox("Select a race:", player_df["race_id"].unique())
+        if st.button("Show laps"):
+            st.session_state.selected_race_id = selected_race_id
 
         if st.session_state.selected_race_id:
             st.markdown("#### Laps")
@@ -151,10 +136,6 @@ else:
                                     "incidents": ", ".join(l.get("incidents") or []),
                                 })
                 laps_df = pd.DataFrame(laps_rows)
-                gb_laps = GridOptionsBuilder.from_dataframe(laps_df)
-                grid_laps = AgGrid(laps_df, gridOptions=gb_laps.build(),
-                                   update_mode=GridUpdateMode.NO_UPDATE,
-                                   height=300, fit_columns_on_grid_load=True,
-                                   key=f"grid_laps_{st.session_state.selected_race_id}")
+                st.dataframe(laps_df)
             except Exception:
                 st.info("No laps data available.")
