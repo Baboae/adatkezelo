@@ -36,7 +36,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
 ## Projekt Struktúra 📂
 
-            adatkezelo/
+    adatkezelo/
     ├── created/
     |     └── csvs/
     |         └── race_results/
