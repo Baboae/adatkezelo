@@ -1,51 +1,104 @@
-**Adatkezelő programok fejlesztése - Szabó Benedek**
+🏎️ Simracing Adatkezelő Rendszer
+Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Generál játékosokat, versenyeket, részletes köreredményeket, menti CSV/JSON/XLSX formátumokban, támogatja az Oracle SQL betöltést, és interaktív Streamlit dashboardot biztosít.
 
-Ez a python projekt egy fiktív verseny szimulátor nyilvántarásához generál le adatokat,
-melyeket több formátumban ment. (CSV, JSON, XLSX)
+✨ Főbb Funkciók
+Faker alapú adategenerálás: Játékosok (32 fő), versenyek (100+), köradatok ELO rating és reputáció rendszerrel
 
-## Mit csinál a program ❓❓❓
+Több formátum támogatása: CSV, JSON, XLSX (külön munkalapokkal, színezéssel)
 
-- Faker API segítségével generál szintetikus adatokat két vagy több kapcsolódó adattípushoz.
-- Az adatok többféle formátumban menthetők (CSV, JSON, XLSX), és visszaolvashatók ezekből
-  (nincs mind implementálva, tesztelve, de a program "functions" mappájában megtalálható az összes) 
-- Lehetőség van az adatok Oracle SQL adatbázisba történő feltöltésére is (Lásd: Előfeltételek 3. bekezdés). 
+Oracle SQL integráció: Teljes séma létrehozás, PK/FK kapcsolatok
 
-A generált adatok többek között a Player, Race_Data, Lap, stb... amelyek között kapcsolat áll fenn.
+Interaktív dashboard: Ranglista, játékos karrier, köradatok elemzése
 
-## Hogyan használd?
+Valósághű szimuláció: Köridők, incidensek, dinamikus rating frissítések
 
-Klónozd le a repót, végezz el minden előfeltételt, majd futtasd a main.py állományt.
-Az adatok legenerálása eltarthat egy kis ideig, ez függ attól hogy hogyan paraméterezed
-valamint attól hogy feltöltöd-e az eredményt adatbázisba vagy sem.
-
+🚀 Gyors Indítás
+bash
 git clone https://github.com/Baboae/adatkezelo.git
+cd adatkezelo
+pip install -r requirements.txt
 
-## ELŐFELTÉTELEK:
+# Opcionális Oracle DB (.env fájl szükséges):
+# DB_USER=felhasznaloneved
+# DB_PASSWORD=jelszavad  
+# DB_HOST=adatbazis_szerver_cime
+# DB_PORT=1521
+# DB_SERVICE=adatbazis_szolgaltatod_neve
 
-1. Telepítsd a függőségeket 🛠 :
-- Nyisd meg a konzolt, majd vidd be a következőt:
-  pip install -r requirements.txt
+python main.py
+A program automatikusan:
 
-2. Paraméterezés ⚙ (opcionális):
+Törli a korábbi eredményeket
 
-- A generáló függvény több paramétert kap: a generálandó játékosok 👥 (alap: 32), versenyek 🏁 (alap: 1000),
-min/max körök 🚗💨 (alap: 3, 10) számát.
-Ezeket a kódban a következő kommentek alatti változókban található számok átírásával lehetséges:
-      # generálandó játékosok száma. 
-      # generálandó versenyek száma.
-      # generálandó minimum, maximum körök száma.
-        
-3. SQL kapcsolat:
-Feltételek:
-- A .env fájl megléte a program gyökér mappájában.
-  Példa a .env fájl tartalmára:
+Generál játékosokat, versenyeket, eredményeket
 
-    DB_USER=felhasznaloneved
-    DB_PASSWORD=jelszavad
-    DB_HOST=adatbazis_szerver_cime
-    DB_PORT=1521
-    DB_SERVICE=adatbazis_szolgaltatod_neve
+Ment minden formátumban (created/ mappába)
 
-- Az sql kapcsolat létrehozásának engedélyezése a kódban.
-  Ezt a következő komment alatti változó értékének "True"-ra változtatásával teheted meg:
-        # DB betöltés (opcionális)
+Opcionálisan betölti Oracle DB-be
+
+Indítja a Streamlit dashboardot (http://localhost:8501)
+
+📂 Projekt Struktúra
+text
+adatkezelo/
+├── main.py                 # Fő futtató script
+├── generators/             # Faker generátorok
+│   ├── player_generator.py
+│   ├── race_data_generator.py
+│   └── race_result_generator.py
+├── functions/              # I/O handler-ek
+│   ├── json_io.py
+│   ├── csv_io.py
+│   ├── xlsx_io.py         # Speciális színezés
+│   ├── sql_handler.py     # Oracle kapcsolat
+│   └── clear_results.py
+├── data/basic/             # Adatmodellek
+│   └── model_classes.py
+├── dashboard/              # Streamlit app
+│   └── app.py
+├── data/raw/               # Referencia adatok (pályák, autók)
+├── created/                # Kimeneti fájlok
+│   ├── jsons/, csvs/, xlsxs/
+│   └── race_results/
+└── requirements.txt
+🏆 Dashboard Funkciók
+Global Leaderboard: ELO/reputáció rangsor, játékos kiválasztás
+
+Player Career: Statisztikák, verseny történet, átlagos befutó hely
+
+Lap Details: Köridők, pozíciók, incidensek részletesen
+
+Interaktív táblázatok: Kattintható drill-down navigáció
+
+💾 Kimeneti Fájlok
+CSV: created/csvs/players.csv, race_meta.csv, race_results/*.csv
+JSON: created/jsons/players.json, race_meta.json, race_results/*.json
+XLSX: created/xlsxs/players.xlsx, race_results/*.xlsx (RaceResult, Participants, Laps lapok)
+
+XLSX speciális színezés (Participants lapon):
+
+Rating/reputation változások: zöld (+), piros (-)
+
+Pozíció javulás: zöld (jobb hely), piros (rosszabb hely)
+
+🔗 Adatkapcsolatok
+text
+Player 1:N ParticipantResult ← N:1 RaceResult
+Player 1:N Lap ← N:1 ParticipantResult
+PK-k: user_id, race_id, (race_id, user_id, lap)
+
+⚙️ Paraméterezés
+A main.py-ban módosítható:
+
+python
+PLAYERS = generate_players(32)           # játékosok száma
+RACES = generate_race_data(100)          # versenyek száma  
+generate_laps(..., min_laps=3, max_laps=10)  # körök tartománya
+Technikai Részletek
+Faker: Többnyelvű nevek, ország-specifikus usernemek
+
+ELO rating: Dinamikus K=32 faktorral
+
+Időszimuláció: 2025.11.24-30, 14:00-01:30 versenyidőpontok
+
+Technológiák: Streamlit, AgGrid, openpyxl, oracledb
