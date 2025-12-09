@@ -35,17 +35,16 @@ class SQLHandler:
             self.conn.close()
 
     def clear_tables(self):
-        # sorrend a FK miatt
         for table in ["laps", "participants", "races", "players"]:
             try:
-                self.cur.execute(f"TRUNCATE TABLE {table}")
-            except Exception:
-                # ha nem létezik a tábla, vagy nincs jog a truncate-ra, továbblépünk
+                self.cur.execute(f"DROP TABLE {table} CASCADE CONSTRAINTS")
+            except oracledb.DatabaseError:
                 pass
+        self.conn.commit()
 
     def create_schema(self):
         """
-        Létrehozza a szükséges táblákat, ha nem léteznek.
+        Új táblák létrehozása a dataclass-okhoz illeszkedve.
         """
         tables_sql = {
             "players": """
@@ -70,8 +69,8 @@ class SQLHandler:
             """,
             "participants": """
                 CREATE TABLE participants (
-                    race_id VARCHAR2(20),
-                    user_id NUMBER,
+                    race_id VARCHAR2(20) REFERENCES races(race_id),
+                    user_id NUMBER REFERENCES players(user_id),
                     start_position NUMBER,
                     finish_position NUMBER,
                     incident_points NUMBER,
@@ -82,23 +81,19 @@ class SQLHandler:
                     reputation_change FLOAT,
                     new_rating FLOAT,
                     new_rep FLOAT,
-                    PRIMARY KEY (race_id, user_id),
-                    FOREIGN KEY (race_id) REFERENCES races(race_id),
-                    FOREIGN KEY (user_id) REFERENCES players(user_id)
+                    PRIMARY KEY (race_id, user_id)
                 )
             """,
             "laps": """
                 CREATE TABLE laps (
-                    race_id VARCHAR2(20),
-                    user_id NUMBER,
+                    race_id VARCHAR2(20) REFERENCES races(race_id),
+                    user_id NUMBER REFERENCES players(user_id),
                     lap NUMBER,
                     time NUMBER,
                     position NUMBER,
                     valid CHAR(1),
                     incidents VARCHAR2(500),
-                    PRIMARY KEY (race_id, user_id, lap),
-                    FOREIGN KEY (race_id) REFERENCES races(race_id),
-                    FOREIGN KEY (user_id) REFERENCES players(user_id)
+                    PRIMARY KEY (race_id, user_id, lap)
                 )
             """
         }
@@ -107,8 +102,7 @@ class SQLHandler:
             try:
                 self.cur.execute(sql)
             except oracledb.DatabaseError as e:
-                # ORA-00955: name is already used by an existing object
-                if "ORA-00955" in str(e):
+                if "ORA-00955" in str(e):  # name already used
                     pass
                 else:
                     raise

@@ -1,0 +1,180 @@
+[
+    {
+        "race_id": "8fQet2",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "Hyper Car",
+        "participants": [
+            {
+                "user_id": 98113049,
+                "username": "Arthur_Slipstreamer",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 1749728,
+                "results": {
+                    "rating_before": 1519.886,
+                    "reputation_before": 80.724,
+                    "rating_change": 15.623,
+                    "reputation_change": 6.505
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 372161,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 336088,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 347684,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 338291,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 355504,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1535.509,
+                "new_rep": 87.229
+            },
+            {
+                "user_id": 68765549,
+                "username": "Barnett_12",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1796315,
+                "results": {
+                    "rating_before": 1490.22,
+                    "reputation_before": 86.978,
+                    "rating_change": 1.664,
+                    "reputation_change": 4.341
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 400960,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 333836,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 336409,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 360903,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 364207,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1491.884,
+                "new_rep": 91.319
+            },
+            {
+                "user_id": 86996538,
+                "username": "Kenneth_on_twitch",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 8,
+                "total_time": 1813856,
+                "results": {
+                    "rating_before": 1533.093,
+                    "reputation_before": 82.709,
+                    "rating_change": -17.286,
+                    "reputation_change": -2.345
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 397459,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 347945,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 363734,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 344566,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 360152,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1515.807,
+                "new_rep": 80.364
+            }
+        ]
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "race_id": "D1ZEoV",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "participants": [
+            {
+                "user_id": 27686239,
+                "username": "Richardt_35",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 14,
+                "total_time": 3754991,
+                "results": {
+                    "rating_before": 1522.644,
+                    "reputation_before": 84.97,
+                    "rating_change": 12.506,
+                    "reputation_change": -1.9809999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 568019,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 543217,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 550037,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 521670,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 550661,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 506942,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 514445,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1535.15,
+                "new_rep": 82.989
+            },
+            {
+                "user_id": 27246772,
+                "username": "Anichini_82",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 9,
+                "total_time": 3802676,
+                "results": {
+                    "rating_before": 1464.217,
+                    "reputation_before": 86.329,
+                    "rating_change": 0.465,
+                    "reputation_change": -2.064
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 597404,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 505803,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 527475,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 545202,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 543430,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 532952,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 550410,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1464.682,
+                "new_rep": 84.265
+            },
+            {
+                "user_id": 51434329,
+                "username": "Oscar_34",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 9,
+                "total_time": 3829686,
+                "results": {
+                    "rating_before": 1426.397,
+                    "reputation_before": 73.316,
+                    "rating_change": -12.971,
+                    "reputation_change": -0.9620000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 606794,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 542111,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 529501,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 535474,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 558939,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 527952,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 528915,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1413.426,
+                "new_rep": 72.354
+            }
+        ]
+    }
+]
