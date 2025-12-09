@@ -1,0 +1,230 @@
+[
+    {
+        "race_id": "nyzMEZ",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1763993700000,
+        "participants": [
+            {
+                "user_id": 18691140,
+                "username": "Théophile_65",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 417112,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 16.0,
+                    "reputation_change": 0.10299999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 67154,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57725,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58661,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 57787,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 57750,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 59859,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 58176,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1516.0,
+                "new_rep": 75.103
+            },
+            {
+                "user_id": 16161576,
+                "username": "Bryan_80",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 9,
+                "total_time": 419668,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 0.0,
+                    "reputation_change": -1.26
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 67180,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 62335,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56053,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 60723,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 57226,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 55763,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 60388,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 73.74
+            },
+            {
+                "user_id": 95761627,
+                "username": "Henric van den Nuwenhuse_45",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 422167,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -16.0,
+                    "reputation_change": 0.891
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 64264,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61360,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60071,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 57801,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 61131,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 57134,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 60406,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1484.0,
+                "new_rep": 75.891
+            }
+        ]
+    }
+]

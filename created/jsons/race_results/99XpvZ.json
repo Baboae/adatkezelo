@@ -1,0 +1,182 @@
+[
+    {
+        "race_id": "99XpvZ",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764462628000,
+        "participants": [
+            {
+                "user_id": 63459462,
+                "username": "Mick_PR0F",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 532044,
+                "results": {
+                    "rating_before": 1481.231,
+                    "reputation_before": 69.453,
+                    "rating_change": 14.819,
+                    "reputation_change": 4.559
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111838,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 101818,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105008,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 104217,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109163,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1496.05,
+                "new_rep": 74.012
+            },
+            {
+                "user_id": 55720580,
+                "username": "Rinaldi_81",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 535851,
+                "results": {
+                    "rating_before": 1467.974,
+                    "reputation_before": 74.557,
+                    "rating_change": -0.268,
+                    "reputation_change": -1.125
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118361,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104457,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 101488,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109669,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 101876,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1467.706,
+                "new_rep": 73.432
+            },
+            {
+                "user_id": 70076180,
+                "username": "Arnaldo_b00st3d",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 12,
+                "total_time": 537208,
+                "results": {
+                    "rating_before": 1443.059,
+                    "reputation_before": 78.565,
+                    "rating_change": -14.552,
+                    "reputation_change": -1.049
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 111119,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107892,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 101053,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 107503,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109641,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1428.507,
+                "new_rep": 77.516
+            }
+        ]
+    }
+]

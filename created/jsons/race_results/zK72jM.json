@@ -1,0 +1,261 @@
+[
+    {
+        "race_id": "zK72jM",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764181041000,
+        "participants": [
+            {
+                "user_id": 18691140,
+                "username": "Théophile_65",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 926608,
+                "results": {
+                    "rating_before": 1501.014,
+                    "reputation_before": 76.185,
+                    "rating_change": 14.653,
+                    "reputation_change": -1.829
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124204,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113730,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116953,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113091,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 120270,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 112959,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 113046,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 112355,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1515.667,
+                "new_rep": 74.356
+            },
+            {
+                "user_id": 19162421,
+                "username": "Nissen_75",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 13,
+                "total_time": 935969,
+                "results": {
+                    "rating_before": 1488.354,
+                    "reputation_before": 79.77,
+                    "rating_change": -0.477,
+                    "reputation_change": -2.945
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133017,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112213,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111476,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115774,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114605,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 121555,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 112076,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 115253,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.877,
+                "new_rep": 76.825
+            },
+            {
+                "user_id": 46072822,
+                "username": "Tibor_62",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 12,
+                "total_time": 959669,
+                "results": {
+                    "rating_before": 1454.885,
+                    "reputation_before": 74.305,
+                    "rating_change": -14.176,
+                    "reputation_change": -1.1119999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135805,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113420,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120984,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114300,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 117826,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 117295,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 116734,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 123305,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1440.709,
+                "new_rep": 73.193
+            }
+        ]
+    }
+]

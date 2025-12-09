@@ -38,7 +38,7 @@ def main():
     Path("race_results").mkdir(parents=True, exist_ok=True)
 
     PLAYERS: List[Player] = generate_players(32)
-    RACES: List[Race_Data] = generate_race_data(1000)
+    RACES: List[Race_Data] = generate_race_data(100)
     race_results: List[RaceResult] = []
 
     # játékosok utolsó elérhetősége
@@ -123,8 +123,8 @@ def main():
     save_xlsx({"Races": RACES}, "race_meta.xlsx")
 
     # DB betöltés (opcionális)
-    loaddb = False
-    if loaddb:
+    load_db = False
+    if load_db:
         handler = SQLHandler()
         handler.connect()
         handler.clear_tables()

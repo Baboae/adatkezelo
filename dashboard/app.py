@@ -24,7 +24,6 @@ logging.basicConfig(level=logging.INFO)
 BASE_JSON = Path(__file__).resolve().parent.parent / "created" / "jsons"
 RESULTS_DIR = BASE_JSON / "race_results"
 
-
 # --- Caching ---
 @st.cache_data
 def load_players():
@@ -34,7 +33,6 @@ def load_players():
     except Exception as e:
         logging.error(f"Failed to load players.json: {e}")
         return pd.DataFrame()
-
 
 @st.cache_data
 def load_participations():
@@ -87,7 +85,6 @@ def load_participations():
         f"Loaded {len(df)} participation rows for {df['username'].nunique() if not df.empty else 0} unique players")
     return df
 
-
 # Load data
 players_df = load_players()
 participations_df = load_participations()
@@ -102,7 +99,6 @@ if "selected_username" not in st.session_state:
     st.session_state.selected_username = None
 if "selected_race_id" not in st.session_state:
     st.session_state.selected_race_id = None
-
 
 # --- Helper functions ---
 def normalize_selected_rows(grid_resp):
@@ -125,7 +121,6 @@ def normalize_selected_rows(grid_resp):
         selected = []
 
     return selected
-
 
 def safe_aggrid(df, height=400, key=None, selectable=True):
     """Safe AgGrid wrapper"""
@@ -159,7 +154,6 @@ def safe_aggrid(df, height=400, key=None, selectable=True):
         logging.error(f"AgGrid error: {e}")
         return {"selected_rows": []}
 
-
 def get_player_races(username):
     if participations_df.empty:
         return pd.DataFrame()
@@ -167,7 +161,6 @@ def get_player_races(username):
     if not player_mask.any():
         return pd.DataFrame()
     return participations_df[player_mask].copy()
-
 
 # --- MAIN VIEWS ---
 col1, col2 = st.columns([1, 4])
@@ -224,15 +217,21 @@ with col2:
         if player_races.empty:
             st.warning(f"❌ No race data found for {username}")
         else:
-            col_stats1, col_stats2, col_stats3 = st.columns(3)
+            # MÓDOSÍTOTT: Új sorrend - Rating, Rep, Race Count, Avg Finish
+            col_stats1, col_stats2, col_stats3, col_stats4 = st.columns(4)
             with col_stats1:
-                st.metric("Total Races", len(player_races))
+                # Rating - legutóbbi rating
+                current_rating = player_races['new_rating'].iloc[-1] if not player_races.empty else 0
+                st.metric("Rating", f"{current_rating:.0f}" if current_rating else "N/A")
             with col_stats2:
-                avg_finish = player_races['finish_position'].mean()
-                st.metric("Avg Finish Pos", f"{avg_finish:.1f}" if not pd.isna(avg_finish) else "N/A")
+                # Rep - legutóbbi rep
+                current_rep = player_races['new_rep'].iloc[-1] if not player_races.empty else 0
+                st.metric("Reputation", f"{current_rep:.0f}" if current_rep else "N/A")
             with col_stats3:
-                total_incidents = player_races['incident_points'].sum()
-                st.metric("Total Incidents", total_incidents)
+                st.metric("Race Count", len(player_races))
+            with col_stats4:
+                avg_finish = player_races['finish_position'].mean()
+                st.metric("Avg. Finish", f"{avg_finish:.1f}" if not pd.isna(avg_finish) else "N/A")
 
             st.subheader("📋 Race History")
             # JAVÍTOTT: race_order eltávolítva a táblázatból
@@ -265,7 +264,6 @@ with col2:
                                         "lap": lap.get("lap", 0),
                                         "time": lap_time,
                                         "position": lap.get("position", ""),
-                                        "valid": lap.get("valid", False),
                                         "incidents": ", ".join(lap.get("incidents", []))
                                     })
 

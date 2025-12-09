@@ -1,0 +1,155 @@
+[
+    {
+        "race_id": "3NFRia",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "WTCR",
+        "timestamp": 1764516692000,
+        "participants": [
+            {
+                "user_id": 18691140,
+                "username": "Théophile_65",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 273642,
+                "results": {
+                    "rating_before": 1571.04,
+                    "reputation_before": 87.085,
+                    "rating_change": 13.791,
+                    "reputation_change": 1.915
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 74874,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65538,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65890,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 67340,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1584.831,
+                "new_rep": 89.0
+            },
+            {
+                "user_id": 27747780,
+                "username": "Sebastião_64",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 282536,
+                "results": {
+                    "rating_before": 1528.87,
+                    "reputation_before": 85.946,
+                    "rating_change": 0.685,
+                    "reputation_change": 5.501
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75195,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 69087,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68402,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 69852,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1529.555,
+                "new_rep": 91.447
+            },
+            {
+                "user_id": 50865683,
+                "username": "Albers_the_goat",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 282679,
+                "results": {
+                    "rating_before": 1516.635,
+                    "reputation_before": 77.908,
+                    "rating_change": -14.476,
+                    "reputation_change": -1.858
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76777,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 70811,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 65078,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 70013,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1502.159,
+                "new_rep": 76.05
+            }
+        ]
+    }
+]

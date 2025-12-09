@@ -1,0 +1,228 @@
+[
+    {
+        "race_id": "0kwUWs",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764193567000,
+        "participants": [
+            {
+                "user_id": 48746697,
+                "username": "Juan_29",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 766366,
+                "results": {
+                    "rating_before": 1484.424,
+                    "reputation_before": 82.423,
+                    "rating_change": 16.932,
+                    "reputation_change": -0.15599999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 115617,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 108551,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 108081,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 109603,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 106143,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 109465,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 108906,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1501.356,
+                "new_rep": 82.267
+            },
+            {
+                "user_id": 79610598,
+                "username": "Olivier_31",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 775443,
+                "results": {
+                    "rating_before": 1485.471,
+                    "reputation_before": 73.577,
+                    "rating_change": 0.86,
+                    "reputation_change": -0.241
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119041,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112773,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107046,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110387,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 107687,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 107775,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 110734,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1486.331,
+                "new_rep": 73.336
+            },
+            {
+                "user_id": 26809028,
+                "username": "Louis_78",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 787917,
+                "results": {
+                    "rating_before": 1524.014,
+                    "reputation_before": 75.464,
+                    "rating_change": -17.792,
+                    "reputation_change": 0.354
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124984,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104044,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112876,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113223,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 114668,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 106227,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 111895,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1506.222,
+                "new_rep": 75.818
+            }
+        ]
+    }
+]

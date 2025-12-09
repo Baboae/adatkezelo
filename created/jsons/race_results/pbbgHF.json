@@ -1,0 +1,221 @@
+[
+    {
+        "race_id": "pbbgHF",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764275341000,
+        "participants": [
+            {
+                "user_id": 69478917,
+                "username": "Weihmann_61",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 881224,
+                "results": {
+                    "rating_before": 1484.664,
+                    "reputation_before": 81.398,
+                    "rating_change": 16.663,
+                    "reputation_change": 0.266
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135615,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127401,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120012,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121568,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 129076,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 125078,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 122474,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.327,
+                "new_rep": 81.664
+            },
+            {
+                "user_id": 63459462,
+                "username": "Mick_PR0F",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 891922,
+                "results": {
+                    "rating_before": 1498.624,
+                    "reputation_before": 72.31,
+                    "rating_change": -0.301,
+                    "reputation_change": -1.259
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 140407,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125389,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124197,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120744,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 132983,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 123953,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 124249,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1498.323,
+                "new_rep": 71.051
+            },
+            {
+                "user_id": 77658878,
+                "username": "João Vitor_49",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 903322,
+                "results": {
+                    "rating_before": 1499.517,
+                    "reputation_before": 72.249,
+                    "rating_change": -16.362,
+                    "reputation_change": 1.318
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 146259,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122858,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131194,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120589,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 127690,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 125290,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 129442,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.155,
+                "new_rep": 73.567
+            }
+        ]
+    }
+]

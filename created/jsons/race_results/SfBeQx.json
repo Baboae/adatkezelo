@@ -1,0 +1,203 @@
+[
+    {
+        "race_id": "SfBeQx",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764343057000,
+        "participants": [
+            {
+                "user_id": 70530068,
+                "username": "Enzo_77",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 2630960,
+                "results": {
+                    "rating_before": 1500.718,
+                    "reputation_before": 76.748,
+                    "rating_change": 16.851,
+                    "reputation_change": 0.07599999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 461663,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 438949,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 420371,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 444547,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 442062,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 423368,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1517.569,
+                "new_rep": 76.824
+            },
+            {
+                "user_id": 82506752,
+                "username": "Christian_6",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 2642947,
+                "results": {
+                    "rating_before": 1529.532,
+                    "reputation_before": 76.165,
+                    "rating_change": -1.136,
+                    "reputation_change": 0.5650000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 486231,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453222,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 419211,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 429271,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 426030,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 428982,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1528.396,
+                "new_rep": 76.73
+            },
+            {
+                "user_id": 88626934,
+                "username": "Nicholas_15",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 2695023,
+                "results": {
+                    "rating_before": 1508.926,
+                    "reputation_before": 70.81,
+                    "rating_change": -15.715,
+                    "reputation_change": 0.47
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 483608,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 428950,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 452119,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 434774,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 454372,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 441200,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1493.211,
+                "new_rep": 71.28
+            }
+        ]
+    }
+]

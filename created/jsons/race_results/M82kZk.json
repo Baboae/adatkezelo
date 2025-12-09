@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "M82kZk",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764457257000,
+        "participants": [
+            {
+                "user_id": 50865683,
+                "username": "Albers_the_goat",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 584203,
+                "results": {
+                    "rating_before": 1517.678,
+                    "reputation_before": 72.884,
+                    "rating_change": 14.462,
+                    "reputation_change": 5.083
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 129486,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 111296,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113240,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113064,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 117117,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.14,
+                "new_rep": 77.967
+            },
+            {
+                "user_id": 61889662,
+                "username": "Louis_96",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 600935,
+                "results": {
+                    "rating_before": 1469.497,
+                    "reputation_before": 78.161,
+                    "rating_change": 1.774,
+                    "reputation_change": 1.0459999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123248,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121115,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 112342,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121557,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 122673,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1471.271,
+                "new_rep": 79.207
+            },
+            {
+                "user_id": 75645108,
+                "username": "Vinicius_30",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 605420,
+                "results": {
+                    "rating_before": 1498.743,
+                    "reputation_before": 87.175,
+                    "rating_change": -16.236,
+                    "reputation_change": -0.139
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131182,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120387,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116511,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120508,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116832,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1482.507,
+                "new_rep": 87.036
+            }
+        ]
+    }
+]

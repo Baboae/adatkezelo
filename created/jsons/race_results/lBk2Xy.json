@@ -1,0 +1,128 @@
+[
+    {
+        "race_id": "lBk2Xy",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764366230000,
+        "participants": [
+            {
+                "user_id": 27747780,
+                "username": "Sebastião_64",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 1341893,
+                "results": {
+                    "rating_before": 1498.034,
+                    "reputation_before": 80.741,
+                    "rating_change": 16.145,
+                    "reputation_change": 4.7250000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 477261,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 430675,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 433957,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1514.179,
+                "new_rep": 85.466
+            },
+            {
+                "user_id": 13086840,
+                "username": "Santiago_93",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1351407,
+                "results": {
+                    "rating_before": 1486.214,
+                    "reputation_before": 76.055,
+                    "rating_change": 0.96,
+                    "reputation_change": 5.476
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 470231,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 433024,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 448152,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.174,
+                "new_rep": 81.531
+            },
+            {
+                "user_id": 26809028,
+                "username": "Louis_78",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 1351658,
+                "results": {
+                    "rating_before": 1516.149,
+                    "reputation_before": 82.737,
+                    "rating_change": -17.104,
+                    "reputation_change": 5.925000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 455805,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453908,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 441945,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.045,
+                "new_rep": 88.662
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "race_id": "Myyp69",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "Hyper Car",
+        "timestamp": 1764108136000,
+        "participants": [
+            {
+                "user_id": 41715221,
+                "username": "Ángel_63",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 1411805,
+                "results": {
+                    "rating_before": 1484.433,
+                    "reputation_before": 86.228,
+                    "rating_change": 17.155,
+                    "reputation_change": -1.343
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 377424,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "False Start",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 352896,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 344264,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 337221,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.588,
+                "new_rep": 84.885
+            },
+            {
+                "user_id": 50865683,
+                "username": "Albers_the_goat",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 1435787,
+                "results": {
+                    "rating_before": 1517.723,
+                    "reputation_before": 74.574,
+                    "rating_change": -1.14,
+                    "reputation_change": -0.409
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 392458,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 350486,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 340847,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 351996,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1516.583,
+                "new_rep": 74.165
+            },
+            {
+                "user_id": 48402207,
+                "username": "Ermes_83",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 1436908,
+                "results": {
+                    "rating_before": 1501.41,
+                    "reputation_before": 80.486,
+                    "rating_change": -16.015,
+                    "reputation_change": 0.5730000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 401977,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 341990,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 345612,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 347329,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1485.395,
+                "new_rep": 81.059
+            }
+        ]
+    }
+]
