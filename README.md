@@ -1,8 +1,8 @@
-# 🏎️ Simracing Adatkezelő Rendszer
+#Simracing Adatkezelő Rendszer 🏎️
 
 Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Generál játékosokat, versenyeket, részletes köreredményeket, menti CSV/JSON/XLSX formátumokban, támogatja az Oracle SQL betöltést, és interaktív Streamlit dashboardot biztosít.
 
-## ✨ Főbb Funkciók
+##Főbb Funkciók ✨
 
 - **Faker alapú adategenerálás**: Játékosok (32 fő), versenyek (100+), köradatok ELO rating és reputáció rendszerrel
 - **Több formátum támogatása**: CSV, JSON, XLSX (külön munkalapokkal, színezéssel)
@@ -10,7 +10,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 - **Interaktív dashboard**: Ranglista, játékos karrier, köradatok elemzése
 - **Valósághű szimuláció**: Köridők, incidensek, dinamikus rating frissítések
 
-## 🚀 Gyors Indítás
+##Gyors Indítás 🚀
 
 - git clone https://github.com/Baboae/adatkezelo.git
 - cd adatkezelo
@@ -34,7 +34,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 4. Opcionálisan betölti Oracle DB-be
 5. **Indítja a Streamlit dashboardot** (`http://localhost:8501`)
 
-## 📂 Projekt Struktúra
+##Projekt Struktúra 📂
 
         adatkezelo/
         ├── main.py
@@ -62,14 +62,14 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
         └── dashboard/
         └── app.py
 
-## 🏆 Dashboard Funkciók
+##Dashboard Funkciók 🏆
 
 - **Global Leaderboard**: ELO/reputáció rangsor, játékos kiválasztás
 - **Player Career**: Statisztikák, verseny történet, átlagos befutó hely
 - **Lap Details**: Köridők, pozíciók, incidensek részletesen
 - **Interaktív táblázatok**: Kattintható drill-down navigáció
 
-## 💾 Kimeneti Fájlok
+##Kimeneti Fájlok 💾
 
 **CSV**: `created/csvs/players.csv`, `race_meta.csv`, `race_results/*.csv`  
 **JSON**: `created/jsons/players.json`, `race_meta.json`, `race_results/*.json`  
@@ -79,14 +79,14 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 - Rating/reputation változások: **zöld** (+), **piros** (-)
 - Pozíció javulás: **zöld** (jobb hely), **piros** (rosszabb hely)
 
-## 🔗 Adatkapcsolatok
+##Adatkapcsolatok 🔗
 
 - Player 1:N ParticipantResult ← N:1 RaceResult
 - Player 1:N Lap ← N:1 ParticipantResult
 - PK-k: user_id, race_id, (race_id, user_id, lap)
 
 
-## 🔧 Technikai Részletek
+##Technikai Részletek 🔧
 
 - **Faker**: Többnyelvű nevek, ország-specifikus usernemek
 - **ELO rating**: Dinamikus K=32 faktorral
