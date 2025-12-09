@@ -38,6 +38,7 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
         adatkezelo/
         ├── main.py
+        ├── .env.pelda
         ├── requirements.txt
         ├── data/
         │ └── raw/
