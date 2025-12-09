@@ -36,30 +36,31 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
 ## 📂 Projekt Struktúra
 
-├── main.py # 🎯 Fő futtató script
-├── requirements.txt # 📦 Függőségek
+adatkezelo/
+├── main.py
+├── requirements.txt
 ├── data/
-│ └── raw/ # 📊 Referencia adatok
+│ └── raw/
 │ ├── cars.json
 │ ├── tracks.json
 │ └── reference_laps.json
-├── generators/ # ⚙️ Adatgenerátorok
-│ ├── player_generator.py # 👥 Játékosok
-│ ├── race_data_generator.py # 🏁 Versenyadatok
-│ └── race_result_generator.py # 🏎️ Eredmények + ELO
-├── functions/ # 🔧 I/O műveletek
-│ ├── json_io.py # 📄 JSON
-│ ├── csv_io.py # 📋 CSV
-│ ├── xlsx_io.py # 📊 XLSX (színezés!)
-│ ├── sql_handler.py # 🗄️ Oracle SQL
-│ ├── clear_results.py # 🧹 Tisztítás
-│ ├── unix_to_timestamp.py # ⏱️ Időformázás
-│ └── unix_to_datetime.py # 📅 Dátumformázás
+├── generators/
+│ ├── player_generator.py
+│ ├── race_data_generator.py
+│ └── race_result_generator.py
+├── functions/
+│ ├── json_io.py
+│ ├── csv_io.py
+│ ├── xlsx_io.py
+│ ├── sql_handler.py
+│ ├── clear_results.py
+│ ├── unix_to_timestamp.py
+│ └── unix_to_datetime.py
 ├── data/
 │ └── basic/
-│ └── model_classes.py # 🏗️ Adatmodellek
-└── dashboard/ # 📈 Streamlit UI
-└── app.py # 🖥️ Interaktív dashboard
+│ └── model_classes.py
+└── dashboard/
+└── app.py
 
 ## 🏆 Dashboard Funkciók
 
