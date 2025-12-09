@@ -1,0 +1,163 @@
+[
+    {
+        "race_id": "RvdYk7",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764543515000,
+        "participants": [
+            {
+                "user_id": 57004847,
+                "username": "Fernandez_55",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 459003,
+                "results": {
+                    "rating_before": 1648.19,
+                    "reputation_before": 75.376,
+                    "rating_change": 7.326,
+                    "reputation_change": 1.538
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 122537,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112264,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114062,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110140,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1655.516,
+                "new_rep": 76.914
+            },
+            {
+                "user_id": 15338873,
+                "username": "Szabó_89",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 470125,
+                "results": {
+                    "rating_before": 1448.722,
+                    "reputation_before": 76.141,
+                    "rating_change": 3.61,
+                    "reputation_change": 0.8509999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123947,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115199,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113120,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 117859,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1452.332,
+                "new_rep": 76.992
+            },
+            {
+                "user_id": 36261369,
+                "username": "József_a_kuposzto",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 8,
+                "total_time": 481944,
+                "results": {
+                    "rating_before": 1425.348,
+                    "reputation_before": 81.075,
+                    "rating_change": -10.936,
+                    "reputation_change": -2.098
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124611,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120944,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113848,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122541,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1414.412,
+                "new_rep": 78.977
+            }
+        ]
+    }
+]

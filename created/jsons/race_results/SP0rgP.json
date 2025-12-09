@@ -1,0 +1,205 @@
+[
+    {
+        "race_id": "SP0rgP",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764549020000,
+        "participants": [
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 786795,
+                "results": {
+                    "rating_before": 1547.864,
+                    "reputation_before": 90.288,
+                    "rating_change": 16.997,
+                    "reputation_change": 1.0190000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139262,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 128549,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 125887,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 134984,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126587,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 131526,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1564.861,
+                "new_rep": 91.307
+            },
+            {
+                "user_id": 57004847,
+                "username": "Fernandez_55",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 792839,
+                "results": {
+                    "rating_before": 1663.115,
+                    "reputation_before": 75.953,
+                    "rating_change": -6.442,
+                    "reputation_change": -1.319
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144649,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 132104,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122567,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 134145,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 134467,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 124907,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1656.673,
+                "new_rep": 74.634
+            },
+            {
+                "user_id": 98502674,
+                "username": "Zola_PR0F",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 817429,
+                "results": {
+                    "rating_before": 1479.063,
+                    "reputation_before": 81.526,
+                    "rating_change": -10.555,
+                    "reputation_change": -0.1419999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142328,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 135899,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 133153,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 136471,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 132908,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 136670,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1468.508,
+                "new_rep": 81.384
+            }
+        ]
+    }
+]

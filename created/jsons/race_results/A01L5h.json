@@ -1,0 +1,244 @@
+[
+    {
+        "race_id": "A01L5h",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764260187000,
+        "participants": [
+            {
+                "user_id": 52740051,
+                "username": "Henriksen_23",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 10,
+                "total_time": 473843,
+                "results": {
+                    "rating_before": 1482.834,
+                    "reputation_before": 72.119,
+                    "rating_change": 16.119,
+                    "reputation_change": -0.2709999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 63068,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58825,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 55901,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 61571,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 56343,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 58829,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 60815,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 58491,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1498.953,
+                "new_rep": 71.848
+            },
+            {
+                "user_id": 45291397,
+                "username": "Jesper_40",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 477438,
+                "results": {
+                    "rating_before": 1466.206,
+                    "reputation_before": 74.454,
+                    "rating_change": 1.264,
+                    "reputation_change": 4.723000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 65858,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57006,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 59567,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 58792,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 61052,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 60848,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 57609,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 56706,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1467.47,
+                "new_rep": 79.177
+            },
+            {
+                "user_id": 16973022,
+                "username": "Drubin_61",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 480012,
+                "results": {
+                    "rating_before": 1504.656,
+                    "reputation_before": 73.49,
+                    "rating_change": -17.384,
+                    "reputation_change": 1.092
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66677,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57032,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56492,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 59676,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 59692,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 59097,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 61467,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 59879,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1487.272,
+                "new_rep": 74.582
+            }
+        ]
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "race_id": "0a1PqZ",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "DTM 1992",
+        "timestamp": 1764346669000,
+        "participants": [
+            {
+                "user_id": 96797335,
+                "username": "Irawan_99",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 9,
+                "total_time": 474870,
+                "results": {
+                    "rating_before": 1473.176,
+                    "reputation_before": 79.807,
+                    "rating_change": 15.093,
+                    "reputation_change": -0.39300000000000024
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73883,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 69102,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64939,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 67563,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 68053,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 64756,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 66574,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1488.269,
+                "new_rep": 79.414
+            },
+            {
+                "user_id": 29073365,
+                "username": "Nascimento_85",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 12,
+                "total_time": 484538,
+                "results": {
+                    "rating_before": 1440.885,
+                    "reputation_before": 71.429,
+                    "rating_change": 1.318,
+                    "reputation_change": -1.9069999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 76378,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 65848,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68375,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 70134,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 68326,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 66094,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 69383,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1442.203,
+                "new_rep": 69.522
+            },
+            {
+                "user_id": 16973022,
+                "username": "Drubin_61",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 8,
+                "total_time": 484889,
+                "results": {
+                    "rating_before": 1465.964,
+                    "reputation_before": 77.041,
+                    "rating_change": -16.41,
+                    "reputation_change": 0.6179999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 77108,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 64523,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 70855,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 66090,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 68047,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 69848,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 68418,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1449.554,
+                "new_rep": 77.659
+            }
+        ]
+    }
+]

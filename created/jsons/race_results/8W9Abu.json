@@ -1,0 +1,137 @@
+[
+    {
+        "race_id": "8W9Abu",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "Hyper Car",
+        "timestamp": 1764252993000,
+        "participants": [
+            {
+                "user_id": 15546675,
+                "username": "Carrasco_ChicaneKing",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 1350679,
+                "results": {
+                    "rating_before": 1559.727,
+                    "reputation_before": 81.834,
+                    "rating_change": 12.442,
+                    "reputation_change": 0.6900000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 493770,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 421482,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 435427,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1572.169,
+                "new_rep": 82.524
+            },
+            {
+                "user_id": 92656353,
+                "username": "Echeverría_25",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 1376493,
+                "results": {
+                    "rating_before": 1516.632,
+                    "reputation_before": 82.625,
+                    "rating_change": -0.662,
+                    "reputation_change": 0.99
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 505206,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 451353,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 419934,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1515.97,
+                "new_rep": 83.615
+            },
+            {
+                "user_id": 41427103,
+                "username": "Mustofa_43",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 1402949,
+                "results": {
+                    "rating_before": 1443.964,
+                    "reputation_before": 74.939,
+                    "rating_change": -11.78,
+                    "reputation_change": 0.987
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 513513,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 448769,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 440667,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1432.184,
+                "new_rep": 75.926
+            }
+        ]
+    }
+]

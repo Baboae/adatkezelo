@@ -1,0 +1,135 @@
+[
+    {
+        "race_id": "RMopzW",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764528280000,
+        "participants": [
+            {
+                "user_id": 57004847,
+                "username": "Fernandez_55",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 284022,
+                "results": {
+                    "rating_before": 1635.469,
+                    "reputation_before": 68.781,
+                    "rating_change": 12.721,
+                    "reputation_change": 6.595000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 100303,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 90819,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 92900,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1648.19,
+                "new_rep": 75.376
+            },
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 287442,
+                "results": {
+                    "rating_before": 1584.379,
+                    "reputation_before": 90.736,
+                    "rating_change": 0.187,
+                    "reputation_change": 0.015999999999999903
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102108,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 95856,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 89478,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1584.566,
+                "new_rep": 90.752
+            },
+            {
+                "user_id": 12281905,
+                "username": "Duval_33",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 291532,
+                "results": {
+                    "rating_before": 1541.557,
+                    "reputation_before": 71.535,
+                    "rating_change": -12.908,
+                    "reputation_change": 1.024
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103176,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93112,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95244,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1528.649,
+                "new_rep": 72.559
+            }
+        ]
+    }
+]

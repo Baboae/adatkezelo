@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "qDblOD",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764461600000,
+        "participants": [
+            {
+                "user_id": 48872250,
+                "username": "Maldonado_63",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 331709,
+                "results": {
+                    "rating_before": 1535.751,
+                    "reputation_before": 82.299,
+                    "rating_change": 12.057,
+                    "reputation_change": 4.915
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118093,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104944,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 108672,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1547.808,
+                "new_rep": 87.214
+            },
+            {
+                "user_id": 19448354,
+                "username": "Daniel_yt",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 342199,
+                "results": {
+                    "rating_before": 1354.059,
+                    "reputation_before": 61.758,
+                    "rating_change": 7.6,
+                    "reputation_change": -0.32999999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 122911,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107572,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 111716,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1361.659,
+                "new_rep": 61.428
+            },
+            {
+                "user_id": 84604838,
+                "username": "Gutierrez_75",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 343370,
+                "results": {
+                    "rating_before": 1531.262,
+                    "reputation_before": 63.51,
+                    "rating_change": -19.656,
+                    "reputation_change": -1.124
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126779,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109113,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107478,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1511.606,
+                "new_rep": 62.386
+            }
+        ]
+    }
+]

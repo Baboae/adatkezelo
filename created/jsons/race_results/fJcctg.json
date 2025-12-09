@@ -1,0 +1,181 @@
+[
+    {
+        "race_id": "fJcctg",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764084763000,
+        "participants": [
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 603870,
+                "results": {
+                    "rating_before": 1485.115,
+                    "reputation_before": 86.828,
+                    "rating_change": 17.428,
+                    "reputation_change": 0.1399999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130306,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122320,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 116761,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113756,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 120727,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1502.543,
+                "new_rep": 86.968
+            },
+            {
+                "user_id": 10532979,
+                "username": "Ivan_70",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 608178,
+                "results": {
+                    "rating_before": 1544.37,
+                    "reputation_before": 74.405,
+                    "rating_change": -2.628,
+                    "reputation_change": -0.8819999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131520,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124862,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115793,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122306,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 113697,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1541.742,
+                "new_rep": 73.523
+            },
+            {
+                "user_id": 15338873,
+                "username": "Szabó_89",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 608822,
+                "results": {
+                    "rating_before": 1488.429,
+                    "reputation_before": 73.976,
+                    "rating_change": -14.799,
+                    "reputation_change": 0.499
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128301,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 121738,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117425,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 124657,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116701,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1473.63,
+                "new_rep": 74.475
+            }
+        ]
+    }
+]

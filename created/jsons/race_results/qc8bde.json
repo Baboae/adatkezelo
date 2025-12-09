@@ -1,0 +1,226 @@
+[
+    {
+        "race_id": "qc8bde",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1763991817000,
+        "participants": [
+            {
+                "user_id": 12281905,
+                "username": "Duval_33",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 411854,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 16.0,
+                    "reputation_change": 1.0010000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 64286,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61002,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 55385,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 56416,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 56071,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 60274,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 58420,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1516.0,
+                "new_rep": 76.001
+            },
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 415154,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 0.0,
+                    "reputation_change": -1.459
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66351,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 59149,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 59997,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 57872,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 57688,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 57542,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 56555,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 73.541
+            },
+            {
+                "user_id": 15546675,
+                "username": "Carrasco_ChicaneKing",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 416989,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -16.0,
+                    "reputation_change": -1.362
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 65833,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 58984,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 59025,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 56878,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 60561,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 58307,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 57401,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.0,
+                "new_rep": 73.638
+            }
+        ]
+    }
+]

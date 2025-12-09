@@ -1,0 +1,154 @@
+[
+    {
+        "race_id": "UgesAU",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764012676000,
+        "participants": [
+            {
+                "user_id": 78698692,
+                "username": "Jati_82",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 520297,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": 16.0,
+                    "reputation_change": 1.4720000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139846,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127194,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 127249,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 126008,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1516.0,
+                "new_rep": 76.472
+            },
+            {
+                "user_id": 36261369,
+                "username": "József_a_kuposzto",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 532895,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -0.0,
+                    "reputation_change": 0.09399999999999997
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142952,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124883,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131127,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 133933,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 75.094
+            },
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 547435,
+                "results": {
+                    "rating_before": 1499.992,
+                    "reputation_before": 75.621,
+                    "rating_change": -16.0,
+                    "reputation_change": 4.976
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 147836,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 134199,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 130897,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 134503,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.992,
+                "new_rep": 80.597
+            }
+        ]
+    }
+]

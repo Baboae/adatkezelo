@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "X8VBaB",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1764543535000,
+        "participants": [
+            {
+                "user_id": 15546675,
+                "username": "Carrasco_ChicaneKing",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 1635731,
+                "results": {
+                    "rating_before": 1639.891,
+                    "reputation_before": 78.854,
+                    "rating_change": 8.659,
+                    "reputation_change": 1.4180000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 561206,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 516148,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 558377,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1648.55,
+                "new_rep": 80.272
+            },
+            {
+                "user_id": 29073365,
+                "username": "Nascimento_85",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 1692777,
+                "results": {
+                    "rating_before": 1403.231,
+                    "reputation_before": 69.898,
+                    "rating_change": 7.383,
+                    "reputation_change": 5.909000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 592437,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 545859,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 554481,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1410.614,
+                "new_rep": 75.807
+            },
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 1708809,
+                "results": {
+                    "rating_before": 1522.586,
+                    "reputation_before": 67.184,
+                    "rating_change": -16.042,
+                    "reputation_change": 0.17199999999999993
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 584396,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 567879,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 556534,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1506.544,
+                "new_rep": 67.356
+            }
+        ]
+    }
+]

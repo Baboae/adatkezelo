@@ -1,0 +1,134 @@
+[
+    {
+        "race_id": "XzJ9Jm",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764005571000,
+        "participants": [
+            {
+                "user_id": 57004847,
+                "username": "Fernandez_55",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 365703,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 74.899,
+                    "rating_change": 14.897,
+                    "reputation_change": 4.571000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127609,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116003,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122091,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1530.897,
+                "new_rep": 79.47
+            },
+            {
+                "user_id": 74026999,
+                "username": "Januar_63",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 367421,
+                "results": {
+                    "rating_before": 1500.0,
+                    "reputation_before": 74.246,
+                    "rating_change": 0.0,
+                    "reputation_change": -1.341
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 126779,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118133,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122509,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1500.0,
+                "new_rep": 72.905
+            },
+            {
+                "user_id": 84604838,
+                "username": "Gutierrez_75",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 373217,
+                "results": {
+                    "rating_before": 1484.0,
+                    "reputation_before": 73.807,
+                    "rating_change": -14.897,
+                    "reputation_change": -0.14
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 136938,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 117071,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119208,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1469.103,
+                "new_rep": 73.667
+            }
+        ]
+    }
+]

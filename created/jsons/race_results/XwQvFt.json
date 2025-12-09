@@ -1,0 +1,165 @@
+[
+    {
+        "race_id": "XwQvFt",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1764267194000,
+        "participants": [
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 14,
+                "total_time": 2239358,
+                "results": {
+                    "rating_before": 1490.917,
+                    "reputation_before": 83.244,
+                    "rating_change": 14.906,
+                    "reputation_change": -2.7239999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 597560,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 564075,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 534304,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 543419,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1505.823,
+                "new_rep": 80.52
+            },
+            {
+                "user_id": 30663493,
+                "username": "Mendonça_27",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 2240919,
+                "results": {
+                    "rating_before": 1499.558,
+                    "reputation_before": 70.599,
+                    "rating_change": -1.684,
+                    "reputation_change": -1.2040000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 620058,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 546820,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 515067,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 558974,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1497.874,
+                "new_rep": 69.395
+            },
+            {
+                "user_id": 10090188,
+                "username": "Habibi_78",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 2241090,
+                "results": {
+                    "rating_before": 1434.287,
+                    "reputation_before": 79.621,
+                    "rating_change": -13.222,
+                    "reputation_change": 1.8399999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 621453,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 552210,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 542233,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 525194,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1421.065,
+                "new_rep": 81.461
+            }
+        ]
+    }
+]

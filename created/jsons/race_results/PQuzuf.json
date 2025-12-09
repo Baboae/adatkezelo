@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "PQuzuf",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764448983000,
+        "participants": [
+            {
+                "user_id": 10090188,
+                "username": "Habibi_78",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 320360,
+                "results": {
+                    "rating_before": 1432.752,
+                    "reputation_before": 75.993,
+                    "rating_change": 19.542,
+                    "reputation_change": 6.861000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 113917,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 102525,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 103918,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1452.294,
+                "new_rep": 82.854
+            },
+            {
+                "user_id": 63574474,
+                "username": "Williams_45",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 324449,
+                "results": {
+                    "rating_before": 1570.694,
+                    "reputation_before": 85.163,
+                    "rating_change": -5.579,
+                    "reputation_change": 4.91
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 112217,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 104884,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 107348,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1565.115,
+                "new_rep": 90.073
+            },
+            {
+                "user_id": 45291397,
+                "username": "Jesper_40",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 331225,
+                "results": {
+                    "rating_before": 1455.501,
+                    "reputation_before": 71.145,
+                    "rating_change": -13.964,
+                    "reputation_change": -0.3530000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118842,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 106865,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105518,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1441.537,
+                "new_rep": 70.792
+            }
+        ]
+    }
+]

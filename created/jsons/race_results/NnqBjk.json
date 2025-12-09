@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "NnqBjk",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764170976000,
+        "participants": [
+            {
+                "user_id": 16973022,
+                "username": "Drubin_61",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 2192195,
+                "results": {
+                    "rating_before": 1469.404,
+                    "reputation_before": 70.22,
+                    "rating_change": 17.774,
+                    "reputation_change": 0.707
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 597438,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 535351,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 524773,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 534633,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.178,
+                "new_rep": 70.927
+            },
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 2219203,
+                "results": {
+                    "rating_before": 1530.713,
+                    "reputation_before": 74.279,
+                    "rating_change": -2.426,
+                    "reputation_change": -0.8939999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 595911,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 533347,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 531374,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 558571,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1528.287,
+                "new_rep": 73.385
+            },
+            {
+                "user_id": 67791054,
+                "username": "Wojtunik_49",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 2256634,
+                "results": {
+                    "rating_before": 1485.797,
+                    "reputation_before": 73.623,
+                    "rating_change": -15.349,
+                    "reputation_change": 0.875
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 617626,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 530345,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 549815,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 558848,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1470.448,
+                "new_rep": 74.498
+            }
+        ]
+    }
+]

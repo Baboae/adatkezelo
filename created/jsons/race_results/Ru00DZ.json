@@ -1,0 +1,224 @@
+[
+    {
+        "race_id": "Ru00DZ",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764278107000,
+        "participants": [
+            {
+                "user_id": 62683428,
+                "username": "Davies_97",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 670220,
+                "results": {
+                    "rating_before": 1563.268,
+                    "reputation_before": 79.05,
+                    "rating_change": 15.838,
+                    "reputation_change": -0.6039999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102019,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91974,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 96464,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 92980,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 97514,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 96900,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 92369,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1579.106,
+                "new_rep": 78.446
+            },
+            {
+                "user_id": 57004847,
+                "username": "Fernandez_55",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 673304,
+                "results": {
+                    "rating_before": 1644.986,
+                    "reputation_before": 76.317,
+                    "rating_change": -5.493,
+                    "reputation_change": 0.27700000000000014
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 99676,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97811,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98669,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96759,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 93567,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 93845,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 92977,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1639.493,
+                "new_rep": 76.594
+            },
+            {
+                "user_id": 16973022,
+                "username": "Drubin_61",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 686837,
+                "results": {
+                    "rating_before": 1474.097,
+                    "reputation_before": 73.096,
+                    "rating_change": -10.345,
+                    "reputation_change": 6.242999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102634,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98890,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98289,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98796,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 98185,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 98349,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 91694,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1463.752,
+                "new_rep": 79.339
+            }
+        ]
+    }
+]

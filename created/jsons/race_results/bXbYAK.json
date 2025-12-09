@@ -1,0 +1,153 @@
+[
+    {
+        "race_id": "bXbYAK",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764443743000,
+        "participants": [
+            {
+                "user_id": 67791054,
+                "username": "Wojtunik_49",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 233689,
+                "results": {
+                    "rating_before": 1461.153,
+                    "reputation_before": 71.681,
+                    "rating_change": 14.245,
+                    "reputation_change": -0.023000000000000017
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62694,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 56706,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56170,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 58119,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1475.398,
+                "new_rep": 71.658
+            },
+            {
+                "user_id": 48284767,
+                "username": "Maynard_66",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 240849,
+                "results": {
+                    "rating_before": 1439.691,
+                    "reputation_before": 86.384,
+                    "rating_change": -0.282,
+                    "reputation_change": 4.769
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66471,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61118,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57306,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 55954,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1439.409,
+                "new_rep": 91.153
+            },
+            {
+                "user_id": 15338873,
+                "username": "Szabó_89",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 240913,
+                "results": {
+                    "rating_before": 1405.919,
+                    "reputation_before": 76.402,
+                    "rating_change": -13.964,
+                    "reputation_change": 1.5790000000000002
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62715,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 57502,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 60803,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 59893,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1391.955,
+                "new_rep": 77.981
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "race_id": "l8UnQt",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "Hyper Car",
+        "timestamp": 1764443747000,
+        "participants": [
+            {
+                "user_id": 63574474,
+                "username": "Williams_45",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 176293,
+                "results": {
+                    "rating_before": 1558.709,
+                    "reputation_before": 84.931,
+                    "rating_change": 11.985,
+                    "reputation_change": 0.2320000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 62030,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 56760,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 57503,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1570.694,
+                "new_rep": 85.163
+            },
+            {
+                "user_id": 96797335,
+                "username": "Irawan_99",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 8,
+                "total_time": 179718,
+                "results": {
+                    "rating_before": 1502.805,
+                    "reputation_before": 78.195,
+                    "rating_change": -0.271,
+                    "reputation_change": -0.21100000000000008
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 66487,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 56464,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 56767,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1502.534,
+                "new_rep": 77.984
+            },
+            {
+                "user_id": 30663493,
+                "username": "Mendonça_27",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 184785,
+                "results": {
+                    "rating_before": 1434.742,
+                    "reputation_before": 63.789,
+                    "rating_change": -11.713,
+                    "reputation_change": -1.763
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 64135,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61949,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 58701,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1423.029,
+                "new_rep": 62.026
+            }
+        ]
+    }
+]

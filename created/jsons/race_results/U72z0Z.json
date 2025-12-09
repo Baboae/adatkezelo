@@ -1,0 +1,201 @@
+[
+    {
+        "race_id": "U72z0Z",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764343853000,
+        "participants": [
+            {
+                "user_id": 62683428,
+                "username": "Davies_97",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 712434,
+                "results": {
+                    "rating_before": 1610.741,
+                    "reputation_before": 78.701,
+                    "rating_change": 11.42,
+                    "reputation_change": 1.95
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130113,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115943,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 121242,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115235,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 115145,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 114756,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1622.161,
+                "new_rep": 80.651
+            },
+            {
+                "user_id": 72434747,
+                "username": "Kenneth_49",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 729578,
+                "results": {
+                    "rating_before": 1554.809,
+                    "reputation_before": 85.725,
+                    "rating_change": -0.893,
+                    "reputation_change": -0.853
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 134155,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113155,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 119267,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123197,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 117107,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 122697,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1553.916,
+                "new_rep": 84.872
+            },
+            {
+                "user_id": 14597845,
+                "username": "Tóth_HU",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 731448,
+                "results": {
+                    "rating_before": 1458.172,
+                    "reputation_before": 69.223,
+                    "rating_change": -10.527,
+                    "reputation_change": 0.355
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 132458,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 125031,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 124507,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114552,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 118926,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 115974,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1447.645,
+                "new_rep": 69.578
+            }
+        ]
+    }
+]

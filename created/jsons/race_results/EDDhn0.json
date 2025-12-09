@@ -1,0 +1,159 @@
+[
+    {
+        "race_id": "EDDhn0",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764519473000,
+        "participants": [
+            {
+                "user_id": 72434747,
+                "username": "Kenneth_49",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 472016,
+                "results": {
+                    "rating_before": 1556.74,
+                    "reputation_before": 80.493,
+                    "rating_change": 14.06,
+                    "reputation_change": -0.606
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 127190,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116182,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 117998,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110646,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1570.8,
+                "new_rep": 79.887
+            },
+            {
+                "user_id": 52740051,
+                "username": "Henriksen_23",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 475088,
+                "results": {
+                    "rating_before": 1570.313,
+                    "reputation_before": 74.521,
+                    "rating_change": -2.85,
+                    "reputation_change": 0.33299999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125848,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110838,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120104,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118298,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1567.463,
+                "new_rep": 74.854
+            },
+            {
+                "user_id": 78698692,
+                "username": "Jati_82",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 493165,
+                "results": {
+                    "rating_before": 1456.189,
+                    "reputation_before": 65.45,
+                    "rating_change": -11.21,
+                    "reputation_change": -0.365
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 132680,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 122046,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123135,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 115304,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1444.979,
+                "new_rep": 65.085
+            }
+        ]
+    }
+]

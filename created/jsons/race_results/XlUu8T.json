@@ -1,0 +1,179 @@
+[
+    {
+        "race_id": "XlUu8T",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764440167000,
+        "participants": [
+            {
+                "user_id": 63574474,
+                "username": "Williams_45",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 652001,
+                "results": {
+                    "rating_before": 1547.255,
+                    "reputation_before": 83.915,
+                    "rating_change": 11.454,
+                    "reputation_change": 1.016
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 139841,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 123665,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 126466,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 135136,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 126893,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1558.709,
+                "new_rep": 84.931
+            },
+            {
+                "user_id": 67791054,
+                "username": "Wojtunik_49",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 667612,
+                "results": {
+                    "rating_before": 1459.837,
+                    "reputation_before": 71.112,
+                    "rating_change": 1.316,
+                    "reputation_change": 0.5690000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142039,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 128163,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 128349,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 137070,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 131991,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1461.153,
+                "new_rep": 71.681
+            },
+            {
+                "user_id": 14597845,
+                "username": "Tóth_HU",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 682623,
+                "results": {
+                    "rating_before": 1431.306,
+                    "reputation_before": 68.697,
+                    "rating_change": -12.77,
+                    "reputation_change": -0.5429999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 147465,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 133556,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 133912,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 133431,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 134259,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1418.536,
+                "new_rep": 68.154
+            }
+        ]
+    }
+]

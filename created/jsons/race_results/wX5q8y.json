@@ -1,0 +1,136 @@
+[
+    {
+        "race_id": "wX5q8y",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764022617000,
+        "participants": [
+            {
+                "user_id": 70467434,
+                "username": "Iswahyudi_HS",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 287827,
+                "results": {
+                    "rating_before": 1500.0,
+                    "reputation_before": 73.666,
+                    "rating_change": 16.015,
+                    "reputation_change": 0.7050000000000001
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 100323,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 96452,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91052,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1516.015,
+                "new_rep": 74.371
+            },
+            {
+                "user_id": 15338873,
+                "username": "Szabó_89",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 292785,
+                "results": {
+                    "rating_before": 1484.664,
+                    "reputation_before": 73.772,
+                    "rating_change": 1.072,
+                    "reputation_change": 0.592
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 108623,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 91091,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 93071,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1485.736,
+                "new_rep": 74.364
+            },
+            {
+                "user_id": 78698692,
+                "username": "Jati_82",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 303830,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 76.472,
+                    "rating_change": -17.088,
+                    "reputation_change": -0.814
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107556,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98033,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98241,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1498.912,
+                "new_rep": 75.658
+            }
+        ]
+    }
+]

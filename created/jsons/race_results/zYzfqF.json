@@ -1,0 +1,153 @@
+[
+    {
+        "race_id": "zYzfqF",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764100691000,
+        "participants": [
+            {
+                "user_id": 62683428,
+                "username": "Davies_97",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 517557,
+                "results": {
+                    "rating_before": 1518.034,
+                    "reputation_before": 76.118,
+                    "rating_change": 14.829,
+                    "reputation_change": 6.521
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142484,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 124801,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 122759,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 127513,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.863,
+                "new_rep": 82.639
+            },
+            {
+                "user_id": 92656353,
+                "username": "Echeverría_25",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 518593,
+                "results": {
+                    "rating_before": 1544.325,
+                    "reputation_before": 78.63,
+                    "rating_change": -2.944,
+                    "reputation_change": -0.10499999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 144217,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 123797,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 129837,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 120742,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1541.381,
+                "new_rep": 78.525
+            },
+            {
+                "user_id": 36261369,
+                "username": "József_a_kuposzto",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 525257,
+                "results": {
+                    "rating_before": 1439.636,
+                    "reputation_before": 77.75,
+                    "rating_change": -11.885,
+                    "reputation_change": -0.605
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143092,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 120845,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 131226,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 130094,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1427.751,
+                "new_rep": 77.145
+            }
+        ]
+    }
+]

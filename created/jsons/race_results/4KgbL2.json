@@ -1,0 +1,250 @@
+[
+    {
+        "race_id": "4KgbL2",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764109004000,
+        "participants": [
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 765582,
+                "results": {
+                    "rating_before": 1515.36,
+                    "reputation_before": 72.631,
+                    "rating_change": 15.353,
+                    "reputation_change": 1.648
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107042,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93322,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 99374,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94604,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94772,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 90679,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 93985,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 91804,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1530.713,
+                "new_rep": 74.279
+            },
+            {
+                "user_id": 48872250,
+                "username": "Maldonado_63",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 12,
+                "total_time": 773041,
+                "results": {
+                    "rating_before": 1485.831,
+                    "reputation_before": 76.66,
+                    "rating_change": 1.387,
+                    "reputation_change": -0.30799999999999983
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 109024,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97386,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 91095,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98973,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 95042,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 97881,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 91033,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 8,
+                        "time": 92607,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1487.218,
+                "new_rep": 76.352
+            },
+            {
+                "user_id": 52740051,
+                "username": "Henriksen_23",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 6,
+                "total_time": 786048,
+                "results": {
+                    "rating_before": 1516.705,
+                    "reputation_before": 72.932,
+                    "rating_change": -16.74,
+                    "reputation_change": -0.5029999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 105564,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98972,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100453,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96750,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94006,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 93973,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 98740,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 8,
+                        "time": 97590,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1499.965,
+                "new_rep": 72.429
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "race_id": "BZ4PPu",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "WTCR",
+        "timestamp": 1764092708000,
+        "participants": [
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 2179534,
+                "results": {
+                    "rating_before": 1518.761,
+                    "reputation_before": 87.703,
+                    "rating_change": 14.15,
+                    "reputation_change": 5.4590000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 566450,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 553951,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 510511,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 548622,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1532.911,
+                "new_rep": 93.162
+            },
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 2194882,
+                "results": {
+                    "rating_before": 1472.445,
+                    "reputation_before": 83.967,
+                    "rating_change": 1.334,
+                    "reputation_change": -1.396
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 581942,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 541416,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 519925,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 551599,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1473.779,
+                "new_rep": 82.571
+            },
+            {
+                "user_id": 19448354,
+                "username": "Daniel_yt",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 2196735,
+                "results": {
+                    "rating_before": 1484.35,
+                    "reputation_before": 72.25,
+                    "rating_change": -15.484,
+                    "reputation_change": -1.3579999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 594341,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 543543,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 525284,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 533567,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1468.866,
+                "new_rep": 70.892
+            }
+        ]
+    }
+]

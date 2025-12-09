@@ -1,0 +1,203 @@
+[
+    {
+        "race_id": "VX8tJQ",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764271814000,
+        "participants": [
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 582816,
+                "results": {
+                    "rating_before": 1505.823,
+                    "reputation_before": 80.52,
+                    "rating_change": 15.415,
+                    "reputation_change": -0.603
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103301,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 92638,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97954,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98690,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 94533,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 95700,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1521.238,
+                "new_rep": 79.917
+            },
+            {
+                "user_id": 10090188,
+                "username": "Habibi_78",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 7,
+                "total_time": 585672,
+                "results": {
+                    "rating_before": 1421.065,
+                    "reputation_before": 81.461,
+                    "rating_change": 5.032,
+                    "reputation_change": 0.55
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 105701,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 93133,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 94856,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 97036,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 97346,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 97600,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1426.097,
+                "new_rep": 82.011
+            },
+            {
+                "user_id": 74026999,
+                "username": "Januar_63",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 2,
+                "total_time": 590835,
+                "results": {
+                    "rating_before": 1564.055,
+                    "reputation_before": 65.074,
+                    "rating_change": -20.447,
+                    "reputation_change": 1.602
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 103887,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98218,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95396,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 97436,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 99464,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 96434,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1543.608,
+                "new_rep": 66.676
+            }
+        ]
+    }
+]

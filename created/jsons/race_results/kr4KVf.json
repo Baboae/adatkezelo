@@ -1,0 +1,176 @@
+[
+    {
+        "race_id": "kr4KVf",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764359970000,
+        "participants": [
+            {
+                "user_id": 29073365,
+                "username": "Nascimento_85",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 592835,
+                "results": {
+                    "rating_before": 1442.203,
+                    "reputation_before": 69.522,
+                    "rating_change": 15.42,
+                    "reputation_change": 1.069
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 128874,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 112705,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 115685,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 118704,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116867,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1457.623,
+                "new_rep": 70.591
+            },
+            {
+                "user_id": 10532979,
+                "username": "Ivan_70",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 594746,
+                "results": {
+                    "rating_before": 1420.019,
+                    "reputation_before": 68.97,
+                    "rating_change": 0.951,
+                    "reputation_change": 1.086
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125811,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 115105,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113062,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 122228,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 118540,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1420.97,
+                "new_rep": 70.056
+            },
+            {
+                "user_id": 41427103,
+                "username": "Mustofa_43",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 602129,
+                "results": {
+                    "rating_before": 1439.168,
+                    "reputation_before": 71.506,
+                    "rating_change": -16.371,
+                    "reputation_change": 0.17700000000000005
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 130561,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119675,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 120700,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 114980,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 116213,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1422.797,
+                "new_rep": 71.683
+            }
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "race_id": "KTelwK",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "WTCR",
+        "timestamp": 1764449041000,
+        "participants": [
+            {
+                "user_id": 70467434,
+                "username": "Iswahyudi_HS",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 6,
+                "total_time": 3051332,
+                "results": {
+                    "rating_before": 1561.673,
+                    "reputation_before": 70.749,
+                    "rating_change": 12.37,
+                    "reputation_change": -0.39299999999999996
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 456143,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 452984,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 429886,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 417913,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 5,
+                        "time": 414523,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 439927,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 439956,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1574.043,
+                "new_rep": 70.356
+            },
+            {
+                "user_id": 41427103,
+                "username": "Mustofa_43",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 3069623,
+                "results": {
+                    "rating_before": 1412.616,
+                    "reputation_before": 72.825,
+                    "rating_change": 6.136,
+                    "reputation_change": -0.864
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 505181,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 430094,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 425743,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 423975,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 427278,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 420229,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 437123,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1418.752,
+                "new_rep": 71.961
+            },
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 3070258,
+                "results": {
+                    "rating_before": 1544.541,
+                    "reputation_before": 64.892,
+                    "rating_change": -18.505,
+                    "reputation_change": 1.066
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 465874,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 453401,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 415912,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 423736,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 447325,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 441331,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 422679,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1526.036,
+                "new_rep": 65.958
+            }
+        ]
+    }
+]

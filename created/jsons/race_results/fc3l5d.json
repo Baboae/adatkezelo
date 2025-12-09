@@ -1,0 +1,198 @@
+[
+    {
+        "race_id": "fc3l5d",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764015286000,
+        "participants": [
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 580742,
+                "results": {
+                    "rating_before": 1483.992,
+                    "reputation_before": 80.597,
+                    "rating_change": 17.078,
+                    "reputation_change": 7.223
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 100379,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98033,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98540,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 92432,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 93433,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 97925,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.07,
+                "new_rep": 87.82
+            },
+            {
+                "user_id": 96797335,
+                "username": "Irawan_99",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 6,
+                "total_time": 581146,
+                "results": {
+                    "rating_before": 1498.889,
+                    "reputation_before": 73.852,
+                    "rating_change": 0.051,
+                    "reputation_change": -0.019999999999999907
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 101141,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 90928,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 98370,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94270,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 99413,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 97024,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1498.94,
+                "new_rep": 73.832
+            },
+            {
+                "user_id": 10532979,
+                "username": "Ivan_70",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 4,
+                "total_time": 592574,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 73.591,
+                    "rating_change": -17.129,
+                    "reputation_change": 0.1479999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 109523,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 97358,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 99071,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96174,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 91724,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 98724,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1498.871,
+                "new_rep": 73.739
+            }
+        ]
+    }
+]

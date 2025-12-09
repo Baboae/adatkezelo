@@ -1,0 +1,157 @@
+[
+    {
+        "race_id": "mkLUeK",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764172927000,
+        "participants": [
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 2,
+                "total_time": 480975,
+                "results": {
+                    "rating_before": 1473.779,
+                    "reputation_before": 82.571,
+                    "rating_change": 17.138,
+                    "reputation_change": 0.6729999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 131887,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 116297,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 113463,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 119328,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1490.917,
+                "new_rep": 83.244
+            },
+            {
+                "user_id": 52740051,
+                "username": "Henriksen_23",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 4,
+                "total_time": 482674,
+                "results": {
+                    "rating_before": 1499.965,
+                    "reputation_before": 72.429,
+                    "rating_change": -0.667,
+                    "reputation_change": 0.6869999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 124707,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 119920,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114780,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 123267,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.298,
+                "new_rep": 73.116
+            },
+            {
+                "user_id": 51312681,
+                "username": "Didier_59",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 488086,
+                "results": {
+                    "rating_before": 1497.116,
+                    "reputation_before": 74.004,
+                    "rating_change": -16.471,
+                    "reputation_change": 6.605
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 133422,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 118616,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 114462,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 121586,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1480.645,
+                "new_rep": 80.609
+            }
+        ]
+    }
+]

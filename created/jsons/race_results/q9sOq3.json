@@ -1,0 +1,137 @@
+[
+    {
+        "race_id": "q9sOq3",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "WTCR",
+        "timestamp": 1764445556000,
+        "participants": [
+            {
+                "user_id": 15338873,
+                "username": "Szabó_89",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 3,
+                "total_time": 405667,
+                "results": {
+                    "rating_before": 1391.955,
+                    "reputation_before": 77.981,
+                    "rating_change": 21.41,
+                    "reputation_change": 0.41800000000000004
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 142917,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 128880,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 133870,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1413.365,
+                "new_rep": 78.399
+            },
+            {
+                "user_id": 98502674,
+                "username": "Zola_PR0F",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 412153,
+                "results": {
+                    "rating_before": 1454.007,
+                    "reputation_before": 81.031,
+                    "rating_change": 1.418,
+                    "reputation_change": 1.4989999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 150003,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127948,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 134202,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1455.425,
+                "new_rep": 82.53
+            },
+            {
+                "user_id": 12281905,
+                "username": "Duval_33",
+                "start_position": 2,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 413210,
+                "results": {
+                    "rating_before": 1582.566,
+                    "reputation_before": 70.184,
+                    "rating_change": -22.828,
+                    "reputation_change": -0.45699999999999985
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 147129,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "False Start",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 131616,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 134465,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1559.738,
+                "new_rep": 69.727
+            }
+        ]
+    }
+]

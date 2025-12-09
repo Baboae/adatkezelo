@@ -1,0 +1,160 @@
+[
+    {
+        "race_id": "YqRlWq",
+        "track": "Nurburgring Nordschleife",
+        "layout": "Nordschleife",
+        "car_class": "Hyper Car",
+        "timestamp": 1764350956000,
+        "participants": [
+            {
+                "user_id": 10090188,
+                "username": "Habibi_78",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 1415456,
+                "results": {
+                    "rating_before": 1400.936,
+                    "reputation_before": 79.594,
+                    "rating_change": 20.422,
+                    "reputation_change": 1.051
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 376175,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 356165,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 337372,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 345744,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1421.358,
+                "new_rep": 80.645
+            },
+            {
+                "user_id": 62683428,
+                "username": "Davies_97",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 2,
+                "total_time": 1424675,
+                "results": {
+                    "rating_before": 1622.161,
+                    "reputation_before": 80.651,
+                    "rating_change": -9.057,
+                    "reputation_change": 1.585
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 379187,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 351811,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 344924,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 348753,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1613.104,
+                "new_rep": 82.236
+            },
+            {
+                "user_id": 19448354,
+                "username": "Daniel_yt",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 5,
+                "total_time": 1491145,
+                "results": {
+                    "rating_before": 1397.472,
+                    "reputation_before": 67.581,
+                    "rating_change": -11.365,
+                    "reputation_change": -0.10499999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 391962,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "False Start"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 365326,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 361243,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 372614,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1386.107,
+                "new_rep": 67.476
+            }
+        ]
+    }
+]

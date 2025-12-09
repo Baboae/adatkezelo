@@ -1,0 +1,160 @@
+[
+    {
+        "race_id": "i2ddtA",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764521926000,
+        "participants": [
+            {
+                "user_id": 98502674,
+                "username": "Zola_PR0F",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 390054,
+                "results": {
+                    "rating_before": 1455.425,
+                    "reputation_before": 82.53,
+                    "rating_change": 20.401,
+                    "reputation_change": -1.2229999999999999
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 102391,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 94139,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 95400,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 98124,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1475.826,
+                "new_rep": 81.307
+            },
+            {
+                "user_id": 52740051,
+                "username": "Henriksen_23",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 391350,
+                "results": {
+                    "rating_before": 1567.463,
+                    "reputation_before": 74.854,
+                    "rating_change": -3.128,
+                    "reputation_change": -0.534
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 105131,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 98087,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 93297,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 94835,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1564.335,
+                "new_rep": 74.32
+            },
+            {
+                "user_id": 36428614,
+                "username": "Alain_50",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 395407,
+                "results": {
+                    "rating_before": 1539.858,
+                    "reputation_before": 66.668,
+                    "rating_change": -17.272,
+                    "reputation_change": 0.516
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 107123,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 94391,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Contact",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 97162,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 96731,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1522.586,
+                "new_rep": 67.184
+            }
+        ]
+    }
+]

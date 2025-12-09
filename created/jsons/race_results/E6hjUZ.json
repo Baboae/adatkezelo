@@ -1,0 +1,130 @@
+[
+    {
+        "race_id": "E6hjUZ",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "WTCR",
+        "timestamp": 1764425828000,
+        "participants": [
+            {
+                "user_id": 92340056,
+                "username": "Aparecida_73",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 206610,
+                "results": {
+                    "rating_before": 1515.986,
+                    "reputation_before": 84.158,
+                    "rating_change": 12.247,
+                    "reputation_change": 4.908
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 75528,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66952,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 64130,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1528.233,
+                "new_rep": 89.066
+            },
+            {
+                "user_id": 41427103,
+                "username": "Mustofa_43",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 210092,
+                "results": {
+                    "rating_before": 1409.16,
+                    "reputation_before": 72.216,
+                    "rating_change": 3.456,
+                    "reputation_change": 0.609
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73415,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 68067,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 68610,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1412.616,
+                "new_rep": 72.825
+            },
+            {
+                "user_id": 48284767,
+                "username": "Maynard_66",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 211395,
+                "results": {
+                    "rating_before": 1455.967,
+                    "reputation_before": 83.412,
+                    "rating_change": -15.703,
+                    "reputation_change": 7.102
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 72204,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 68405,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 70786,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1440.264,
+                "new_rep": 90.514
+            }
+        ]
+    }
+]

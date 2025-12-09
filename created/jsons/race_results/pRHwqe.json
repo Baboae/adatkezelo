@@ -1,0 +1,227 @@
+[
+    {
+        "race_id": "pRHwqe",
+        "track": "Silverstone Circuit",
+        "layout": "International",
+        "car_class": "GTR 3",
+        "timestamp": 1764026255000,
+        "participants": [
+            {
+                "user_id": 15546675,
+                "username": "Carrasco_ChicaneKing",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 449045,
+                "results": {
+                    "rating_before": 1470.155,
+                    "reputation_before": 73.902,
+                    "rating_change": 17.036,
+                    "reputation_change": -1.9409999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 68500,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 66270,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 63700,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 63779,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 64259,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 61422,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 61115,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1487.191,
+                "new_rep": 71.961
+            },
+            {
+                "user_id": 67791054,
+                "username": "Wojtunik_49",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 1,
+                "total_time": 452048,
+                "results": {
+                    "rating_before": 1485.027,
+                    "reputation_before": 72.664,
+                    "rating_change": 0.01,
+                    "reputation_change": 1.3529999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 71123,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61883,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 62082,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 61690,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 65311,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 65393,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 64566,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1485.037,
+                "new_rep": 74.017
+            },
+            {
+                "user_id": 36261369,
+                "username": "József_a_kuposzto",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 7,
+                "total_time": 454699,
+                "results": {
+                    "rating_before": 1500.343,
+                    "reputation_before": 74.081,
+                    "rating_change": -17.046,
+                    "reputation_change": -0.10999999999999988
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 73094,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 61466,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 62789,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 62278,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 65225,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 66403,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 63444,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1483.297,
+                "new_rep": 73.971
+            }
+        ]
+    }
+]

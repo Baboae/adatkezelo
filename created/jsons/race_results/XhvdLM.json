@@ -1,0 +1,132 @@
+[
+    {
+        "race_id": "XhvdLM",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "DTM 1992",
+        "timestamp": 1764510260000,
+        "participants": [
+            {
+                "user_id": 92656353,
+                "username": "Echeverría_25",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 1,
+                "total_time": 386207,
+                "results": {
+                    "rating_before": 1553.047,
+                    "reputation_before": 81.25,
+                    "rating_change": 15.849,
+                    "reputation_change": -0.779
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135821,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 126448,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 123938,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1568.896,
+                "new_rep": 80.471
+            },
+            {
+                "user_id": 48284767,
+                "username": "Maynard_66",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 0,
+                "total_time": 397076,
+                "results": {
+                    "rating_before": 1477.409,
+                    "reputation_before": 89.35,
+                    "rating_change": 4.861,
+                    "reputation_change": 6.825
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 143643,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 127539,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 125894,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1482.27,
+                "new_rep": 96.175
+            },
+            {
+                "user_id": 13964747,
+                "username": "Oliver_61",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 1,
+                "total_time": 399994,
+                "results": {
+                    "rating_before": 1621.846,
+                    "reputation_before": 91.456,
+                    "rating_change": -20.71,
+                    "reputation_change": 0.016
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 135540,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 130548,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 133906,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1601.136,
+                "new_rep": 91.472
+            }
+        ]
+    }
+]

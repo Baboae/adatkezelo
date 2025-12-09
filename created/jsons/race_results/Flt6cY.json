@@ -1,0 +1,193 @@
+[
+    {
+        "race_id": "Flt6cY",
+        "track": "Silverstone Circuit",
+        "layout": "Grand Prix",
+        "car_class": "Hyper Car",
+        "timestamp": 1764264616000,
+        "participants": [
+            {
+                "user_id": 63574474,
+                "username": "Williams_45",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 639648,
+                "results": {
+                    "rating_before": 1530.716,
+                    "reputation_before": 77.586,
+                    "rating_change": 13.911,
+                    "reputation_change": 5.27
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 115061,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103079,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 100839,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 110680,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 108387,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 101602,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1544.627,
+                "new_rep": 82.856
+            },
+            {
+                "user_id": 48872250,
+                "username": "Maldonado_63",
+                "start_position": 3,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 643460,
+                "results": {
+                    "rating_before": 1522.427,
+                    "reputation_before": 82.941,
+                    "rating_change": -1.526,
+                    "reputation_change": 0.887
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118353,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 110266,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110142,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 101521,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 100335,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 102843,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1520.901,
+                "new_rep": 83.828
+            },
+            {
+                "user_id": 10090188,
+                "username": "Habibi_78",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 654698,
+                "results": {
+                    "rating_before": 1446.672,
+                    "reputation_before": 73.657,
+                    "rating_change": -12.385,
+                    "reputation_change": 5.9639999999999995
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 116823,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109638,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 106661,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 105915,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 105963,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 109698,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1434.287,
+                "new_rep": 79.621
+            }
+        ]
+    }
+]

@@ -4,7 +4,6 @@ import subprocess
 import random
 from pathlib import Path
 from typing import List, Dict
-from datetime import datetime, timedelta
 
 from data.basic.model_classes import Player, Race_Data, RaceResult
 from functions.unix_to_datetime import unix_to_dt
@@ -13,11 +12,11 @@ from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
 from generators.race_result_generator import generate_laps, _get_best_lap_ms
 
-from functions.json_io import save_json
-from functions.csv_io import save_csv
-from functions.xlsx_io import save_xlsx
+from data.basic.handler.json_handler import save_json
+from data.basic.handler.csv_handler import save_csv
+from data.basic.handler.xlsx_handler import save_xlsx
 from functions.clear_results import clear_results
-from functions.sql_handler import SQLHandler
+from data.basic.handler.sql_handler import SQLHandler
 
 import json
 
@@ -41,7 +40,7 @@ def main():
 
     # generálandó játékosok száma
     PLAYERS: List[Player] = generate_players(32)
-    # generálandó versenyek száma
+    # generálandó versenyek száma,
     RACES: List[Race_Data] = generate_race_data(231)
     race_results: List[RaceResult] = []
 
