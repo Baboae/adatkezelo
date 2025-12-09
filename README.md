@@ -38,24 +38,43 @@ Python alapú adatkezelő rendszer szimulált simracing versenyek adataival. Gen
 
 adatkezelo/
 ├── main.py # Fő futtató script
+
 ├── generators/ # Faker generátorok
+
 │ ├── player_generator.py
+
 │ ├── race_data_generator.py
+
 │ └── race_result_generator.py
+
 ├── functions/ # I/O handler-ek
+
 │ ├── json_io.py
+
 │ ├── csv_io.py
+
 │ ├── xlsx_io.py # Speciális színezés
+
 │ ├── sql_handler.py # Oracle kapcsolat
+
 │ └── clear_results.py
+
 ├── data/basic/ # Adatmodellek
+
 │ └── model_classes.py
+
 ├── dashboard/ # Streamlit app
+
 │ └── app.py
+
 ├── data/raw/ # Referencia adatok (pályák, autók)
+
 ├── created/ # Kimeneti fájlok
+
 │ ├── jsons/, csvs/, xlsxs/
+
 │ └── race_results/
+
 └── requirements.txt
 
 
