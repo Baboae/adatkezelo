@@ -1,0 +1,133 @@
+[
+    {
+        "race_id": "aKbQ2N",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764361962000,
+        "participants": [
+            {
+                "user_id": 76048065,
+                "username": "Gavin_99",
+                "start_position": 2,
+                "finish_position": 1,
+                "incident_points": 0,
+                "total_time": 329012,
+                "results": {
+                    "rating_before": 1523.006,
+                    "reputation_before": 87.687,
+                    "rating_change": 14.724,
+                    "reputation_change": 5.485
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 119977,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 103283,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 105752,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1537.73,
+                "new_rep": 93.172
+            },
+            {
+                "user_id": 91727774,
+                "username": "Manne_44",
+                "start_position": 1,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 333730,
+                "results": {
+                    "rating_before": 1474.162,
+                    "reputation_before": 72.198,
+                    "rating_change": 2.079,
+                    "reputation_change": -1.076
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 118795,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 105061,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 109874,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1476.241,
+                "new_rep": 71.122
+            },
+            {
+                "user_id": 32539996,
+                "username": "Juan_78",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 0,
+                "total_time": 344360,
+                "results": {
+                    "rating_before": 1516.121,
+                    "reputation_before": 76.168,
+                    "rating_change": -16.803,
+                    "reputation_change": 5.889
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 123026,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 113082,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 108252,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1499.318,
+                "new_rep": 82.057
+            }
+        ]
+    }
+]

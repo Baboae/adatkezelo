@@ -1,3 +1,5 @@
+#/main.py:
+
 import subprocess
 import random
 from pathlib import Path
@@ -5,8 +7,8 @@ from typing import List, Dict
 from datetime import datetime, timedelta
 
 from data.basic.model_classes import Player, Race_Data, RaceResult
-from functions.unix_to_datetime import unix_to_datetime
-from functions.unix_to_ts import unix_to_timestamp
+from functions.unix_to_datetime import unix_to_dt
+from functions.unix_to_timestamp import unix_to_ts
 from generators.player_generator import generate_players
 from generators.race_data_generator import generate_race_data
 from generators.race_result_generator import generate_laps, _get_best_lap_ms
@@ -37,8 +39,10 @@ def main():
     clear_results()
     Path("race_results").mkdir(parents=True, exist_ok=True)
 
+    # generálandó játékosok száma
     PLAYERS: List[Player] = generate_players(32)
-    RACES: List[Race_Data] = generate_race_data(100)
+    # generálandó versenyek száma
+    RACES: List[Race_Data] = generate_race_data(231)
     race_results: List[RaceResult] = []
 
     # játékosok utolsó elérhetősége
@@ -60,7 +64,8 @@ def main():
         num_participants = min(3, len(available))
         participants = random.sample(available, num_participants)
 
-        rr: RaceResult = generate_laps(rd, participants, min_laps=3, max_laps=10)
+        # generálandó minimum, maximum körök száma
+        rr: RaceResult = generate_laps(rd, participants, min_laps=3, max_laps=15)
         race_results.append(rr)
 
         # frissítjük a játékosok elérhetőségét
@@ -76,7 +81,7 @@ def main():
             "track": rr.track,
             "layout": rr.layout,
             "car_class": rr.car_class,
-            "timestamp": unix_to_datetime(rr.timestamp)
+            "timestamp": unix_to_dt(rr.timestamp)
         }]
         participants_rows = []
         for p in rr.participants:
@@ -87,7 +92,7 @@ def main():
                 "start_position": p.start_position,
                 "finish_position": p.finish_position,
                 "incident_points": p.incident_points,
-                "total_time": unix_to_timestamp(p.total_time),
+                "total_time": unix_to_ts(p.total_time),
                 "rating_before": p.results["rating_before"],
                 "rating_change": p.results["rating_change"],
                 "reputation_before": p.results["reputation_before"],
@@ -102,7 +107,7 @@ def main():
                     "race_id": rr.race_id,
                     "user_id": p.user_id,
                     "lap": l.lap,
-                    "time": unix_to_timestamp(l.time),
+                    "time": unix_to_ts(l.time),
                     "position": l.position,
                     "valid": l.valid,
                     "incidents": ", ".join(l.incidents) if l.incidents else ""

@@ -1,0 +1,226 @@
+[
+    {
+        "race_id": "0iGqnX",
+        "track": "Nurburgring Nordschleife",
+        "layout": "24h",
+        "car_class": "DTM 1992",
+        "timestamp": 1764012656000,
+        "participants": [
+            {
+                "user_id": 91727774,
+                "username": "Manne_44",
+                "start_position": 3,
+                "finish_position": 1,
+                "incident_points": 7,
+                "total_time": 3755337,
+                "results": {
+                    "rating_before": 1484.0,
+                    "reputation_before": 74.218,
+                    "rating_change": 17.103,
+                    "reputation_change": -1.895
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 604555,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 522934,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 556413,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 535393,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 508580,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 510998,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 516464,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1501.103,
+                "new_rep": 72.323
+            },
+            {
+                "user_id": 76048065,
+                "username": "Gavin_99",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 5,
+                "total_time": 3799502,
+                "results": {
+                    "rating_before": 1516.0,
+                    "reputation_before": 74.862,
+                    "rating_change": -1.103,
+                    "reputation_change": -1.207
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 608339,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 2,
+                        "time": 530992,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 535332,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 522340,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 507010,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 558988,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 7,
+                        "time": 536501,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1514.897,
+                "new_rep": 73.655
+            },
+            {
+                "user_id": 85055628,
+                "username": "Gareth_49",
+                "start_position": 1,
+                "finish_position": 3,
+                "incident_points": 3,
+                "total_time": 3800432,
+                "results": {
+                    "rating_before": 1500,
+                    "reputation_before": 75,
+                    "rating_change": -16.0,
+                    "reputation_change": 0.16099999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 570077,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 500609,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 530866,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 557773,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 549430,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 531675,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 7,
+                        "time": 560002,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1484.0,
+                "new_rep": 75.161
+            }
+        ]
+    }
+]

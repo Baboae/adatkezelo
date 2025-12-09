@@ -1,0 +1,206 @@
+[
+    {
+        "race_id": "O6uBzl",
+        "track": "Monza Circuit",
+        "layout": "Grand Prix",
+        "car_class": "GTR 3",
+        "timestamp": 1764375291000,
+        "participants": [
+            {
+                "user_id": 47038429,
+                "username": "Zsolt_94",
+                "start_position": 1,
+                "finish_position": 1,
+                "incident_points": 4,
+                "total_time": 656742,
+                "results": {
+                    "rating_before": 1468.878,
+                    "reputation_before": 68.74,
+                    "rating_change": 16.405,
+                    "reputation_change": 0.706
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 115421,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107707,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit",
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 3,
+                        "time": 108928,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 4,
+                        "time": 105062,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 112467,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 107157,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    }
+                ],
+                "new_rating": 1485.283,
+                "new_rep": 69.446
+            },
+            {
+                "user_id": 17481407,
+                "username": "Nuñez_56",
+                "start_position": 2,
+                "finish_position": 2,
+                "incident_points": 3,
+                "total_time": 657102,
+                "results": {
+                    "rating_before": 1525.397,
+                    "reputation_before": 90.58,
+                    "rating_change": -3.427,
+                    "reputation_change": -0.025999999999999968
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 114695,
+                        "valid": true,
+                        "position": 1,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 109966,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 106775,
+                        "valid": false,
+                        "position": 1,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 112744,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 109688,
+                        "valid": true,
+                        "position": 2,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 6,
+                        "time": 103234,
+                        "valid": false,
+                        "position": 2,
+                        "incidents": [
+                            "Track Limit",
+                            "Track Limit"
+                        ]
+                    }
+                ],
+                "new_rating": 1521.97,
+                "new_rep": 90.554
+            },
+            {
+                "user_id": 63947629,
+                "username": "Dirk_44",
+                "start_position": 3,
+                "finish_position": 3,
+                "incident_points": 10,
+                "total_time": 676690,
+                "results": {
+                    "rating_before": 1430.283,
+                    "reputation_before": 79.88,
+                    "rating_change": -12.978,
+                    "reputation_change": -2.7439999999999998
+                },
+                "laps": [
+                    {
+                        "lap": 1,
+                        "time": 125007,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 2,
+                        "time": 107736,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 3,
+                        "time": 110258,
+                        "valid": false,
+                        "position": 3,
+                        "incidents": [
+                            "Track Limit"
+                        ]
+                    },
+                    {
+                        "lap": 4,
+                        "time": 113099,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": []
+                    },
+                    {
+                        "lap": 5,
+                        "time": 113937,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact"
+                        ]
+                    },
+                    {
+                        "lap": 6,
+                        "time": 106653,
+                        "valid": true,
+                        "position": 3,
+                        "incidents": [
+                            "Contact",
+                            "Contact"
+                        ]
+                    }
+                ],
+                "new_rating": 1417.305,
+                "new_rep": 77.136
+            }
+        ]
+    }
+]

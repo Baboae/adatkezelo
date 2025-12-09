@@ -1,3 +1,5 @@
+#/dashboard/app.py:
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
@@ -5,8 +7,8 @@ import json
 import logging
 import uuid
 
-from functions.unix_to_ts import unix_to_timestamp
-from functions.unix_to_datetime import unix_to_datetime
+from functions.unix_to_timestamp import unix_to_ts
+from functions.unix_to_datetime import unix_to_dt
 
 # Optional Plotly
 use_plotly = True
@@ -62,7 +64,7 @@ def load_participations():
                 for p in participants:
                     row = {
                         "race_id": race_id,
-                        "Date": unix_to_datetime(date),
+                        "Date": unix_to_dt(date),
                         "timestamp": date,
                         "race_order": order,
                         "track": track,
@@ -259,7 +261,7 @@ with col2:
                         for participant in race_data.get("participants", []):
                             if participant.get("username") == username:
                                 for lap in participant.get("laps", []):
-                                    lap_time = unix_to_timestamp(lap.get("time", 0))
+                                    lap_time = unix_to_ts(lap.get("time", 0))
                                     laps_data.append({
                                         "lap": lap.get("lap", 0),
                                         "time": lap_time,
